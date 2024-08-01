@@ -62,4 +62,9 @@ details[open] {
   #logo {
     padding-bottom: 15px;
   }
+
+  #menu > a, #menu > details {
+    display: block;
+    font-size: 1rem;
+  }
 }
