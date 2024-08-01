@@ -48,7 +48,7 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
   </div>
 </div>
 
-<!-- <div class="pure-g">
+<div class="pure-g">
   <div class="pure-u-md-1-2">
     &nbsp;
   </div>
@@ -68,7 +68,7 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
     </p>
 
   </div>
-</div> -->
+</div>
 
 <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment.min.js"></script>
