@@ -1,0 +1,65 @@
+#header {
+  padding-bottom: 15px;
+}
+
+#header a {
+  text-decoration: none;
+}
+
+#logo {
+  font-family: Control-Cursive;
+  font-weight: 900;
+  line-height: 1;
+  font-size: 48px;
+}
+
+.dnd {
+  font-family: Control-Cursive;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.menu-container {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+#menu > a, #menu > details {
+  display: inline-block;
+  margin-right: 1rem;
+  vertical-align: top;
+  line-height: 2;
+  font-size: 1.2rem;
+  color: $foreground;
+}
+
+#menu details a {
+  display: block;
+}
+
+#menu a {
+  text-decoration: none;
+}
+
+#menu a.selected, #menu summary:hover {
+  font-style: italic;
+}
+
+details {
+  max-width: 140px;
+  max-height: 3rem;
+  overflow: hidden;
+  transition: all 200ms ease-out;
+}
+
+details[open] {
+  max-width: 250px;
+  max-height: 12rem;
+}
+
+@include for-md-down {
+  #logo {
+    padding-bottom: 15px;
+  }
+}

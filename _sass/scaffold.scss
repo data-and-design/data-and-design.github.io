@@ -1,0 +1,84 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+@media (any-pointer: fine) {
+  // only if the device is not a touchscreen
+  *:hover, *:active {
+    box-shadow: inset 0 0 0 1px $foreground;
+  }
+}
+
+html, body {
+  margin:0;
+  color: $foreground;
+  font-size: 21px;
+  font-weight: 500;
+  background-color: $background;
+  background-image:  radial-gradient(rgba(0,119,178, 0.2) 1px, transparent 1px), radial-gradient(rgba(0,119,178, 0.2) 1px, $background 1px);
+  background-size: 40px 40px;
+  background-position: 0 0,20px 20px;
+
+}
+
+html, button, input, select, textarea {
+  font-family: $body-font;
+}
+
+body {
+  padding: 15px 30px;
+  padding-bottom: 30px;
+}
+
+@include for-md-down {
+  body {
+    padding: 15px;
+  }
+}
+
+#container {
+  max-width: 120em;
+  margin: 0 auto;
+}
+
+.monotone {
+  background: $foreground;
+  display: inline-block;
+}
+
+.monotone img {
+  mix-blend-mode: screen;
+  -webkit-filter: grayscale(100%) contrast(200%);
+  filter: grayscale(100%) contrast(200%);
+  opacity: 1;
+}
+
+a {
+  text-decoration: underline;
+  color: inherit;
+}
+
+a:hover {
+  font-style: italic;
+}
+
+h1 {
+  font-style: italic;
+}
+
+.box {
+  border: 2px solid $foreground;
+  padding: 1em;
+}
+
+li {
+  margin-bottom: 1rem;
+}
+
+::selection {
+  background: $foreground;
+  color: $background;
+}

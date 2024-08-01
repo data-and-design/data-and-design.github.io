@@ -1,0 +1,41 @@
+<div id="cursor">
+  <div id="cursor-outer"></div>
+  <div id="cursor-inner"></div>
+</div>
+
+<script src="https://unpkg.com/animated-cursor@1.1.1/dist/index.umd.js"></script>
+
+<script>
+  const fgColor = "#204296";
+</script>
+
+<script>
+  const ac = window.animatedCursor({
+    color: fgColor,
+    outerAlpha: 1,
+    trailingSpeed: 1,
+    hoverScale: { inner: 0.75, outer: 2 },
+    clickables: ['details', 'summary', 'a[href]', 'input[type="text"]', 'input[type="email"]', 'input[type="number"]', 'input[type="submit"]', 'input[type="image"]', 'label[for]', 'select', 'textarea', 'button', '.link']
+  })
+
+  document.getElementById("cursor").style.mixBlendMode = "difference";
+  document.getElementById("cursor-inner").style.filter = "invert(100%)";
+  document.getElementById("cursor-outer").style.filter = "invert(100%)";
+
+  ac.init()
+</script>
+
+<script>
+  const details = document.querySelectorAll('details');
+  details.forEach((targetDetail) => {
+    targetDetail.addEventListener('toggle', () => {
+      if (targetDetail.open) {
+        details.forEach((detail) => {
+          if (detail !== targetDetail) {
+            detail.removeAttribute('open');
+          }
+        });
+      }
+    });
+  });
+</script>

@@ -1,0 +1,16 @@
+- key: access
+  name: Accessible Data Analysis
+  desc: >
+    We partner with blind collaborators and study participants to co-design novel interfaces for non-visual data exploration.
+- key: visualization
+  name: Interactive Visualization Tools
+  desc: >
+    We design abstractions and interfaces that help users rapidly conduct data exploration using a broad set of spatial and temporal visualization techniques.
+- key: refusal
+  name: Data Refusal and Design
+  desc: >
+    We develop software and frameworks to support designers and activists in refusing large-scale data collection by powerful actors.
+- key: embodiment
+  name: Embodiment and Visibility
+  desc: >
+    We explore how the body works as a contested site of control, where people act on and are acted upon by data.

@@ -1,0 +1,45 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+$baseurl: "{{ site.baseurl }}";
+
+$body-font: 'Control-Upright', sans-serif;
+$heading-font: 'Control-Italic', sans-serif;
+$border-radius: 10px;
+
+$foreground: #204296;
+$background: #E3D9C9;
+
+@font-face {
+  font-family: 'Control-Cursive';
+  src: url('/assets/ControlCursive-VF-Web.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Control-Italic';
+  src: url('/assets/ControlItalic-VF-Web.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Control-Upright';
+  src: url('/assets/ControlUpright-VF-Web.woff2') format('woff2');
+}
+
+
+@mixin for-md-down {
+  @media screen and (max-width: 47.9em) { @content }
+}
+
+@mixin for-md-up {
+  @media screen and (min-width: 48em) { @content }
+}
+
+@import 'pure.scss';
+@import 'scaffold.scss';
+@import 'header.scss';
+@import 'about.scss';
+// @import 'papers.scss';
+// @import 'news.scss';
+// @import 'research_themes.scss';

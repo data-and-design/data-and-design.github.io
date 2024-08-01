@@ -1,0 +1,13 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width" />
+
+<link rel="stylesheet" href="{{ '/main.css' | relative_url }}" type="text/css" />
+
+{% seo %}
+
+{% unless page.image %}
+  {% if page.slug %}
+    <meta property="og:image" content="{{site.url}}/imgs/thumbs/{{page.slug}}.png" />
+    <meta property="twitter:image" content="{{site.url}}/imgs/thumbs/{{page.slug}}.png" />
+  {% endif %}
+{% endunless %}

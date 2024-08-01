@@ -1,0 +1,33 @@
+.people-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.person {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 175px;
+  height: 175px;
+  margin-bottom: 1rem;
+}
+.person .person-name {
+  margin-top: 0.2rem;
+}
+.person .person-title {
+  margin-top: 0.2rem;
+  font-size: 0.6rem;
+}
+.portrait {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+}
+.portrait img {
+  width: 100px;
+  height: 100px;
+}
+
+.mission-item {
+  font-weight: 900;
+  font-style: italic;
+}

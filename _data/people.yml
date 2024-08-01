@@ -1,0 +1,73 @@
+jzong:
+  name: Jonathan Zong
+  url: http://jonathanzong.com/
+  title: Founder, Assistant Professor
+
+# External
+arvindsatya:
+  name: Arvind Satyanarayan
+  url: http://arvindsatya.com
+  title: MIT
+  collaborator: true
+  external: true
+
+natematias:
+  name: J. Nathan Matias
+  url: https://natematias.com/
+  external: true
+
+lundgard:
+  name: Alan Lundgard
+  url: https://alanlundgard.com/
+  external: true
+
+crystall:
+  name: Crystal Lee
+  url: https://crystaljjlee.com/
+  external: true
+
+dwootton:
+  name: Dylan Wootton
+  url: https://dylanwootton.com
+  external: true
+
+jopo:
+  name: Josh Pollock
+  url: https://joshmpollock.com/
+  external: true
+
+jonsh:
+  name: Shuli Jones
+  external: true
+
+mzc219:
+  name: Katie Chen
+  url: https://www.k80chen.com/
+  title: MIT
+  collaborator: true
+  external: true
+
+rneogy:
+  name: Rupayan Neogy
+  url: http://rneogy.github.io
+  external: true
+
+ipedraza:
+  name: Isabella Pedraza Pineros
+  title: MIT
+  collaborator: true
+  external: true
+
+mattblanco:
+  name: Matt Blanco
+  external: true
+
+jwjang:
+  name: JiWoong (Joon) Jang
+  external: true
+
+dhajas:
+  name: Daniel Hajas
+  title: Global Disability Innovation Hub
+  collaborator: true
+  external: true

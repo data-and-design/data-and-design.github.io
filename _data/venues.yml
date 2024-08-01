@@ -1,0 +1,54 @@
+vis-short:
+  short: IEEE VIS
+  full: IEEE Visualization Conference (VIS)
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+vis-full:
+  short: IEEE VIS
+  full: IEEE Transactions on Visualization and Computer Graphics
+  bibtex:
+    type: article
+    venue: journal
+vis-posters:
+  short: IEEE VIS Posters
+  full: IEEE VIS Posters
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+eurovis:
+  short: EuroVis
+  full: Computer Graphics Forum
+  bibtex:
+    type: article
+    venue: journal
+chi:
+  short: ACM CHI
+  full: Proceedings of the CHI Conference on Human Factors in Computing Systems
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+cscw-demo:
+  short: CSCW Demos
+  full: ACM CSCW Demos
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+plateau:
+  short: PLATEAU
+  full: PLATEAU Workshop at the Intersection of PL and HCI
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+sms:
+  short: Social Media + Society
+  full: Social Media + Society
+  bibtex:
+    type: article
+    venue: journal
+somatosphere:
+  short: Somatosphere
+  full: Somatosphere
+  bibtex:
+    type: article
+    venue: journal
