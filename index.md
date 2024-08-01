@@ -74,6 +74,56 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.45/moment-timezone-with-data.min.js"></script>
 <script>
+  function wmo_code(weather_code) {
+    switch (weather_code) {
+      case 0:
+        return 'clear sky';
+      case 1:
+        return 'mostly clear';
+      case 2:
+        return 'partly cloudy';
+      case 3:
+        return 'overcast';
+      case 45:
+      case 48:
+        return 'foggy';
+      case 51:
+      case 56:
+        return 'light drizzle';
+      case 53:
+        return 'moderate drizzle';
+      case 55:
+      case 57:
+        return 'dense drizzle';
+      case 61:
+      case 66:
+      case 80:
+        return 'light rain';
+      case 63:
+      case 81:
+        return 'moderate rain';
+      case 65:
+      case 67:
+      case 82:
+        return 'heavy rain';
+      case 71:
+      case 85:
+        return 'light snow';
+      case 73:
+        return 'moderate snow';
+      case 75:
+      case 86:
+        return 'heavy snow';
+      case 77:
+        return 'snow grains';
+      case 95:
+      case 96:
+      case 99:
+        return 'thunderstorm';
+      default:
+        return '';
+    }
+  }
   $(document).ready(function() {
     setTime();
 
@@ -82,17 +132,18 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
     var now = new Date();
 
     if (lastWeatherString == null || now - lastWeather > 60*60*1000) {
-      const weather_api = "https://api.open-meteo.com/v1/forecast?latitude=40&longitude=-105.27&current=temperature_2m&temperature_unit=fahrenheit";
+      const weather_api = "https://api.open-meteo.com/v1/forecast?latitude=40&longitude=-105.27&current=temperature_2m,weather_code&temperature_unit=fahrenheit";
       $.get(weather_api, function(data) {
-        var weather = data.current.temperature_2m;
+        console.log(data);
+        var weather = `${data.current.temperature_2m}°F ${wmo_code(data.current.weather_code)}`;
         localStorage.setItem("weather", weather);
         localStorage.setItem("lastWeather", (new Date()).toString());
-        $(".index-meta__weather").html(weather + " °F");
+        $(".index-meta__weather").html(weather);
       });
     }
     else {
       var weather = localStorage.getItem("weather");
-      $(".index-meta__weather").html(weather + " °F");
+      $(".index-meta__weather").html(weather);
     }
   });
 
