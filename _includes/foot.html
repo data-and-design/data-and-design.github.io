@@ -6,12 +6,12 @@
 <script src="https://unpkg.com/animated-cursor@1.1.1/dist/index.umd.js"></script>
 
 <script>
-  const fgColor = "#204296";
+  const fgColor = "#263096";
 </script>
 
 <script>
   const ac = window.animatedCursor({
-    color: fgColor,
+    color: "#c0ff45",
     outerAlpha: 1,
     trailingSpeed: 1,
     hoverScale: { inner: 0.75, outer: 2 },
@@ -19,8 +19,8 @@
   })
 
   document.getElementById("cursor").style.mixBlendMode = "difference";
-  document.getElementById("cursor-inner").style.filter = "invert(100%)";
-  document.getElementById("cursor-outer").style.filter = "invert(100%)";
+  // document.getElementById("cursor-inner").style.filter = "invert(100%)";
+  // document.getElementById("cursor-outer").style.filter = "invert(100%)";
 
   ac.init()
 </script>
