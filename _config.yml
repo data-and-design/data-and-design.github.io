@@ -34,6 +34,8 @@ collections:
   pubs:
     output: true
     permalink: /publications/:slug/index.html
+  posts:
+    permalink: /blog/:year/:month/:day/:slug/
 
 defaults:
   - scope:

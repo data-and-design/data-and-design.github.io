@@ -3,6 +3,12 @@ html {
 }
 *, *:before, *:after {
   box-sizing: inherit;
+  -webkit-tap-highlight-color: transparent;
+}
+
+*:focus {
+  outline: none !important;
+  box-shadow: inset 0 0 0 1px $foreground;
 }
 
 @media (any-pointer: fine) {
@@ -50,10 +56,12 @@ body {
 }
 
 .monotone img {
+  display: block;
   mix-blend-mode: screen;
   -webkit-filter: grayscale(100%) contrast(200%);
   filter: grayscale(100%) contrast(200%);
   opacity: 1;
+  border: 1px solid $foreground;
 }
 
 a {
@@ -80,5 +88,5 @@ li {
 
 ::selection {
   background: $foreground;
-  color: $background;
+  color: $accent;
 }

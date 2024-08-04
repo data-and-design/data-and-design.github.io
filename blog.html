@@ -1,0 +1,18 @@
+---
+layout: page
+blog: true
+---
+
+<h1>Blog posts</h1>
+
+{% for post in site.posts %}
+  <article class="post">
+    <div class="pure-g">
+      <div class="pure-u-1-5">
+        {{ post.date | date: "%b %-d, %Y" }}
+      </div>
+      <div class="pure-u-4-5">
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </div>
+  </article>
+{% endfor %}
