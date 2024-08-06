@@ -12,8 +12,14 @@
   line-height: 1;
   font-size: 48px;
   user-select: none;
+  font-style: normal;
 
   display: inline-block;
+
+  @include for-md-down {
+    font-size: 36px;
+    padding-bottom: 15px;
+  }
 }
 
 .dnd {
@@ -35,10 +41,16 @@
   line-height: 2;
   font-size: 1.2rem;
   color: $foreground;
+
+  @include for-md-down {
+    display: block;
+    font-size: 0.8rem;
+  }
 }
 
 #menu details a {
   display: block;
+  margin-left: 1em;
 }
 
 #menu a {
@@ -61,8 +73,12 @@ details[open] {
   max-height: 12rem;
 }
 
-@include for-md-down {
-  #logo {
-    padding-bottom: 15px;
+@media screen and (max-width: 1237px) {
+  #header {
+    padding-bottom: 1rem;
+  }
+
+  #menu > a, #menu > details {
+    display: block;
   }
 }

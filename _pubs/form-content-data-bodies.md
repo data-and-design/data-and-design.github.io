@@ -7,6 +7,7 @@ authors:
   - name: Beth Semel
     affiliation: MIT Anthropology
     equal: true
+    url: https://bethmsemel.com/
 venue: somatosphere
 year: 2021
 date: 2021-02-09

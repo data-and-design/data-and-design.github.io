@@ -36,10 +36,8 @@ html, button, input, select, textarea {
 body {
   padding: 15px 30px;
   padding-bottom: 30px;
-}
 
-@include for-md-down {
-  body {
+  @include for-md-down {
     padding: 15px;
   }
 }

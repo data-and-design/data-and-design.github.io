@@ -2,7 +2,8 @@
 title: 'Lyra 2: Designing Interactive Visualizations by Demonstration'
 authors:
   - key: jzong
-  - key: dhiraj
+  - name: Dhiraj Barnwal
+    affiliation: Indian Institute of Technology Kharagpur
   - key: rneogy
   - key: arvindsatya
 venue: vis-full

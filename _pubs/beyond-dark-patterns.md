@@ -9,6 +9,7 @@ authors:
     affiliation: MIT
   - name: Daniel Jackson
     affiliation: MIT
+    url: https://people.csail.mit.edu/dnj/
 venue: chi
 year: 2024
 doi: 10.1145/3613904.3642781
