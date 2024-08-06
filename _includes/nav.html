@@ -1,16 +1,16 @@
 <nav id="menu">
-  <a {% unless page.home %}href="/"{% endunless %} {% if page.home %}class="selected"{% endif %}>Home</a>
+  <a href="/" {% if page.home %}class="selected"{% endif %}>Home</a>
   <details>
     <summary>About Us</summary>
-    <a {% unless page.about %}href="/about"{% endunless %} {% if page.about %}class="selected"{% endif %}>About</a>
-    <a {% unless page.press %}href="/press"{% endunless %} {% if page.press %}class="selected"{% endif %}>Press</a>
+    <a href="/about" {% if page.about %}class="selected"{% endif %}>About</a>
+    <a href="/press" {% if page.press %}class="selected"{% endif %}>Press</a>
   </details>
   <details>
     <summary>Our Work</summary>
-    <a {% unless page.research %}href="/research"{% endunless %} {% if page.research %}class="selected"{% endif %}>Research&nbsp;Themes</a>
-    <a {% unless page.projects %}href="/projects"{% endunless %} {% if page.projects %}class="selected"{% endif %}>Projects</a>
-    <a {% unless page.collection == 'pubs' or page.title == 'Publications' %}href="/publications"{% endunless %} {% if page.collection == 'pubs' or page.title == 'Publications' %}class="selected"{% endif %}>Publications</a>
+    <a href="/research" {% if page.research %}class="selected"{% endif %}>Research&nbsp;Themes</a>
+    <a href="/projects" {% if page.projects %}class="selected"{% endif %}>Projects</a>
+    <a href="/publications" {% if page.collection == 'pubs' or page.title == 'Publications' %}class="selected"{% endif %}>Publications</a>
   </details>
-  {% comment %} <a {% unless page.courses %}href="/courses"{% endunless %} {% if page.courses %}class="selected"{% endif %}>Courses</a> {% endcomment %}
-  <a {% unless page.blog %}href="/blog"{% endunless %} {% if page.blog %}class="selected"{% endif %}>Blog</a>
+  {% comment %} <a href="/courses" {% if page.courses %}class="selected"{% endif %}>Courses</a> {% endcomment %}
+  <a href="/blog" {% if page.blog %}class="selected"{% endif %}>Blog</a>
 </nav>

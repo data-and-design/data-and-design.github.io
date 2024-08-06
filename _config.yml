@@ -34,7 +34,7 @@ github_username: data-and-design
 collections:
   pubs:
     output: true
-    permalink: /publications/:slug/index.html
+    permalink: /publications/:slug/
   posts:
     permalink: /blog/:year/:month/:day/:slug/
 

@@ -55,10 +55,10 @@ title: About
         <div class="person">
           <div class="portrait monotone">
             <a href="{{person.url}}">
-              <img src="/imgs/people/{{person_tuple[0]}}.jpg" aria-hidden="true"/>
+              <img src="/imgs/people/{{person_tuple[0]}}.jpg" alt="{{person.name}}" />
             </a>
           </div>
-          <div class="person-name"><a href="{{person.url}}">{{person.name}}</a></div>
+          <div class="person-name" aria-hidden="true"><a href="{{person.url}}">{{person.name}}</a></div>
           <div class="person-title">{{person.title}}</div>
         </div>
         {% endunless %}
@@ -77,11 +77,11 @@ title: About
         <div class="person">
           <div class="portrait monotone">
             <a href="{{person.url}}">
-              <img src="/imgs/people/{{person_tuple[0]}}.jpg" aria-hidden="true"/>
+              <img src="/imgs/people/{{person_tuple[0]}}.jpg" alt="{{person.name}}" />
             </a>
           </div>
-          <div class="person-name"><a href="{{person.url}}">{{person.name}}</a></div>
-          <div class="person-title">{{person.title}}</div>
+          <div class="person-name" aria-hidden="true"><a href="{{person.url}}">{{person.name}}</a></div>
+          <div class="person-title">{{person.affiliation | default: person.title}}</div>
         </div>
         {% endif %}
       {% endfor %}

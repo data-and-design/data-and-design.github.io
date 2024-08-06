@@ -1,0 +1,35 @@
+<meta name="citation_title" content="{{page.title}}">
+<meta name="citation_date" content="{{page.year}}">
+{% if page.reference_url %}
+  <meta name="citation_public_url" content="{{page.reference_url}}">
+{% elsif page.doi %}
+  <meta name="citation_public_url" content="https://doi.org/{{page.doi}}">
+{% endif %}
+{% if page.pdf_url %}
+  <meta name="citation_pdf_url" content="{{page.pdf_url}}">
+{% endif %}
+{% if page.html_url %}
+  <meta name="citation_fulltext_html_url" content="{{page.html_url}}">
+{% endif %}
+{% if page.doi %}
+  <meta name="citation_doi" content="{{page.doi}}">
+{% endif %}
+{% if page.issn %}
+  <meta name="citation_issn" content="{{page.issn}}">
+{% endif %}
+{% if page.venue %}
+  {% assign venue_type = site.data.venues[page.venue].bibtex.venue %}
+  {% if venue_type == 'journal' %}
+    <meta name="citation_journal_title" content="{{site.data.venues[page.venue].full | default:page.venue}}">
+  {% elsif venue_type == 'institute' %}
+    <meta name="citation_technical_report_institution" content="{{site.data.venues[page.venue].full | default:page.venue}}">
+  {% else %}
+    <meta name="citation_inbook_title" content="{{site.data.venues[page.venue].full | default:page.venue}}">
+  {% endif %}
+{% endif %}
+
+{% for author in page.authors %}
+  {% assign person = site.data.authors[author.key] %}
+  <meta name="citation_author" content="{{author.name | default:person.name}}">
+
+{% endfor %}

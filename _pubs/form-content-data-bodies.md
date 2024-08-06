@@ -2,6 +2,7 @@
 title: 'Form, Content, Data, Bodies: Jonathan Zong and Beth Semel on Biometric Sans'
 authors:
   - key: jzong
+    affiliation: MIT
     equal: true
   - name: Beth Semel
     affiliation: MIT Anthropology

@@ -8,7 +8,7 @@ html {
 
 *:focus {
   outline: none !important;
-  box-shadow: inset 0 0 0 1px $foreground;
+  box-shadow: inset 0 0 0 3px $foreground;
 }
 
 @media (any-pointer: fine) {
@@ -27,7 +27,6 @@ html, body {
   background-image:  radial-gradient(rgba(32, 66, 150, 0.2) 1px, transparent 1px), radial-gradient(rgba(0,119,178, 0.2) 1px, $background 1px);
   background-size: 20px 20px;
   background-position: 0 0,10px 10px;
-
 }
 
 html, button, input, select, textarea {
@@ -46,7 +45,8 @@ body {
 }
 
 #container {
-  max-width: 120em;
+  max-width: 1920px;
+  height: 100%;
   margin: 0 auto;
 }
 
@@ -75,6 +75,10 @@ a:hover {
 h1 {
   font-style: italic;
 }
+h2, h3 {
+  font-size: 1.17em;
+  font-weight: 800;
+}
 
 .box {
   border: 2px solid $foreground;
@@ -93,7 +97,4 @@ li {
 .arrow-link {
   display: block;
   margin-left: 2em;
-  &::after {
-    content: ' →';
-  }
 }

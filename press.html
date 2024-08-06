@@ -1,19 +1,22 @@
 ---
 layout: page
-blog: true
-title: Blog
+press: true
+title: Press
 ---
 
-<h1>Blog posts</h1>
+<h1>In the news</h1>
 
-{% for post in site.posts %}
+{% for post in site.data.press %}
   <article class="entry">
     <div class="pure-g">
       <div class="pure-u-1-5">
-        {{ post.date | date: "%b %-d, %Y" }}
+        {{ post.year }}
       </div>
-      <div class="pure-u-4-5">
+      <div class="pure-u-3-5">
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </div>
+      <div class="pure-u-1-5">
+        {{ post.venue }}
       </div>
   </article>
 {% endfor %}

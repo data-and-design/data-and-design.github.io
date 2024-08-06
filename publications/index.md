@@ -77,7 +77,7 @@ layout: page
               {% endif %}
 
               {% for material in pub.materials %}
-                &middot; <a href="{{material.url}}">{{material.name}}</a>
+                <a href="{{material.url}}">{{material.name}}</a>
               {% endfor %}
             </p>
           </div>

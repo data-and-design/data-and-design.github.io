@@ -7,67 +7,74 @@ jzong:
 arvindsatya:
   name: Arvind Satyanarayan
   url: http://arvindsatya.com
-  title: MIT
+  affiliation: MIT
   collaborator: true
   external: true
 
 natematias:
   name: J. Nathan Matias
   url: https://natematias.com/
+  affiliation: Cornell University
   external: true
 
 lundgard:
   name: Alan Lundgard
   url: https://alanlundgard.com/
+  affiliation: MIT
   external: true
 
 crystall:
   name: Crystal Lee
   url: https://crystaljjlee.com/
+  affiliation: MIT
   external: true
 
 dwootton:
   name: Dylan Wootton
   url: https://dylanwootton.com
+  affiliation: MIT
   external: true
 
 jopo:
   name: Josh Pollock
   url: https://joshmpollock.com/
+  affiliation: MIT
   external: true
 
 jonsh:
   name: Shuli Jones
+  affiliation: MIT
   external: true
 
 mzc219:
   name: Katie Chen
   url: https://www.k80chen.com/
-  title: MIT
-  collaborator: true
+  affiliation: MIT
   external: true
 
 rneogy:
   name: Rupayan Neogy
   url: http://rneogy.github.io
+  affiliation: MIT
   external: true
 
 ipedraza:
   name: Isabella Pedraza Pineros
-  title: MIT
-  collaborator: true
+  affiliation: MIT
   external: true
 
 mattblanco:
   name: Matt Blanco
+  affiliation: Northeastern University
   external: true
 
 jwjang:
   name: JiWoong (Joon) Jang
+  affiliation: Carnegie Mellon University
   external: true
 
 dhajas:
   name: Daniel Hajas
-  title: Global Disability Innovation Hub
+  affiliation: Global Disability Innovation Hub
   collaborator: true
   external: true

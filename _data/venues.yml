@@ -29,8 +29,14 @@ chi:
     type: inproceedings
     venue: booktitle
 cscw-demo:
-  short: CSCW Demos
+  short: ACM CSCW Demos
   full: ACM CSCW Demos
+  bibtex:
+    type: inproceedings
+    venue: booktitle
+cscw-workshops:
+  short: ACM CSCW Workshops
+  full: ACM CSCW Workshops
   bibtex:
     type: inproceedings
     venue: booktitle
@@ -49,6 +55,36 @@ sms:
 somatosphere:
   short: Somatosphere
   full: Somatosphere
+  bibtex:
+    type: article
+    venue: journal
+versionspace:
+  short: Version Space
+  full: Version Space
+  bibtex:
+    type: article
+    venue: journal
+jrc:
+  short: ACM Journal on Responsible Computing
+  full: ACM Journal on Responsible Computing
+  bibtex:
+    type: article
+    venue: journal
+xrds:
+  short: ACM XRDS
+  full: ACM Crossroads (XRDS)
+  bibtex:
+    type: article
+    venue: journal
+interfacecritique:
+  short: Interface Critique
+  full: Interface Critique
+  bibtex:
+    type: article
+    venue: journal
+liminalities:
+  short: Liminalities
+  full: 'Liminalities: A Journal of Performance Studies'
   bibtex:
     type: article
     venue: journal

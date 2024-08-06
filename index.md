@@ -14,7 +14,7 @@ We are known for our work on <a href="#">accessibility in interactive data analy
 
 Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Department of Information Science</a> at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>.
 
-<a href="/about" class="arrow-link">Read more</a>
+<a href="/about" class="arrow-link">Read more <span aria-hidden="true">&rarr;</span></a>
 
   </div>
 </div>
@@ -41,20 +41,20 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
     {% for theme in site.data.research_themes %}
       <div id="theme-{{theme.key}}" class="theme" data-url="{{theme.url}}" data-people="{{theme.people}}">
         <div class="content">
-          <h3>{{theme.name}}</h3>
+          <h2>{{theme.name}}</h2>
           {{theme.desc | markdownify}}
         </div>
       </div>
     {% endfor %}
 
     <p>
-        <a href="/research" class="arrow-link">Read more</a>
+        <a href="/research" class="arrow-link">Read more <span aria-hidden="true">&rarr;</span></a>
     </p>
     <p>
-        <a href="/projects" class="arrow-link">See projects</a>
+        <a href="/projects" class="arrow-link">See projects <span aria-hidden="true">&rarr;</span></a>
     </p>
     <p>
-        <a href="/publications" class="arrow-link">See all publications</a>
+        <a href="/publications" class="arrow-link">See all publications <span aria-hidden="true">&rarr;</span></a>
     </p>
 
   </div>
@@ -70,13 +70,8 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
     <p>
       <a href="https://twitter.com/cudatadesign">Twitter</a>
     </p>
-
     <p>
-      Sign up for occasional email updates about our work.
-    </p>
-
-    <p>
-      substack signup here
+      <a href="https://github.com/data-and-design/">Github</a>
     </p>
 
   </div>

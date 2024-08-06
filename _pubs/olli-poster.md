@@ -1,5 +1,5 @@
 ---
-title: "Olli: An Extensible Visualization Library for Screen Reader Accessibility"
+title: 'Olli: An Extensible Visualization Library for Screen Reader Accessibility'
 authors:
   - key: mattblanco
   - key: jzong
@@ -8,11 +8,6 @@ type: poster
 venue: vis-posters
 year: 2022
 date: 2022-10-19
-tags:
-  - visualization design
-  - interaction design
-  - interface
-  - accessibility
 materials:
   - name: Poster
     url: /pubs/olli/poster.pdf
@@ -23,7 +18,6 @@ materials:
   - name: Code
     url: https://github.com/mitvis/olli
     type: code
-teaser: "An example using Olli to convert an existing visualization into an accessible text structure. A) A faceted dot plot created with Vega-Lite. B) Example code using Olli's Vega-Lite Adapter. C) Output accessible HTML tree view containing text descriptions for the dot plot."
 ---
 
 Though recent research has explored the design of rich screen reader
