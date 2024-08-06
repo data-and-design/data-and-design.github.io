@@ -7,8 +7,8 @@ layout: page
   <p class="meta">{{ page.date | date: "%b %-d, %Y" }}</p>
 
   <p>
-    {% if site.data.people[page.author] %}
-      {{ site.data.people[page.author].name }}
+    {% if site.data.authors[page.author] %}
+      {{ site.data.authors[page.author].name }}
     {% else %}
       {{ page.author }}
     {% endif %}

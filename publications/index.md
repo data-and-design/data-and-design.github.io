@@ -30,7 +30,7 @@ layout: page
             <h3><a href="{{url}}">{{pub.title}}</a></h3>
             <p class="authors">
             {% for author in pub.authors %}
-              {% assign person = site.data.people[author.key] %}
+              {% assign person = site.data.authors[author.key] %}
               {% assign name = author.name | default:person.name %}
               {% if person.url %}
                 <a href="{{person.url}}">{{name}}</a>{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}

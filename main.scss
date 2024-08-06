@@ -14,20 +14,28 @@ $background: #E3D9C9;
 $accent: #E3D961;
 
 @font-face {
-  font-family: 'Control-Cursive';
-  src: url('/assets/ControlCursive-VF-Web.woff2') format('woff2');
+	font-family: 'Control-Cursive';
+	src: url('/assets/ControlCursive-VF-Web.woff2') format('woff2'),
+		 url('/assets/ControlCursive-VF-Web.woff') format('woff');
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Control-Italic';
+	src: url('/assets/ControlItalic-VF-Web.woff2') format('woff2'),
+		 url('/assets/ControlItalic-VF-Web.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
 }
 
 @font-face {
-  font-family: 'Control-Italic';
-  src: url('/assets/ControlItalic-VF-Web.woff2') format('woff2');
+	font-family: 'Control-Upright';
+	src: url('/assets/ControlUpright-VF-Web.woff2') format('woff2'),
+		 url('/assets/ControlUpright-VF-Web.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
 }
-
-@font-face {
-  font-family: 'Control-Upright';
-  src: url('/assets/ControlUpright-VF-Web.woff2') format('woff2');
-}
-
 
 @mixin for-md-down {
   @media screen and (max-width: 47.9em) { @content }

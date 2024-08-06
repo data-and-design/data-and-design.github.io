@@ -14,6 +14,8 @@ We are known for our work on <a href="#">accessibility in interactive data analy
 
 Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Department of Information Science</a> at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>.
 
+<a href="/about" class="arrow-link">Read more</a>
+
   </div>
 </div>
 
@@ -44,6 +46,16 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
         </div>
       </div>
     {% endfor %}
+
+    <p>
+        <a href="/research" class="arrow-link">Read more</a>
+    </p>
+    <p>
+        <a href="/projects" class="arrow-link">See projects</a>
+    </p>
+    <p>
+        <a href="/publications" class="arrow-link">See all publications</a>
+    </p>
 
   </div>
 </div>
@@ -199,7 +211,7 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
 
     <h2 id="people-header">People</h2>
     <div id="people" class="pure-g">
-      {% assign members = site.data.people | filter_alumni: nil | sort_people: 'Professor, Administrative', false %}
+      {% assign members = site.data.authors | filter_alumni: nil | sort_people: 'Professor, Administrative', false %}
       {% for person in members %}
         {% unless person.external %}
         <div id="{{person[0]}}" class="person pure-u-1-4">
@@ -215,7 +227,7 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
 
     <h3 id="alumni-header">Alumni</h3>
     <ul id="alumni" class="pure-g">
-      {% assign alumni = site.data.people | filter_alumni: true | sort_people: 'PhD, Postdoctoral, Scientist' %}
+      {% assign alumni = site.data.authors | filter_alumni: true | sort_people: 'PhD, Postdoctoral, Scientist' %}
       {% for person in alumni  %}
         <li id="{{person[0]}}" class="person pure-u-1-2">
           <a href="{{person[1].url}}">

@@ -2,8 +2,11 @@
 <meta name="viewport" content="width=device-width" />
 
 <link rel="stylesheet" href="{{ '/main.css' | relative_url }}" type="text/css" />
+<link rel="icon" href="{{ '/favicon.svg' | relative_url }}">
 
-{% seo %}
+{% seo title=false %}
+
+<title>{% if page.title %}{{page.title}} | {{site.title}}{% else %}{{site.title}}{% endif %}</title>
 
 {% unless page.image %}
   {% if page.slug %}

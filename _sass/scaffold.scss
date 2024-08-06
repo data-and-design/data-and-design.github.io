@@ -52,7 +52,6 @@ body {
 
 .monotone {
   background: $foreground;
-  display: inline-block;
 }
 
 .monotone img {
@@ -89,4 +88,12 @@ li {
 ::selection {
   background: $foreground;
   color: $accent;
+}
+
+.arrow-link {
+  display: block;
+  margin-left: 2em;
+  &::after {
+    content: ' →';
+  }
 }

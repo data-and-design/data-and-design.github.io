@@ -49,7 +49,7 @@ title: About
   <div class="pure-u-1 pure-u-md-1-2">
     <h2>Core Team</h2>
     <div class="people-container">
-      {% for person_tuple in site.data.people %}
+      {% for person_tuple in site.data.authors %}
         {% assign person = person_tuple[1] %}
         {% unless person.external %}
         <div class="person">
@@ -71,7 +71,7 @@ title: About
   <div class="pure-u-1 pure-u-md-1-2">
     <h2>Research Collaborators</h2>
     <div class="people-container">
-      {% for person_tuple in site.data.people %}
+      {% for person_tuple in site.data.authors %}
         {% assign person = person_tuple[1] %}
         {% if person.collaborator %}
         <div class="person">

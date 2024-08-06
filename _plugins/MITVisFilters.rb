@@ -30,7 +30,7 @@ module MITVisFilters
   end
 
   def jsonify_pub(input)
-    people = @context.registers[:site].data['people']
+    people = @context.registers[:site].data['authors']
     pub = {
       'id': input['slug'],
       'title': input['title'],

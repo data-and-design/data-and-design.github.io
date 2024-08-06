@@ -1,7 +1,7 @@
 ---
 layout: page
 research: true
-title: About
+title: Research Themes
 ---
 
 <div class="pure-g">

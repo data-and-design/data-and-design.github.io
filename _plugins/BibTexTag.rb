@@ -24,7 +24,7 @@ module Jekyll
     def render(context)
       # Site
       venues = lookup(context, 'site.data.venues')
-      people = lookup(context, 'site.data.people')
+      people = lookup(context, 'site.data.authors')
 
       # Page
       authors = lookup(context, 'page.authors')

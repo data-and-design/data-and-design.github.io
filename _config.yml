@@ -18,9 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data and Design
+title: Data & Design Group
 description: >- # this means to ignore newlines until "baseurl:"
-  We use design to understand and reimagine socio-technical systems.
+  We are an interdisciplinary research group at the
+  University of Colorado Boulder that uses design to understand and reimagine socio-technical systems.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://data-and-design.org' # the base hostname & protocol for your site, e.g. http://example.com
 logo: /imgs/logo.png
@@ -76,3 +77,5 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - CNAME
+  - README.md
