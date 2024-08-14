@@ -11,4 +11,5 @@ venue: cscw-workshops
 year: 2022
 doi: 10.1145/3500868.3561201
 pdf_url: /publications/consent-workshop.pdf
+themes: [refusal]
 ---

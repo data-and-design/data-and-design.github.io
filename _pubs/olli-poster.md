@@ -18,6 +18,7 @@ materials:
   - name: Code
     url: https://github.com/mitvis/olli
     type: code
+themes: [access]
 ---
 
 Though recent research has explored the design of rich screen reader

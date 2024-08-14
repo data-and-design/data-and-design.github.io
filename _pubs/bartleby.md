@@ -10,6 +10,7 @@ date: 2022-02-14
 doi: 10.1177/20563051221077021
 pdf_url: /publications/bartleby.pdf
 html_url: https://journals.sagepub.com/doi/10.1177/20563051221077021
+themes: [refusal]
 materials:
   - name: Code
     url: https://github.com/jonathanzong/bartleby

@@ -55,8 +55,7 @@ body {
 .monotone img {
   display: block;
   mix-blend-mode: screen;
-  -webkit-filter: grayscale(100%) contrast(200%);
-  filter: grayscale(100%) contrast(200%);
+  filter: grayscale(100%) contrast(150%);
   opacity: 1;
   border: 1px solid $foreground;
 }
@@ -72,10 +71,6 @@ a:hover {
 
 h1 {
   font-style: italic;
-}
-h2, h3 {
-  font-size: 1.17em;
-  font-weight: 800;
 }
 
 .box {
@@ -95,4 +90,8 @@ li {
 .arrow-link {
   display: block;
   margin-left: 2em;
+}
+
+.hanging-quote {
+  margin-left: -0.5em;
 }

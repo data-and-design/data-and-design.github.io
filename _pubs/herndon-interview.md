@@ -15,4 +15,5 @@ venue: versionspace
 year: 2021
 reference_url: https://www.librarystack.org/version-space-holly-herndon-in-conversation-with-tabea-nixdorff-and-jonathan-zong/
 pdf_url: /publications/herndon-interview.pdf
+themes: [embodiment]
 ---

@@ -16,12 +16,15 @@ title: Research Themes
 <div class="pure-g">
   <div class="pure-u-1 pure-u-md-1-2">
     <p>
-      The <span class="dnd">Data & Design</span> Group is an interdisciplinary research group that uses design to understand and reimagine socio-technical systems at CU Boulder and beyond. We exist to tackle challenging design problems that matter by creating impactful systems, growing scientific knowledge, and imagining a better world.
+      At the <span class="dnd">Data & Design</span> Group, we are advancing a world where people have the power to shape the design of systems that affect their social and political lives.
+    </p>
+    <p>
+      We are primarily known for pursuing this work in the domains of <a href="#">accessibility in interactive data analysis</a> and <a href="#">consent and refusal in data ethics</a>.
     </p>
   </div>
 </div>
 
-<div class="pure-g">
+<div id="themes" class="pure-g">
   <div class="pure-u-md-1-4">&nbsp;</div>
   <div class="pure-u-1 pure-u-md-1-2">
     {% for theme in site.data.research_themes %}
@@ -29,8 +32,35 @@ title: Research Themes
         <div class="content">
           <h3>{{theme.name}}</h3>
           {{theme.desc | markdownify}}
+          <h4>
+            Publications
+          </h4>
+          <ul>
+            {% assign pubYears = site.pubs | group_by:"year" | sort: "name" | reverse %}
+              {% for year in pubYears %}
+                {% assign pubs = year.items %}
+                {% for pub in pubs %}
+                  {% if pub.themes and pub.themes contains theme.key %}
+                    {% assign url = pub.external_url | default: pub.url | relative_url | replace: 'index.html', '' %}
+                    {% capture authors %}
+                      {% for author in pub.authors %}
+                        {% assign person = site.data.authors[author.key] %}
+                        {% assign name = author.name | default:person.name %}
+                        {% if person.url or author.url %}
+                          <a href="{{person.url | default: author.url}}">{{name}}</a>{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}
+                        {% else %}
+                          {{name}}{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}
+                        {% endif %}
+                      {% endfor %}
+                    {% endcapture %}
+                    <li class="pub"><a href="{{url}}">{{pub.year}}. <span class="title">{{pub.title}}</span>. {{authors | strip }}. {{site.data.venues[pub.venue].short}}. <span class="award">{{pub.award}}</span></a></li>
+                  {% endif %}
+                {% endfor %}
+              {% endfor %}
+          </ul>
         </div>
       </div>
     {% endfor %}
+
   </div>
 </div>

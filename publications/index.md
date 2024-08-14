@@ -3,32 +3,34 @@ title: Publications
 layout: page
 ---
 
-<div id="pubs" class="pure-g">
-  <div id="content" class="pure-u-1 pure-u-md-3-4">
-    <h1 class="title">Our Publications</h1>
+<div class="pure-g">
+  <div class="pure-u-md-1-12">
+  &nbsp;
+  </div>
+  <div class="pure-u-1 pure-u-md-11-12">
+    <h1>Publications</h1>
+  </div>
+</div>
 
+<div id="pubs" class="pure-g">
+  <div class="pure-u-1">
     {% assign pubYears = site.pubs | group_by:"year" | sort: "name" | reverse %}
     {% for year in pubYears %}
-      <div id="year-{{year.name}}" class="year pure-g">
-        <div class="pure-u-1-3 pure-u-md-1-5"></div>
-        <div class="pure-u-2-3 pure-u-md-4-5">
-          <h2>{{year.name}}</h2>
-        </div>
-      </div>
-
       {% assign pubs = year.items %}
       {% for pub in pubs %}
         {% assign url = pub.external_url | default: pub.url | relative_url | replace: 'index.html', '' %}
-        <div id="{{pub.slug}}" class="pub pure-g" data-pub='{{ pub | jsonify_pub }}'>
-          <!-- <div class="thumbnail pure-u-1-3 pure-u-md-1-5">
-            <a href="{{url}}">
-              <img src="/imgs/thumbs/{{pub.slug}}.png" alt="" />
-            </a>
-          </div> -->
+        <div id="{{pub.slug}}" class="pub pure-g">
+          <div class="pure-u-1 pure-u-md-1-5">
+            {% if forloop.first == true %}
+              <h2 class="year">{{year.name}}</h2>
+            {% else %}
+              &nbsp;
+            {% endif %}
+          </div>
 
-          <div class="pure-u-2-3 pure-u-md-4-5">
-            <h3><a href="{{url}}">{{pub.title}}</a></h3>
-            <p class="authors">
+          <div class="pure-u-1 pure-u-md-4-5">
+            <h3 class="title"><a href="{{url}}">{{pub.title}}</a></h3>
+            <div class="authors">
             {% for author in pub.authors %}
               {% assign person = site.data.authors[author.key] %}
               {% assign name = author.name | default:person.name %}
@@ -38,30 +40,25 @@ layout: page
                 {{name}}{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}
               {% endif %}
             {% endfor %}
-            </p>
-            <p class="venue">
+            </div>
+            <div class="venue">
               {% if pub.preprint %}
                 {{pub.preprint.server}}: {{pub.preprint.id}}
               {% else %}
                 {{site.data.venues[pub.venue].short}}, {{pub.year}}
               {% endif %}
-            </p>
+            </div>
             {% if pub.award %}
-              <p class="award">
+              <div class="award">
                 <i class="fas fa-award"></i> {{pub.award}}
-              </p>
+              </div>
             {% endif %}
-            <p class="links">
+
+            <div class="links">
               {% if pub.external_url %}
                 <a href="{{pub.external_url}}">
                   {% if pub.preprint %}Preprint{% else %}Article{% endif %}
                 </a>
-              {% endif %}
-
-              {% if pub.doi %}
-                <p id="doi" class="links">
-                  <span>DOI:</span> <a href="https://doi.org/{{pub.doi}}">{{pub.doi}}</a>
-                </p>
               {% endif %}
 
               {% if pub.html_url %}
@@ -79,7 +76,7 @@ layout: page
               {% for material in pub.materials %}
                 <a href="{{material.url}}">{{material.name}}</a>
               {% endfor %}
-            </p>
+            </div>
           </div>
         </div>
       {% endfor %}

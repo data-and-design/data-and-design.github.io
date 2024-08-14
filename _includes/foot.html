@@ -1,4 +1,4 @@
-<div id="cursor">
+<div id="cursor" style="mix-blend-mode: difference;">
   <div id="cursor-outer"></div>
   <div id="cursor-inner"></div>
 </div>
@@ -17,10 +17,6 @@
     hoverScale: { inner: 0.75, outer: 2 },
     clickables: ['details', 'summary', 'a[href]', 'input[type="text"]', 'input[type="email"]', 'input[type="number"]', 'input[type="submit"]', 'input[type="image"]', 'label[for]', 'select', 'textarea', 'button', '.link']
   })
-
-  document.getElementById("cursor").style.mixBlendMode = "difference";
-  // document.getElementById("cursor-inner").style.filter = "invert(100%)";
-  // document.getElementById("cursor-outer").style.filter = "invert(100%)";
 
   ac.init()
 </script>

@@ -19,4 +19,5 @@ date: 2022-06-13
 award: Best Paper Honorable Mention
 pdf_url: /publications/rich-screen-reader-vis-experiences.pdf
 html_url: https://vis.csail.mit.edu/pubs/rich-screen-reader-vis-experiences/
+themes: [access]
 ---
