@@ -11,6 +11,7 @@ doi: 10.1177/20563051221077021
 pdf_url: /publications/bartleby.pdf
 html_url: https://journals.sagepub.com/doi/10.1177/20563051221077021
 themes: [refusal]
+projects: [bartleby]
 materials:
   - name: Code
     url: https://github.com/jonathanzong/bartleby

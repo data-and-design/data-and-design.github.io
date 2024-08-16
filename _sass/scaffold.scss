@@ -24,7 +24,7 @@ html, body {
   font-size: 21px;
   font-weight: 500;
   background-color: $background;
-  background-image:  radial-gradient(rgba(32, 66, 150, 0.2) 1px, transparent 1px), radial-gradient(rgba(0,119,178, 0.2) 1px, $background 1px);
+  background-image:  radial-gradient(rgba($foreground, 0.2) 1px, transparent 1px), radial-gradient(rgba($foreground, 0.2) 1px, $background 1px);
   background-size: 20px 20px;
   background-position: 0 0,10px 10px;
 }
@@ -84,7 +84,7 @@ li {
 
 ::selection {
   background: $foreground;
-  color: $accent;
+  color: $accent-yellow;
 }
 
 .arrow-link {
@@ -92,6 +92,10 @@ li {
   margin-left: 2em;
 }
 
-.hanging-quote {
+.hanging-quote:first-child {
   margin-left: -0.5em;
+}
+
+h1 a, h2 a, h3 a {
+  text-decoration: none;
 }

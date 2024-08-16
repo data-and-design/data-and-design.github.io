@@ -12,6 +12,7 @@ doi: 10.1145/3272973.3272992
 pdf_url: /publications/automated-debriefing.pdf
 award: Best Demo Award
 themes: [refusal]
+projects: [bartleby]
 materials:
   - name: Code
     url: https://github.com/jonathanzong/bartleby

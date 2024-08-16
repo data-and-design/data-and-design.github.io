@@ -6,12 +6,9 @@
 <script src="https://unpkg.com/animated-cursor@1.1.1/dist/index.umd.js"></script>
 
 <script>
-  const fgColor = "#203195";
-</script>
-
-<script>
   const ac = window.animatedCursor({
-    color: "#ffff45",
+    // color: "#063118",
+    color: "#121967",
     outerAlpha: 1,
     trailingSpeed: 1,
     hoverScale: { inner: 0.75, outer: 2 },
@@ -26,6 +23,7 @@
   details.forEach((targetDetail) => {
     targetDetail.addEventListener('toggle', () => {
       if (targetDetail.open) {
+        // when opening a detail, close the other ones
         details.forEach((detail) => {
           if (detail !== targetDetail) {
             detail.removeAttribute('open');

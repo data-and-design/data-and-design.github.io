@@ -1,4 +1,4 @@
-<meta name="citation_title" content="{{page.title}}">
+<meta name="citation_title" content="{{page.title | strip_html}}">
 <meta name="citation_date" content="{{page.year}}">
 {% if page.reference_url %}
   <meta name="citation_public_url" content="{{page.reference_url}}">
@@ -31,5 +31,4 @@
 {% for author in page.authors %}
   {% assign person = site.data.authors[author.key] %}
   <meta name="citation_author" content="{{author.name | default:person.name}}">
-
 {% endfor %}

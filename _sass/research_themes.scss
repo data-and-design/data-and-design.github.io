@@ -1,13 +1,15 @@
-#themes {
-  .pub {
-    font-size: 0.8em;
+.pub {
+  font-size: 0.8em;
 
-    a {
-      text-decoration: none;
-    }
+  a {
+    text-decoration: none;
+  }
 
-    .title, .award {
-      font-weight: bold;
-    }
+  .title, .award {
+    font-weight: bold;
+  }
+
+  .title .hanging-quote {
+    margin: 0;
   }
 }

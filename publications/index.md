@@ -14,12 +14,12 @@ layout: page
 
 <div id="pubs" class="pure-g">
   <div class="pure-u-1">
-    {% assign pubYears = site.pubs | group_by:"year" | sort: "name" | reverse %}
+    {% assign pubYears = site.pubs | group_by:"year" | sort: "title" | reverse %}
     {% for year in pubYears %}
       {% assign pubs = year.items %}
       {% for pub in pubs %}
         {% assign url = pub.external_url | default: pub.url | relative_url | replace: 'index.html', '' %}
-        <div id="{{pub.slug}}" class="pub pure-g">
+        <div id="{{pub.slug}}" class="publication pure-g">
           <div class="pure-u-1 pure-u-md-1-5">
             {% if forloop.first == true %}
               <h2 class="year">{{year.name}}</h2>

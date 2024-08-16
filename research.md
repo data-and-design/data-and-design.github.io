@@ -32,31 +32,51 @@ title: Research Themes
         <div class="content">
           <h3>{{theme.name}}</h3>
           {{theme.desc | markdownify}}
+          {% capture projectOutput %}
+            {% assign projectYears = site.projects | group_by:"year" | sort: "title" | reverse %}
+            {% for year in projectYears %}
+              {% assign projects = year.items %}
+              {% for project in projects %}
+                {% if project.themes and project.themes contains theme.key %}
+                  <li class="pub"><a href="/projects/{{project.slug}}"><span class="title">{{project.title}}</span>: {{project.description}}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          {% endcapture %}
+          {% assign projectOutputStrip = projectOutput | strip%}
+          {% if projectOutputStrip and projectOutputStrip != '' %}
+            <h4>
+              Projects
+            </h4>
+            <ul>
+            {{projectOutputStrip}}
+            </ul>
+          {%endif%}
           <h4>
             Publications
           </h4>
           <ul>
-            {% assign pubYears = site.pubs | group_by:"year" | sort: "name" | reverse %}
-              {% for year in pubYears %}
-                {% assign pubs = year.items %}
-                {% for pub in pubs %}
-                  {% if pub.themes and pub.themes contains theme.key %}
-                    {% assign url = pub.external_url | default: pub.url | relative_url | replace: 'index.html', '' %}
-                    {% capture authors %}
-                      {% for author in pub.authors %}
-                        {% assign person = site.data.authors[author.key] %}
-                        {% assign name = author.name | default:person.name %}
-                        {% if person.url or author.url %}
-                          <a href="{{person.url | default: author.url}}">{{name}}</a>{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}
-                        {% else %}
-                          {{name}}{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}
-                        {% endif %}
-                      {% endfor %}
-                    {% endcapture %}
-                    <li class="pub"><a href="{{url}}">{{pub.year}}. <span class="title">{{pub.title}}</span>. {{authors | strip }}. {{site.data.venues[pub.venue].short}}. <span class="award">{{pub.award}}</span></a></li>
-                  {% endif %}
-                {% endfor %}
+            {% assign pubYears = site.pubs | group_by:"year" | sort: "title" | reverse %}
+            {% for year in pubYears %}
+              {% assign pubs = year.items %}
+              {% for pub in pubs %}
+                {% if pub.themes and pub.themes contains theme.key %}
+                  {% assign url = pub.external_url | default: pub.url | relative_url | replace: 'index.html', '' %}
+                  {% capture authors %}
+                    {% for author in pub.authors %}
+                      {% assign person = site.data.authors[author.key] %}
+                      {% assign name = author.name | default:person.name %}
+                      {% if person.url or author.url %}
+                        <a href="{{person.url | default: author.url}}">{{name}}</a>{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}
+                      {% else %}
+                        {{name}}{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}
+                      {% endif %}
+                    {% endfor %}
+                  {% endcapture %}
+                  <li class="pub"><a href="{{url}}">{{pub.year}}. <span class="title">{{pub.title}}</span>. {{authors | strip }}. {{site.data.venues[pub.venue].short}}. <span class="award">{{pub.award}}</span></a></li>
+                {% endif %}
               {% endfor %}
+            {% endfor %}
           </ul>
         </div>
       </div>

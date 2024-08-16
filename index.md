@@ -10,7 +10,7 @@ The <span class="dnd">Data & Design</span> Group is an interdisciplinary researc
 
 We envision a world where people have the power to shape the design of systems that affect their social and political lives.
 
-We are known for our work on <a href="#">accessibility in interactive data analysis</a> and <a href="#">consent and refusal in data ethics</a>.
+We are known for our work on <a href="/research#theme-access">accessibility in interactive data analysis</a> and <a href="/research#theme-refusal">consent and refusal in data ethics</a>.
 
 Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Department of Information Science</a> at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>.
 
@@ -41,7 +41,7 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
     {% for theme in site.data.research_themes %}
       <div id="theme-{{theme.key}}" class="theme" data-url="{{theme.url}}" data-people="{{theme.people}}">
         <div class="content">
-          <h3>{{theme.name}}</h3>
+          <h3><a href="/research#theme-{{theme.key}}">{{theme.name}}</a></h3>
           {{theme.desc | markdownify}}
         </div>
       </div>

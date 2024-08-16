@@ -12,5 +12,6 @@ year: 2024
 doi: 10.1145/3613904.3641996
 pdf_url: /publications/umwelt.pdf
 html_url: https://dl.acm.org/doi/fullHtml/10.1145/3613904.3641996
-themes: [access, visualization]
+themes: [access]
+projects: [umwelt]
 ---

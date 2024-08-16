@@ -35,6 +35,9 @@ collections:
   pubs:
     output: true
     permalink: /publications/:slug/
+  projects:
+    output: true
+    permalink: /projects/:slug/
   posts:
     permalink: /blog/:year/:month/:day/:slug/
 
@@ -44,6 +47,11 @@ defaults:
       type: pubs
     values:
       layout: pub
+  - scope:
+      path: ''
+      type: projects
+    values:
+      layout: project
 
 # Build settings
 sass:

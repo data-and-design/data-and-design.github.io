@@ -1,35 +1,35 @@
 #pubs {
-  .pub {
+  .publication {
     margin-bottom: 3em;
     font-size: 0.8em;
     line-height: 1.25;
-  }
 
-  @include for-md-up {
-    .year {
-      margin: 0;
+    @include for-md-up {
+      .year {
+        margin: 0;
+      }
     }
-  }
 
-  .title {
-    margin: 0;
-    font-size: 1rem;
+    .title {
+      margin: 0;
+      font-size: 1rem;
 
-    a {
+      a {
+        text-decoration: none;
+      }
+    }
+
+    .award {
+      font-style: italic;
+      font-weight: bold;
+    }
+
+    .authors a, .doi a {
       text-decoration: none;
     }
-  }
 
-  .award {
-    font-style: italic;
-    font-weight: bold;
-  }
-
-  .authors a, .doi a {
-    text-decoration: none;
-  }
-
-  .links {
-    margin-top: 0.5em;
+    .links {
+      margin-top: 0.5em;
+    }
   }
 }
