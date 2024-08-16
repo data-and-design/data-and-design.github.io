@@ -8,14 +8,14 @@ $baseurl: "{{ site.baseurl }}";
 $body-font: 'Control-Upright', sans-serif;
 $heading-font: 'Control-Italic', sans-serif;
 
-// $foreground: #203195;
-// $background: #E3D9C9;
-// $accent: #E3D961;
+$foreground: #203195;
+$background: #E3D9C9;
+$accent: #E3D961;
 
-$foreground: #3762A4;
-$background: #F9ECE1;
-$accent-yellow: #e7d37a;
-$accent-pink: #F3BBC9;
+// $foreground: #3762A4;
+// $background: #F9ECE1;
+// $accent-yellow: #e7d37a;
+// $accent-pink: #F3BBC9;
 
 @font-face {
 	font-family: 'Control-Cursive';
