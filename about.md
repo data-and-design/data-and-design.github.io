@@ -19,6 +19,9 @@ title: About
       The <span class="dnd">Data & Design</span> Group is an interdisciplinary research group that uses design to understand and reimagine socio-technical systems.
     </p>
     <p>
+      We are known for our work on <a href="/research#theme-access">accessibility in interactive data analysis</a> and <a href="/research#theme-refusal">consent and refusal in data ethics</a>.
+    </p>
+    <p>
       We are part of the <a href="https://www.colorado.edu/cmci/infoscience">Department of Information Science</a> at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>.
     </p>
   </div>
@@ -32,7 +35,7 @@ title: About
       At the <span class="dnd">Data & Design</span> Group, we are advancing a world where people have the power to shape the design of systems that affect their social and political lives.
     </p>
     <p>
-      To do this, we do research that:
+      To do this, we pursue research that:
     </p>
     <ul>
       <li>
@@ -42,7 +45,7 @@ title: About
         <span class="mission-item">builds scientific knowledge</span> about the relationship between technology and society by using system design as a way to investigate alternate possibilities.
       </li>
       <li>
-        <span class="mission-item">shapes policy and practice</span> by using what we learn from our work to inform emerging standards and best practices.
+        <span class="mission-item">shapes policy and practice</span> by using our findings to lead conversations about best practices.
       </li>
     </ul>
     <!-- <br/>
@@ -106,7 +109,7 @@ title: About
     &nbsp;
   </div>
   <div class="pure-u-1 pure-u-md-1-2">
-    <a href="#" style="margin: 0;" class="arrow-link">We are hiring Ph.D. students for 2025 <span aria-hidden="true">&rarr;</span></a>
+    {% include hiring-cta.html %}
   </div>
 </div>
 

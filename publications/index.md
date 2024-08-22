@@ -14,9 +14,9 @@ layout: page
 
 <div id="pubs" class="pure-g">
   <div class="pure-u-1">
-    {% assign pubYears = site.pubs | group_by:"year" | sort: "title" | reverse %}
+    {% assign pubYears = site.pubs | group_by:"year" | sort: "name" | reverse %}
     {% for year in pubYears %}
-      {% assign pubs = year.items %}
+      {% assign pubs = year.items | sort: 'date' | reverse %}
       {% for pub in pubs %}
         {% assign url = pub.external_url | default: pub.url | relative_url | replace: 'index.html', '' %}
         <div id="{{pub.slug}}" class="publication pure-g">

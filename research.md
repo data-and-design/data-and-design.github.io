@@ -16,11 +16,15 @@ title: Research Themes
 <div class="pure-g">
   <div class="pure-u-1 pure-u-md-1-2">
     <p>
-      At the <span class="dnd">Data & Design</span> Group, we are advancing a world where people have the power to shape the design of systems that affect their social and political lives.
+      At the <span class="dnd">Data & Design</span> Group, we do interdisciplinary research in the areas of:
     </p>
-    <p>
-      We are primarily known for pursuing this work in the domains of <a href="#">accessibility in interactive data analysis</a> and <a href="#">consent and refusal in data ethics</a>.
-    </p>
+    <ul class="themes-list">
+      {% for theme in site.data.research_themes %}
+        <li>
+          <a href="#theme-{{theme.key}}">{{theme.name}}</a>
+        </li>
+      {% endfor %}
+    </ul>
   </div>
 </div>
 
@@ -33,9 +37,9 @@ title: Research Themes
           <h3>{{theme.name}}</h3>
           {{theme.desc | markdownify}}
           {% capture projectOutput %}
-            {% assign projectYears = site.projects | group_by:"year" | sort: "title" | reverse %}
+            {% assign projectYears = site.projects | group_by:"year" | sort: "name" | reverse %}
             {% for year in projectYears %}
-              {% assign projects = year.items %}
+              {% assign projects = year.items | sort: 'date' | reverse %}
               {% for project in projects %}
                 {% if project.themes and project.themes contains theme.key %}
                   <li class="pub"><a href="/projects/{{project.slug}}"><span class="title">{{project.title}}</span>: {{project.description}}</a></li>
@@ -56,9 +60,9 @@ title: Research Themes
             Publications
           </h4>
           <ul>
-            {% assign pubYears = site.pubs | group_by:"year" | sort: "title" | reverse %}
+            {% assign pubYears = site.pubs | group_by:"year" | sort: "name" | reverse %}
             {% for year in pubYears %}
-              {% assign pubs = year.items %}
+              {% assign pubs = year.items | sort: 'date' | reverse %}
               {% for pub in pubs %}
                 {% if pub.themes and pub.themes contains theme.key %}
                   {% assign url = pub.external_url | default: pub.url | relative_url | replace: 'index.html', '' %}

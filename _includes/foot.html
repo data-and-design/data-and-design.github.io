@@ -7,7 +7,7 @@
 
 <script>
   const ac = window.animatedCursor({
-    color: "#ffff45",
+    color: "#FFFF45",
     outerAlpha: 1,
     trailingSpeed: 1,
     hoverScale: { inner: 0.75, outer: 2 },
@@ -32,3 +32,38 @@
     });
   });
 </script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.min.js"></script>
+<script>
+  function setup() {
+    let canvas = createCanvas(window.innerWidth, window.innerHeight);
+    const container = select('#p5-container');
+    container.child(canvas);
+    dotGrid(0.015, 0.02, 5);
+  }
+
+  function windowResized() {
+    resizeCanvas(window.innerWidth, window.innerHeight);
+    dotGrid(0.015, 0.02, 5);
+  }
+
+  function dotGrid(xScale, yScale, radius, gap = 10, offsetX = 0, offsetY = 0) {
+    background("#FEFDFC");
+    noStroke();
+    fill(0,0,0, 0.1 * 255);
+
+    // Loop through x and y coordinates, at increments set by gap
+    for (let x = gap / 2; x < width; x += gap) {
+      for (let y = gap / 2; y < height; y += gap) {
+        // Calculate noise value using scaled and offset coordinates
+        let noiseValue = noise((x + offsetX) * xScale, (y + offsetY) * yScale);
+
+        // Since noiseValue will be 0-1, multiply it by gap to set diameter to
+        // between 0 and the size of the gap between circles
+        let diameter = noiseValue * radius;
+        circle(x, y, diameter);
+      }
+    }
+  }
+</script>
+<div id="p5-container"></div>

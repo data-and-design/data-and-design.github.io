@@ -73,6 +73,9 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
     <p>
       <a href="https://github.com/data-and-design/">Github</a>
     </p>
+    <p>
+      {% include hiring-cta.html %}
+    </p>
 
   </div>
 </div>

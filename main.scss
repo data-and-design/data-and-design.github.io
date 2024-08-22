@@ -8,9 +8,9 @@ $baseurl: "{{ site.baseurl }}";
 $body-font: 'Control-Upright', sans-serif;
 $heading-font: 'Control-Italic', sans-serif;
 
-$foreground: #203195;
-$background: #E3D9C9;
-$accent: #E3D961;
+$foreground: #1C269E;
+$background: #FEFDFC;
+$accent: #E4D600;
 
 // $foreground: #3762A4;
 // $background: #F9ECE1;
@@ -56,3 +56,4 @@ $accent: #E3D961;
 @import 'lists.scss';
 @import 'papers.scss';
 @import 'research_themes.scss';
+@import 'projects.scss';
