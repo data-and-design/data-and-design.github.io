@@ -14,7 +14,7 @@ We are known for our work on <a href="/research#theme-access">accessibility in i
 
 Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Department of Information Science</a> at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>.
 
-<a href="/about" class="arrow-link">Read more <span aria-hidden="true">&rarr;</span></a>
+<a href="/about" class="arrow-link">Read more <span aria-hidden>&rarr;</span></a>
 
   </div>
 </div>
@@ -48,13 +48,13 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
     {% endfor %}
 
     <p>
-        <a href="/research" class="arrow-link">Read more <span aria-hidden="true">&rarr;</span></a>
+        <a href="/research" class="arrow-link">Read more <span aria-hidden>&rarr;</span></a>
     </p>
     <p>
-        <a href="/projects" class="arrow-link">See projects <span aria-hidden="true">&rarr;</span></a>
+        <a href="/projects" class="arrow-link">See projects <span aria-hidden>&rarr;</span></a>
     </p>
     <p>
-        <a href="/publications" class="arrow-link">See all publications <span aria-hidden="true">&rarr;</span></a>
+        <a href="/publications" class="arrow-link">See all publications <span aria-hidden>&rarr;</span></a>
     </p>
 
   </div>

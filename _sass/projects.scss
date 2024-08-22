@@ -1,13 +1,22 @@
 #projects {
   .project {
-    padding-right: 1em;
+    padding: 0 1em;
+    margin-bottom: 3em;
+
+    @include for-md-down {
+      padding: 0;
+    }
+
+    h2 {
+      margin: 0.3em 0;
+    }
 
     a {
       text-decoration: none;
     }
 
     img {
-      max-width: 100%;
+      width: 100%;
     }
   }
 }

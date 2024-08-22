@@ -49,14 +49,13 @@ body {
 }
 
 .monotone {
-  display: inline-block;
   background: $foreground;
 }
 
 .monotone img {
   display: block;
   mix-blend-mode: screen;
-  filter: grayscale(100%) contrast(150%);
+  filter: grayscale(100%);
   opacity: 1;
   border: 1px solid $foreground;
 }

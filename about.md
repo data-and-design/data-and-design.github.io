@@ -93,10 +93,13 @@ title: About
         <div class="person">
           <div class="portrait monotone">
             <a href="{{person.url}}">
-              <img src="/imgs/people/{{person_tuple[0]}}.jpg" alt="{{person.name}}" />
+              {% capture defaultAlt %}
+                Photo of {{person.name}}
+              {% endcapture %}
+              <img src="/imgs/people/{{person_tuple[0]}}.jpg" alt="{{ person.imgAlt | default: defaultAlt | strip }}" />
             </a>
           </div>
-          <div class="person-name" aria-hidden="true"><a href="{{person.url}}">{{person.name}}</a></div>
+          <div class="person-name"><a href="{{person.url}}">{{person.name}}</a></div>
           <div class="person-title">{{person.title}}</div>
         </div>
         {% endunless %}
@@ -126,7 +129,7 @@ title: About
               <img src="/imgs/people/{{person_tuple[0]}}.jpg" alt="{{person.name}}" />
             </a>
           </div>
-          <div class="person-name" aria-hidden="true"><a href="{{person.url}}">{{person.name}}</a></div>
+          <div class="person-name" aria-hidden><a href="{{person.url}}">{{person.name}}</a></div>
           <div class="person-title">{{person.affiliation | default: person.title}}</div>
         </div>
         {% endif %}

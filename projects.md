@@ -19,9 +19,11 @@ layout: page
       {% for project in projects %}
         <div class="pure-u-1 pure-u-md-1-2 project">
           <a href="/projects/{{project.slug}}">
-            <div class="monotone">
-              <img src="/imgs/thumbs/{{project.key}}.png" />
-            </div>
+            {% if project.imgAlt %}
+              <div class="monotone">
+                <img src="/imgs/thumbs/{{project.key}}.png" alt="{{project.imgAlt}}" />
+              </div>
+            {% endif %}
             <h2>{{project.title}}</h2>
             <div>{{project.description | capitalize}}</div>
           </a>
