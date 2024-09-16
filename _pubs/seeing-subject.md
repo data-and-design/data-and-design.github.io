@@ -10,3 +10,7 @@ pdf_url: /publications/seeing-subject.pdf
 html_url: https://jonathanzong.com/static/complicatingthecomputermouse.net/cmc-article-1.html
 themes: [embodiment]
 ---
+
+“Users, who select data objects by looking and pointing, are
+simultaneously also the objects being seen, selected,
+and acted upon by computers.”

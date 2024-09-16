@@ -31,20 +31,57 @@
 
     .links {
       margin-top: 0.5em;
+      a {
+        margin-right: 0.3em;
+      }
     }
   }
 }
 
 // individual paper template
 #paper {
-  #paper-header {
-    padding-bottom: 2em;
+
+  .title {
+    margin-top: 0;
+    @include for-md-down {
+      font-size: 1.5rem;
+    }
+  }
+
+  #paper-metadata, .connections {
+    font-size: 0.8em;
+  }
+
+  #paper-metadata {
+    padding-right: 1em;
+  }
+
+  #paper-links {
+    border-top: 2px solid $foreground;
     border-bottom: 2px solid $foreground;
+
+    a {
+      margin-right: 0.5em;
+    }
+  }
+
+  .connections {
+    margin-bottom: 1em;
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+  .connections-header {
+    font-weight: bold;
   }
 
   #paper-content {
-    padding-top: 2em;
-    padding-bottom: 2em;
+    padding: 1em 0;
+    p {
+      line-height: 1.5;
+    }
   }
 
   .title {
@@ -57,7 +94,10 @@
   }
 
   .author {
+    vertical-align: top;
     margin-bottom: 1em;
+    display: inline-block;
+    margin-right: 1.5em;
   }
 
   .affiliation {

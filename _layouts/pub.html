@@ -3,77 +3,102 @@ layout: page
 ---
 
 <div id="paper" class="pure-g">
-  <div class="pure-u-md-1-8">&nbsp;</div>
-  <div id="content" class="pure-u-1 pure-u-md-3-4">
-    <div id="paper-header">
-      <h1 class="title">{{page.title}}</h1>
-      <div id="authors" class="pure-g">
-        {% for author in page.authors %}
-          {% assign person = site.data.authors[author.key] %}
-          {% assign person_url = author.url | default:person.url %}
-          <div class="author pure-u-1-2 pure-u-md-1-4">
-            <div class="name">{% if person_url %}<a href="{{person_url}}">{% endif %}{{author.name | default:person.name}}{% if person_url %}</a>{% endif %}{% if author.equal %}*{% endif %}</div>
+  <div id="paper-header" class="pure-u-1  pure-u-md-3-4">
+    <h1 class="title">{{page.title}}</h1>
+    <div id="authors">
+      {% for author in page.authors %}
+        {% assign person = site.data.authors[author.key] %}
+        {% assign person_url = author.url | default:person.url %}
+        <div class="author">
+          <div class="name">{% if person_url %}<a href="{{person_url}}">{% endif %}{{author.name | default:person.name}}{% if person_url %}</a>{% endif %}{% if author.equal %}*{% endif %}</div>
+          {% if person %}
             <div class="affiliation">
-              {% if person %}
-                {{author.affiliation | default: person.affiliation | default: 'CU Boulder'}}
-              {% else %}
-                {{author.affiliation}}
-              {% endif %}
+              {{author.affiliation | default: person.affiliation | default: 'CU Boulder'}}
             </div>
-          </div>
-        {% endfor %}
-      </div>
-
-      <div id="metadata">
-          <span id="venue">
-            {% if page.preprint %}
-              {{page.preprint.server}}: {{page.preprint.id}}
-            {% else %}
-              {{site.data.venues[page.venue].full | default: site.data.venues[page.venue].short | default:page.venue}}, {{page.year}}
-            {% endif %}
-          </span>
-          <div class="award">
-            <i class="fas fa-award"></i> {{page.award}}
-          </div>
-
-
-        <div class="links">
-
-          {% if page.doi %}
-            <p id="doi" class="links">
-              <span>DOI:</span> <a href="https://doi.org/{{page.doi}}">{{page.doi}}</a>
-            </p>
+          {% else %}
+            <div class="affiliation">
+              {{author.affiliation}}
+            </div>
           {% endif %}
-
-          {% if page.external_url %}
-            <a href="{{page.external_url}}">
-              {% if page.preprint %}Preprint{% else %}Article{% endif %}
-            </a>
-          {% endif %}
-
-          {% if page.html_url %}
-            <a href="{{page.html_url}}">HTML article</a>
-          {% endif %}
-
-          {% if page.pdf_url %}
-            <a href="{{page.pdf_url}}">PDF</a>
-          {% endif %}
-
-          {% if page.doi or page.reference_url %}
-            <a href="{% if page.doi %}https://doi.org/{{page.doi}}{% elsif page.reference_url %}{{page.reference_url}}{% endif %}">Reference link</a>
-          {% endif %}
-
-          {% for material in page.materials %}
-            <a href="{{material.url}}">{{material.name}}</a>
-          {% endfor %}
         </div>
-      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div id="paper-metadata" class="pure-u-1 pure-u-md-3-4">
+    <span id="venue">
+      {% if page.preprint %}
+        {{page.preprint.server}}: {{page.preprint.id}}
+      {% else %}
+        {{site.data.venues[page.venue].full | default: site.data.venues[page.venue].short | default:page.venue}}, {{page.year}}
+      {% endif %}
+    </span>
+    <div class="award">
+      <i class="fas fa-award"></i> {{page.award}}
     </div>
 
-    <div id="paper-content">
+    {% if page.doi %}
+      <p id="doi" class="links">
+        <span>DOI:</span> <a href="https://doi.org/{{page.doi}}">{{page.doi}}</a>
+      </p>
+    {% endif %}
+  </div>
+
+
+  <div class="pure-u-1 pure-u-md-1-4">
+    {% assign projects = site.projects | where_exp: "project", "page.projects contains project.key" %}
+    {% if projects.size > 0 %}
+      <div class="connections">
+          <div class="connections-header">Projects</div>
+          {% for project in projects %}
+            <a href="/projects/{{project.key}}">{{project.title}}</a>{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+      </div>
+    {% endif %}
+    {% assign themes = site.data.research_themes | where_exp: "theme", "page.themes contains theme.key" %}
+    {% if themes.size > 0 %}
+      <div class="connections">
+        <div class="connections-header">Research themes</div>
+          {% for theme in themes %}
+            <a href="/themes/{{theme.key}}">{{theme.name}}</a>{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+
+
+    <div id="paper-links" class="pure-u-1">
+      <p>
+        <div class="connections-header">Links</div>
+
+        {% if page.external_url %}
+          <a href="{{page.external_url}}">
+            {% if page.preprint %}Preprint{% else %}Article{% endif %}
+          </a>
+        {% endif %}
+
+        {% if page.html_url %}
+          <a href="{{page.html_url}}">HTML article</a>
+        {% endif %}
+
+        {% if page.pdf_url %}
+          <a href="{{page.pdf_url}}">PDF</a>
+        {% endif %}
+
+        {% if page.doi or page.reference_url %}
+          <a href="{% if page.doi %}https://doi.org/{{page.doi}}{% elsif page.reference_url %}{{page.reference_url}}{% endif %}">Reference link</a>
+        {% endif %}
+
+        {% for material in page.materials %}
+          <a href="{{material.url}}">{{material.name}}</a>
+        {% endfor %}
+      </p>
+    </div>
+
+    <div id="paper-content" class="pure-u-1 pure-u-md-3-4">
       {{content}}
     </div>
 
-  </div>
-
 </div>
+
+

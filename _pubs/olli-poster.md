@@ -3,6 +3,7 @@ title: 'Olli: An Extensible Visualization Library for Screen Reader Accessibilit
 authors:
   - key: mattblanco
   - key: jzong
+    affiliation: MIT
   - key: arvindsatya
 type: poster
 venue: vis-posters
@@ -10,7 +11,7 @@ year: 2022
 date: 2022-10-19
 materials:
   - name: Poster
-    url: /pubs/olli/poster.pdf
+    url: /publications/olli-poster.pdf
     type: file
   - name: Olli website
     url: https://mitvis.github.io/olli/
@@ -21,6 +22,8 @@ materials:
 themes: [access]
 projects: [olli]
 ---
+
+### Abstract
 
 Though recent research has explored the design of rich screen reader
 visualization experiences, accessible visualizations for blind and

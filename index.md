@@ -8,7 +8,7 @@ home: true
 
 The <span class="dnd">Data & Design</span> Group is an interdisciplinary research group that uses design to understand and reimagine socio-technical systems.
 
-We envision a world where people have the power to shape the design of systems that affect their social and political lives.
+We envision a world where everyone has the power to shape the design of systems that affect their social and political lives.
 
 We are known for our work on <a href="/research#theme-access">accessibility in interactive data analysis</a> and <a href="/research#theme-refusal">consent and refusal in data ethics</a>.
 
@@ -71,13 +71,13 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
       </div>
     {% endfor %}
     <p>
-        <a href="/research" class="arrow-link">Full research themes <span aria-hidden>&rarr;</span></a>
+        <a href="/research" class="arrow-link">Research themes <span aria-hidden>&rarr;</span></a>
     </p>
     <p>
-        <a href="/projects" class="arrow-link">More projects <span aria-hidden>&rarr;</span></a>
+        <a href="/projects" class="arrow-link">Projects <span aria-hidden>&rarr;</span></a>
     </p>
     <p>
-        <a href="/publications" class="arrow-link">More publications <span aria-hidden>&rarr;</span></a>
+        <a href="/publications" class="arrow-link">Publications <span aria-hidden>&rarr;</span></a>
     </p>
 
   </div>

@@ -32,7 +32,7 @@ title: About
   <div class="pure-u-1 pure-u-md-1-2">
   <h2>Mission</h2>
     <p>
-      At the <span class="dnd">Data & Design</span> Group, we are advancing a world where people have the power to shape the design of systems that affect their social and political lives.
+      At the <span class="dnd">Data & Design</span> Group, we are advancing a world where everyone has the power to shape the design of systems that affect their social and political lives.
     </p>
     <p>
       To do this, we pursue research that:
