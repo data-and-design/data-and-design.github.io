@@ -25,6 +25,7 @@
 .portrait img {
   width: 100px;
   height: 100px;
+  filter: grayscale(100%) contrast(200%);
 }
 
 .mission-item {

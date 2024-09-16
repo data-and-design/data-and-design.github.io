@@ -18,15 +18,13 @@ layout: page
       {% assign projects = year.items | sort: 'date' | reverse %}
       {% for project in projects %}
         <div class="pure-u-1 pure-u-md-1-2 project">
-          <a href="/projects/{{project.slug}}">
             {% if project.imgAlt %}
               <div class="monotone">
-                <img src="/imgs/thumbs/{{project.key}}.png" alt="{{project.imgAlt}}" />
+                <a href="/projects/{{project.slug}}"><img src="/imgs/thumbs/{{project.key}}.png" alt="{{project.imgAlt}}" /></a>
               </div>
             {% endif %}
-            <h2>{{project.title}}</h2>
-            <div>{{project.description | capitalize}}</div>
-          </a>
+            <a href="/projects/{{project.slug}}"><h2>{{project.title}}</h2></a>
+            <a href="/projects/{{project.slug}}"><div>{{project.description | capitalize}}</div></a>
         </div>
       {% endfor %}
     {% endfor %}

@@ -22,6 +22,21 @@
   }
 }
 
+#logo-svg {
+  display: block;
+  height: 150px;
+
+  img {
+    height: 100%;
+    max-width: 100%;
+  }
+
+  @include for-md-down {
+    padding-right: 30px;
+    padding-bottom: 15px;
+  }
+}
+
 .dnd {
   font-family: Control-Cursive;
   font-weight: 900;

@@ -16,6 +16,10 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
 
 <a href="/about" class="arrow-link">Read more <span aria-hidden>&rarr;</span></a>
 
+<p>
+{% include hiring-cta.html %}
+</p>
+
   </div>
 </div>
 
@@ -39,22 +43,41 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
     <h1>Research themes</h1>
 
     {% for theme in site.data.research_themes %}
-      <div id="theme-{{theme.key}}" class="theme" data-url="{{theme.url}}" data-people="{{theme.people}}">
+      <div id="theme-{{theme.key}}" class="theme">
         <div class="content">
           <h3><a href="/research#theme-{{theme.key}}">{{theme.name}}</a></h3>
           {{theme.desc | markdownify}}
+          {% capture projectOutput %}
+            {% assign projectYears = site.projects | group_by:"year" | sort: "name" | reverse %}
+            {% for year in projectYears %}
+              {% assign projects = year.items | sort: 'date' | reverse %}
+              {% for project in projects %}
+                {% if project.themes and project.themes contains theme.key %}
+                  <li class="pub"><a href="/projects/{{project.slug}}"><span class="title">{{project.title}}</span>: {{project.description}}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          {% endcapture %}
+          {% assign projectOutputStrip = projectOutput | strip%}
+          {% if projectOutputStrip and projectOutputStrip != '' %}
+            <h4>
+              Selected projects
+            </h4>
+            <ul>
+            {{projectOutputStrip}}
+            </ul>
+          {%endif%}
         </div>
       </div>
     {% endfor %}
-
     <p>
-        <a href="/research" class="arrow-link">Read more <span aria-hidden>&rarr;</span></a>
+        <a href="/research" class="arrow-link">Full research themes <span aria-hidden>&rarr;</span></a>
     </p>
     <p>
-        <a href="/projects" class="arrow-link">See projects <span aria-hidden>&rarr;</span></a>
+        <a href="/projects" class="arrow-link">More projects <span aria-hidden>&rarr;</span></a>
     </p>
     <p>
-        <a href="/publications" class="arrow-link">See all publications <span aria-hidden>&rarr;</span></a>
+        <a href="/publications" class="arrow-link">More publications <span aria-hidden>&rarr;</span></a>
     </p>
 
   </div>
@@ -71,10 +94,10 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
       <a href="https://twitter.com/cudatadesign">Twitter</a>
     </p>
     <p>
-      <a href="https://github.com/data-and-design/">Github</a>
+      <a href="https://www.linkedin.com/company/cudatadesign">LinkedIn</a>
     </p>
     <p>
-      {% include hiring-cta.html %}
+      <a href="https://github.com/data-and-design/">Github</a>
     </p>
 
   </div>

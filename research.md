@@ -32,7 +32,7 @@ title: Research Themes
   <div class="pure-u-md-1-4">&nbsp;</div>
   <div class="pure-u-1 pure-u-md-1-2">
     {% for theme in site.data.research_themes %}
-      <div id="theme-{{theme.key}}" class="theme" data-url="{{theme.url}}" data-people="{{theme.people}}">
+      <div id="theme-{{theme.key}}" class="theme">
         <div class="content">
           <h3>{{theme.name}}</h3>
           {{theme.desc | markdownify}}

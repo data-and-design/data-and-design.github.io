@@ -1,3 +1,4 @@
+// papers list
 #pubs {
   .publication {
     margin-bottom: 3em;
@@ -31,5 +32,36 @@
     .links {
       margin-top: 0.5em;
     }
+  }
+}
+
+// individual paper template
+#paper {
+  #paper-header {
+    padding-bottom: 2em;
+    border-bottom: 2px solid $foreground;
+  }
+
+  #paper-content {
+    padding-top: 2em;
+    padding-bottom: 2em;
+  }
+
+  .title {
+    font-style: normal;
+  }
+
+  .award {
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  .author {
+    margin-bottom: 1em;
+  }
+
+  .affiliation {
+    margin-top: 0.2rem;
+    font-size: 0.6rem;
   }
 }

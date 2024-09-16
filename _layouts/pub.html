@@ -3,88 +3,76 @@ layout: page
 ---
 
 <div id="paper" class="pure-g">
-  <div id="content" class="{% if page.stub %}stub{% endif %} pure-u-1 pure-u-md-3-4">
-    <h1 class="title">{{page.title}}</h1>
-    <div id="authors" class="pure-g">
-      {% for author in page.authors %}
-        {% assign person = site.data.authors[author.key] %}
-        {% assign person_url = author.url | default:person.url %}
-        <p class="pure-u-1-2 pure-u-md-1-4">
-          {% if person_url %}<a href="{{person_url}}">{% endif %}
-          {% if person %}<img src="/imgs/people/{{author.key}}.jpg" alt="" />{% endif %}
-          <span class="name">{{author.name | default:person.name}}{% if author.equal %}*{% endif %}</span>
-          <span class="affiliation">
-            {% if person %}
-              {{author.affiliation | default: person.affiliation | default: 'CU Boulder'}}
+  <div class="pure-u-md-1-8">&nbsp;</div>
+  <div id="content" class="pure-u-1 pure-u-md-3-4">
+    <div id="paper-header">
+      <h1 class="title">{{page.title}}</h1>
+      <div id="authors" class="pure-g">
+        {% for author in page.authors %}
+          {% assign person = site.data.authors[author.key] %}
+          {% assign person_url = author.url | default:person.url %}
+          <div class="author pure-u-1-2 pure-u-md-1-4">
+            <div class="name">{% if person_url %}<a href="{{person_url}}">{% endif %}{{author.name | default:person.name}}{% if person_url %}</a>{% endif %}{% if author.equal %}*{% endif %}</div>
+            <div class="affiliation">
+              {% if person %}
+                {{author.affiliation | default: person.affiliation | default: 'CU Boulder'}}
+              {% else %}
+                {{author.affiliation}}
+              {% endif %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+      <div id="metadata">
+          <span id="venue">
+            {% if page.preprint %}
+              {{page.preprint.server}}: {{page.preprint.id}}
             {% else %}
-              {{author.affiliation}}
+              {{site.data.venues[page.venue].full | default: site.data.venues[page.venue].short | default:page.venue}}, {{page.year}}
             {% endif %}
           </span>
-          {% if person_url %}</a>{% endif %}
-        </p>
-      {% endfor %}
-    </div>
+          <div class="award">
+            <i class="fas fa-award"></i> {{page.award}}
+          </div>
 
-    <div id="metadata">
-      <p>
-        <span id="venue">
-          {% if page.preprint %}
-            {{page.preprint.server}}: {{page.preprint.id}}
-          {% else %}
-            {{site.data.venues[page.venue].full | default:page.venue}}, {{page.year}}
+
+        <div class="links">
+
+          {% if page.doi %}
+            <p id="doi" class="links">
+              <span>DOI:</span> <a href="https://doi.org/{{page.doi}}">{{page.doi}}</a>
+            </p>
           {% endif %}
-        </span>
-      </p>
-      {% if page.award %}
-        <p class="award">
-          <i class="fas fa-award"></i> {{page.award}}
-        </p>
-      {% endif %}
 
-      {% if page.doi %}
-        <p id="doi" class="links">
-          <span>DOI:</span> <a href="https://doi.org/{{page.doi}}">{{page.doi}}</a>
-        </p>
-      {% endif %}
+          {% if page.external_url %}
+            <a href="{{page.external_url}}">
+              {% if page.preprint %}Preprint{% else %}Article{% endif %}
+            </a>
+          {% endif %}
 
-      {% if pub.doi or pub.reference_url %}
-      <p id="doi" class="links">
-        <span>Reference link:</span>
-        {% if page.doi %}
-          <a href="https://doi.org/{{page.doi}}">https://doi.org/{{page.doi}}</a>
-        {% elsif page.reference_url %}
-        <a href="{{page.reference_url}}">{{page.reference_url}}</a>
-        {% endif %}
-      </p>
-      {% endif %}
+          {% if page.html_url %}
+            <a href="{{page.html_url}}">HTML article</a>
+          {% endif %}
 
-      {% if page.pdf_url %}
-        <p id="doi" class="links">
-          <span>PDF:</span> <a href="{{page.pdf_url}}">{{page.pdf_url}}</a>
-        </p>
-      {% endif %}
+          {% if page.pdf_url %}
+            <a href="{{page.pdf_url}}">PDF</a>
+          {% endif %}
 
-      {% if page.html_url %}
-        <p id="doi" class="links">
-          <span>HTML article:</span> <a href="{{page.html_url}}">{{page.html_url}}</a>
-        </p>
-      {% endif %}
+          {% if page.doi or page.reference_url %}
+            <a href="{% if page.doi %}https://doi.org/{{page.doi}}{% elsif page.reference_url %}{{page.reference_url}}{% endif %}">Reference link</a>
+          {% endif %}
 
+          {% for material in page.materials %}
+            <a href="{{material.url}}">{{material.name}}</a>
+          {% endfor %}
+        </div>
+      </div>
     </div>
 
-    {% if page.projects %}
-      {% for project in site.projects %}
-        {% if page.projects contains project.key %}
-          {{project.title}}
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-
-    <hr>
-
-    <h3>Abstract</h3>
-
-    {{content}}
+    <div id="paper-content">
+      {{content}}
+    </div>
 
   </div>
 

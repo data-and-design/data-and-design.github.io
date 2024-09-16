@@ -87,6 +87,13 @@ li {
   color: $accent;
 }
 
+.cta {
+  font-style: italic;
+  &:hover {
+    font-style: normal;
+  }
+}
+
 .arrow-link {
   display: block;
   margin-left: 2em;
