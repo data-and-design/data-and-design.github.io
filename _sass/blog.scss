@@ -1,0 +1,29 @@
+.post {
+
+  #post-header {
+    .title {
+      margin-top: 0;
+      margin-bottom: 1rem;
+    }
+    #date {
+      font-size: 0.8em;
+    }
+  }
+
+  #break {
+    border-bottom: 2px solid $foreground;
+    margin: 1em 0;
+  }
+
+  #post-content {
+    padding-bottom: 1em;
+
+    p:first-child {
+      margin-top: 0;
+    }
+
+    p {
+      line-height: 1.5;
+    }
+  }
+}

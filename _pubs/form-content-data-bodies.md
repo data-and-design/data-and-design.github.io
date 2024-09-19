@@ -13,6 +13,7 @@ year: 2021
 date: 2021-02-09
 html_url: https://somatosphere.com/2021/form-content-data-bodies.html/
 themes: [embodiment]
+projects: [biometric-sans]
 ---
 
 The dominant discourse surrounding digital psy technologies such as MindStrong, a teletherapy app designed to detect mental health changes by monitoring changes in typing speed “[down to the millisecond](https://mindstrong.com/how-it-works/)”, is that they uncover interior states by gathering psychologically rich data that was always there. But as the Tracking Digital Psy series editors outline in their [call for contributors](https://somatosphere.com/2020/tracking-digital-psy-mental-health-and-technology-in-an-age-of-disruption.html/), and subsequent pieces have underscored, digital psy technologies do not merely reveal. Rather, they are key points in a socio-technical assemblage geared toward the making of scientific facts about mental illness, the brain, and the body.

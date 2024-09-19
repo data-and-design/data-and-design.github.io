@@ -14,7 +14,7 @@ year: 2021
 date: 2021-11-09
 doi: 10.1184/r1/19799233.v1
 pdf_url: /publications/dsl-design-spaces.pdf
-themes: []
+themes: [visualization]
 ---
 
 ### Abstract
