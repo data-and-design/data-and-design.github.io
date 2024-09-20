@@ -11,23 +11,24 @@ I am recruiting Ph.D. students to join the <span class="dnd">D&D</span> group in
 
 ## Why am I looking for PhD students?
 
-Society needs people who are trained to think deeply about the relationship between technology and society, _and_ are able to put those ideas into practice by creating new technology.
+The world needs people who are trained to think deeply about the relationship between technology and society, _and_ are able to put those ideas into practice by creating new technology.
+
 At the <span class="dnd">Data & Design</span> Group, we are creating a collaborative and inclusive space for people to grow into interdisciplinary researchers that are equipped to respond to society's needs.
 
 ## What kind of work does the <span class="dnd">D&D</span> Group do?
 
 I'm interested in work that can both contribute new ideas to scientific communities, and also make a practical difference in people's everyday lives.
 
-We're primarily working in the domains of _accessible data analysis_ and _data ethics and refusal_.
+We're primarily doing this work in the areas of _accessible data analysis_ and _data ethics and refusal_.
 
 **Accessible data analysis**
 
-We partner with blind collaborators and study participants to co-design tools for non-visual data exploration. These tools support the autonomy and agency of blind users to conduct self-guided data analysis.
+We partner with blind / low-vision (BLV) collaborators to co-design tools for non-visual data exploration. These tools support the autonomy and agency of BLV people to conduct self-guided data analysis.
 
 Example projects:
 
-- [Olli](/projects/olli/)
-- [Umwelt](/projects/umwelt/)
+- [Olli](/projects/olli/), a toolkit for converting visualizations into structured textual descriptions
+- [Umwelt](/projects/umwelt/), an accessible editor for multisensory data representations
 
 Example papers:
 
@@ -59,7 +60,7 @@ I am looking for applicants who:
 
 I'm committed to building a group where people are able to bring diverse lived experiences, interests, and disciplinary perspectives in conversation together.
 
-As you think about working with me, I also encourage you to consider other faculty in Information Science who you might have common interests with, who might be potential future mentors, collaborators, or committee members.
+As you think about working with me, I also encourage you to consider other [faculty in Information Science](https://www.colorado.edu/cmci/people/information-science) who you might have common interests with, who might be potential future mentors, collaborators, or committee members.
 
 ## What is my perspective on advising?
 
