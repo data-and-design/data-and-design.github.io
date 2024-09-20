@@ -11,17 +11,18 @@ I am recruiting Ph.D. students to join the <span class="dnd">D&D</span> group in
 
 ## Why am I looking for PhD students?
 
-Society's most pressing ethical and political questions around technology require interdisciplinary creativity to answer. To create long-term responses to these questions, we need people who are trained to think deeply about how the design of technology reflects normative values and shapes power relations, _and_ are trained to put these ideas into practice by creating new technology that advances equity and justice.
-
-At the <span class="dnd">Data & Design</span> Group, we are creating a collaborative and inclusive space for people to grow into interdisciplinary researchers that are equipped to respond to society's needs. As a research group, we will help each other cultivate a [_critical technical practice_](https://pages.gseis.ucla.edu/faculty/agre/critical.html), using design as a way to study and reimagine socio-technical systems.
+Society needs people who are trained to think deeply about the relationship between technology and society, _and_ are able to put those ideas into practice by creating new technology.
+At the <span class="dnd">Data & Design</span> Group, we are creating a collaborative and inclusive space for people to grow into interdisciplinary researchers that are equipped to respond to society's needs.
 
 ## What kind of work does the <span class="dnd">D&D</span> Group do?
 
-The group takes on work that uses design to study and reimagine socio-technical systems. Our work has primarily been in the domains of _accessible data analysis_ and _data ethics and refusal_.
+I'm interested in work that can both contribute new ideas to scientific communities, and also make a practical difference in people's everyday lives.
+
+We're primarily working in the domains of _accessible data analysis_ and _data ethics and refusal_.
 
 **Accessible data analysis**
 
-We partner with blind collaborators and study participants to co-design novel interfaces for non-visual data exploration. These interfaces support the autonomy and agency of blind users to conduct self-guided data analysis and help them establish common ground with sighted users with shared spatial data metaphors.
+We partner with blind collaborators and study participants to co-design tools for non-visual data exploration. These tools support the autonomy and agency of blind users to conduct self-guided data analysis.
 
 Example projects:
 
@@ -34,28 +35,23 @@ Example papers:
 - [“Customization is Key”: Reconfigurable Content Tokens for Accessible Data Visualizations](/publications/customization/)
 - [Umwelt: Accessible Structured Editing of Multi-Modal Data Representations](/publications/umwelt/)
 
-We also have work in progress on tactile data representations and AI-assisted interpretation, which are potential directions for continued exploration.
-
 **Data ethics and refusal**
 
-We bring together methods from design, empirical social science, and feminist moral philosophy to design software systems that protect the autonomy of research participants online, and develop conceptual frameworks for data refusal to support designers and activists in saying “no” to large-scale data collection by powerful actors.
+We design systems for managing ethics procedures like consent and opt-out for social media research, and develop conceptual frameworks for data refusal to support designers and activists in saying “no” to large-scale data collection by powerful actors.
 
 Example papers:
 
 - [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](/publications/bartleby/)
 - [Data Refusal from Below: A Framework for Understanding, Evaluating, and Envisioning Refusal as Design](/publications/data-refusal/)
 
-In the future, we might explore co-designing systems with data refusers, or thinking about the ethics of social media data archiving.
-
 ## What can a new student expect to work on?
 
-As a new Ph.D. student joining the group, you'll work with me to identify a project that builds on the group's existing work in accessibility or data ethics. Working with you on an initial project where I have more upfront involvement in scoping the project is a way for me to scaffold your learning experience as a junior researcher. As you progress in your Ph.D., I expect that we will work together to develop projects that advance your growth as an independent researcher and articulate your unique research perspective.
+As a new Ph.D. student joining the group, you'll work with me to identify a project that builds on the group's existing work in accessibility or data ethics. Working with you on an initial project where I have more upfront involvement in scoping the project is a way for me to scaffold your learning experience as a junior researcher. As you progress in your Ph.D., I expect that we will work together to develop projects that closely reflect your goals and interests and advance your growth as an independent researcher.
 
 ## What kind of applicants am I looking for?
 
 I am looking for applicants who:
 
-- are developing a unique point of view on technology and society
 - are excited to contribute to and shape the shared research trajectory of the group
 - want to build interdisciplinary skills across engineering, design, social sciences, and the humanities
 - can help create a welcoming and inclusive research group culture
