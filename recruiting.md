@@ -7,7 +7,7 @@ date: 2024-09-18
 
 The <span class="dnd">Data & Design</span> Group is a new research group forming in the Department of Information Science at the University of Colorado Boulder. This page contains information for prospective Ph.D. students about our research, what we can accomplish together, and how to apply.
 
-I am recruiting Ph.D. students to join the group in Fall 2025 (**applications due December 1, 2024**).
+I am recruiting Ph.D. students to join the <span class="dnd">D&D</span> group in Fall 2025 (**applications due December 1, 2024**).
 
 ## Why am I looking for PhD students?
 
@@ -17,7 +17,7 @@ At the <span class="dnd">Data & Design</span> Group, we are creating a collabora
 
 ## What kind of work does the <span class="dnd">D&D</span> Group do?
 
-Current priority areas for the group include _accessible data analysis_ and _data ethics and refusal_. Our projects involve a variety of methods and outputs: system design, qualitative work, design frameworks, etc.
+The group takes on work that uses design to study and reimagine socio-technical systems. Our work has primarily been in the domains of _accessible data analysis_ and _data ethics and refusal_.
 
 **Accessible data analysis**
 
@@ -47,19 +47,21 @@ Example papers:
 
 In the future, we might explore co-designing systems with data refusers, or thinking about the ethics of social media data archiving.
 
-## What can I expect to work on?
+## What can a new student expect to work on?
 
-As a new Ph.D. student joining the group, I expect to work with you to identify a project that builds on the group's existing work in accessibility or data ethics. This is because I want new group members to use the first project as a learning experience, to align on an understanding of the end-to-end research process. Working with you on an initial project where I have more upfront involvement in scoping the project and identifying the audience is a way for me to scaffold that learning experience. As you progress in your Ph.D., I expect that we will work together to develop projects that advance your growth as an independent researcher and articulate your unique research perspective.
+As a new Ph.D. student joining the group, you'll work with me to identify a project that builds on the group's existing work in accessibility or data ethics. Working with you on an initial project where I have more upfront involvement in scoping the project is a way for me to scaffold your learning experience as a junior researcher. As you progress in your Ph.D., I expect that we will work together to develop projects that advance your growth as an independent researcher and articulate your unique research perspective.
 
 ## What kind of applicants am I looking for?
 
-I am looking for applicants with any disciplinary background who:
+I am looking for applicants who:
 
-- are developing a point of view on technology and society
+- are developing a unique point of view on technology and society
 - are excited to contribute to and shape the shared research trajectory of the group
 - want to build interdisciplinary skills across engineering, design, social sciences, and the humanities
 - can help create a welcoming and inclusive research group culture
 - have the potential to grow into leaders in our group, the department, and the wider field of HCI
+
+I'm committed to building a group where people are able to bring diverse lived experiences, interests, and disciplinary perspectives in conversation together.
 
 As you think about working with me, I also encourage you to consider other faculty in Information Science who you might have common interests with, who might be potential future mentors, collaborators, or committee members.
 
@@ -81,8 +83,8 @@ If you have questions or want to learn more about the research group, feel free 
 
 ## Additional resources
 
-- [Illustrated guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/) — Matt Might
 - [PhD admissions advice](https://cfiesler.medium.com/phd-admissions-advice-b7a44f97417a) — Casey Fiesler
 - [Advice on different kinds of programs](https://natematias.medium.com/so-you-want-to-study-technology-democracy-and-social-change-9ef3e73fa635) — Nate Matias
+- [Illustrated guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/) — Matt Might
 - [Open PhD positions in visualization](https://vis-phd-positions.netlify.app/)
 - [Open PhD positions in HCI](https://www.andrewkuz.net/public/dashboards/cs-hci-phd-opportunities/2024/html/cs-hci-phd-opportunities-2024.html)

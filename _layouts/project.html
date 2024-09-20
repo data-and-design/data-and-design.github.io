@@ -1,34 +1,74 @@
 ---
 layout: page
 ---
-  {{page.title}}
-  {{page.description | capitalize}}
+
+<div id="project" class="pure-u-1  pure-u-md-3-4">
+  <h1>{{page.title}}</h1>
+
+  <h3>{{page.description | capitalize}}</h3>
+
+  <div class="project-meta">
+    Research themes:
+    {% for theme in page.themes %}
+      {% assign themeRecord = site.data.research_themes | where: "key", theme | first %}
+      <a href="{{site.baseurl}}/research#theme-{{theme}}">{{themeRecord.name}}</a>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </div>
+
   {{content}}
 
-  <h4>
-    Publications
-  </h4>
+  <div class="project-references">
+    <h4>
+      Publications
+    </h4>
 
-  <ul>
-    {% assign pubYears = site.pubs | group_by:"year" | sort: "name" | reverse %}
-    {% for year in pubYears %}
-      {% assign pubs = year.items | sort: 'date' | reverse %}
-      {% for pub in pubs %}
-        {% if pub.projects and pub.projects contains page.key %}
-          {% assign url = pub.external_url | default: pub.url | relative_url | replace: 'index.html', '' %}
-          {% capture authors %}
-            {% for author in pub.authors %}
-              {% assign person = site.data.authors[author.key] %}
-              {% assign name = author.name | default:person.name %}
-              {% if person.url or author.url %}
-                <a href="{{person.url | default: author.url}}">{{name}}</a>{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}
-              {% else %}
+    <ul>
+      {% assign pubYears = site.pubs | group_by:"year" | sort: "name" | reverse %}
+      {% for year in pubYears %}
+        {% assign pubs = year.items | sort: 'date' | reverse %}
+        {% for pub in pubs %}
+          {% if pub.projects and pub.projects contains page.key %}
+            {% assign url = pub.external_url | default: pub.url | relative_url | replace: 'index.html', '' %}
+            {% capture authors %}
+              {% for author in pub.authors %}
+                {% assign person = site.data.authors[author.key] %}
+                {% assign name = author.name | default:person.name %}
                 {{name}}{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}
-              {% endif %}
-            {% endfor %}
-          {% endcapture %}
-          <li class="pub"><a href="{{url}}">{{pub.year}}. <span class="title">{{pub.title}}</span>. {{authors | strip }}. {{site.data.venues[pub.venue].short}}. <span class="award">{{pub.award}}</span></a></li>
-        {% endif %}
+              {% endfor %}
+            {% endcapture %}
+            <li class="pub"><a href="{{url}}">{{pub.year}}. <span class="title">{{pub.title}}</span>. {{authors | strip }}. {{site.data.venues[pub.venue].short}}. <span class="award">{{pub.award}}</span></a></li>
+          {% endif %}
+        {% endfor %}
       {% endfor %}
-    {% endfor %}
-  </ul>
+    </ul>
+
+    {% assign exhibitions = site.data.exhibitions | where_exp: "x", "x.projects contains page.key" %}
+    {% if exhibitions and exhibitions.size > 0 %}
+      <h4>
+        Exhibitions
+      </h4>
+      <ul class="project-reference">
+        {% for exhibition in exhibitions %}
+          <li>
+            <a href="{{ exhibition.url }}">{{exhibition.year}}. <span class="title">{{ exhibition.title }}</span>. {{ exhibition.venue }}.</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+
+    {% assign press = site.data.press | where_exp: "x", "x.projects contains page.key" %}
+    {% if press and press.size > 0 %}
+      <h4>
+        Press
+      </h4>
+      <ul class="project-reference">
+        {% for post in press %}
+          <li>
+            <a href="{{ post.url }}">{{post.year}}. <span class="title">{{ post.title }}</span>. {{ post.venue }}.</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+</div>

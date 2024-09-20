@@ -3,6 +3,7 @@
   title: New software enables blind and low-vision users to create interactive, accessible
     charts
   venue: MIT News
+  projects: [umwelt]
 - year: '2024'
   url: https://news.mit.edu/2024/how-refusal-can-be-an-act-of-design-jonathan-zong-0325
   title: 'Q&A: How refusal can be an act of design'
@@ -15,14 +16,17 @@
   url: https://www.nature.com/articles/d41586-023-00645-6
   title: These tools help visually impaired scientists read data and journals
   venue: Nature Technology Features
+  projects: [olli]
 - year: '2022'
   url: https://news.mit.edu/2022/data-visualization-accessible-blind-0602
   title: Making data visualization more accessible for blind and low-vision individuals
   venue: MIT News
+  projects: [olli]
 - year: '2022'
   url: https://news.mit.edu/2022/3-questions-jonathan-zong-designing-software-research-ethics-0426
   title: '3 Questions: Designing software for research ethics'
   venue: MIT News
+  projects: [bartleby]
 - year: '2021'
   url: https://www.csail.mit.edu/news/helping-data-journalists-create-interactive-graphics
   title: Helping data journalists create interactive graphics
@@ -31,3 +35,4 @@
   url: https://www.artandeducation.net/announcements/343843/wrecked-alphabet
   title: Forty artists elide, dismantle, and politicize the alphabet
   venue: Art & Education
+  projects: [biometric-sans]

@@ -70,11 +70,7 @@ title: Research Themes
                     {% for author in pub.authors %}
                       {% assign person = site.data.authors[author.key] %}
                       {% assign name = author.name | default:person.name %}
-                      {% if person.url or author.url %}
-                        <a href="{{person.url | default: author.url}}">{{name}}</a>{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}
-                      {% else %}
-                        {{name}}{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}
-                      {% endif %}
+                      {{name}}{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}
                     {% endfor %}
                   {% endcapture %}
                   <li class="pub"><a href="{{url}}">{{pub.year}}. <span class="title">{{pub.title}}</span>. {{authors | strip }}. {{site.data.venues[pub.venue].short}}. <span class="award">{{pub.award}}</span></a></li>
