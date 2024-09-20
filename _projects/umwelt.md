@@ -1,7 +1,7 @@
 ---
 key: umwelt
 title: Umwelt
-description: accessible editor for multimodal data representations
+description: accessible editor for representing data with visuals, text, and sound
 imgAlt: Example visualization, textual description, and sonification created with Umwelt
 year: 2024
 themes: [access]

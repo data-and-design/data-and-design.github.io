@@ -5,9 +5,9 @@ author: jzong
 date: 2024-09-18
 ---
 
-The <span class="dnd">Data & Design</span> Group is a new research group forming in the Department of Information Science at the University of Colorado Boulder. This page contains information for prospective Ph.D. students about our research, what we can accomplish together, and how to apply.
+The <span class="dnd">Data & Design</span> Group is a research group in the Department of Information Science at the University of Colorado Boulder. This page contains information for prospective Ph.D. students about our research, what we can accomplish together, and how to apply.
 
-I am recruiting Ph.D. students to join the <span class="dnd">D&D</span> group in Fall 2025 (**applications due December 1, 2024**).
+I'm recruiting Ph.D. students to join the <span class="dnd">D&D</span> group in Fall 2025 (**applications due December 1, 2024**).
 
 ## Why am I looking for PhD students?
 
@@ -17,28 +17,28 @@ At the <span class="dnd">Data & Design</span> Group, we are creating a collabora
 
 ## What kind of work does the <span class="dnd">D&D</span> Group do?
 
-I'm interested in work that can both contribute new ideas to scientific communities, and also make a practical difference in people's everyday lives.
+We're interested in work that can both contribute new ideas to scientific communities, and also make a practical difference in people's everyday lives.
 
-We're primarily doing this work in the areas of _accessible data analysis_ and _data ethics and refusal_.
+We're primarily doing this work in the areas of _accessible data visualization_ and _data ethics_. What do these areas have in common? Part of the underlying motivation of our work is to understand how the design of software can shape inclusion and exclusion in society. Making new software is a way to study this relationship and also try to create change.
 
-**Accessible data analysis**
+**Accessible data visualization**
 
-We partner with blind / low-vision (BLV) collaborators to co-design tools for non-visual data exploration. These tools support the autonomy and agency of BLV people to conduct self-guided data analysis.
+We partner with blind / low-vision (BLV) collaborators to design tools for non-visual data exploration. These tools support the autonomy and agency of BLV people to conduct data analysis.
 
 Example projects:
 
 - [Olli](/projects/olli/), a toolkit for converting visualizations into structured textual descriptions
-- [Umwelt](/projects/umwelt/), an accessible editor for multisensory data representations
+- [Umwelt](/projects/umwelt/), an accessible editor for representing data with visuals, text, and sound
 
 Example papers:
 
 - [Rich Screen Reader Experiences for Accessible Data Visualization](/publications/rich-screen-reader-vis-experiences/)
-- [“Customization is Key”: Reconfigurable Content Tokens for Accessible Data Visualizations](/publications/customization/)
+- <span style="margin-left: -0.25em">“</span>[Customization is Key”: Reconfigurable Content Tokens for Accessible Data Visualizations](/publications/customization/)
 - [Umwelt: Accessible Structured Editing of Multi-Modal Data Representations](/publications/umwelt/)
 
-**Data ethics and refusal**
+**Data ethics**
 
-We design systems for managing ethics procedures like consent and opt-out for social media research, and develop design frameworks to support designers and activists in saying “no” to large-scale data collection by powerful actors.
+We design systems and create conceptual frameworks that help people say “no” to large-scale data collection that they don't want to be part of.
 
 Example papers:
 
