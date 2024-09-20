@@ -38,7 +38,7 @@ Example papers:
 
 **Data ethics and refusal**
 
-We design systems for managing ethics procedures like consent and opt-out for social media research, and develop conceptual frameworks for data refusal to support designers and activists in saying “no” to large-scale data collection by powerful actors.
+We design systems for managing ethics procedures like consent and opt-out for social media research, and develop design frameworks to support designers and activists in saying “no” to large-scale data collection by powerful actors.
 
 Example papers:
 
@@ -56,7 +56,7 @@ I am looking for applicants who:
 - are excited to contribute to and shape the shared research trajectory of the group
 - want to build interdisciplinary skills across engineering, design, social sciences, and the humanities
 - can help create a welcoming and inclusive research group culture
-- have the potential to grow into leaders in our group, the department, and the wider field of HCI
+- have the potential to grow into leaders in our group, the department, and our research communities
 
 I'm committed to building a group where people are able to bring diverse lived experiences, interests, and disciplinary perspectives in conversation together.
 
