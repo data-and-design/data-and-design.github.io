@@ -71,7 +71,7 @@ The goal of a Ph.D. is to launch your career as a researcher (whether in academi
 
 Acknowledging that people enter grad school with different goals and experiences, I see my job as figuring out how I can best help you succeed. Sometimes this will mean challenging you to stretch your capabilities so you can grow; other times, it will mean getting out of the way so you can fully exercise your agency. How this will work in practice is something we can figure out together.
 
-## How do I apply?
+## How does one apply?
 
 Apply through the CU Boulder application system, linked below. In your cover letter, please name me as a prospective advisor so that I see your application.
 
