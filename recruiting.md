@@ -19,7 +19,7 @@ At the <span class="dnd">Data & Design</span> Group, we are creating a collabora
 
 We're interested in work that can both contribute new ideas to scientific communities, and also make a practical difference in people's everyday lives.
 
-We're primarily doing this work in the areas of _accessible data visualization_ and _data ethics_. What do these areas have in common? Part of the underlying motivation of our work is to understand how the design of software can shape inclusion and exclusion in society. Making new software is a way to study this relationship and also try to create change.
+We're primarily doing this work in the areas of _accessible data visualization_ and _data ethics_. What do these areas have in common? Part of the underlying motivation of our work is to understand how the design of software can shape inclusion and exclusion in society. Making new software is a way to study this relationship and also work to create change.
 
 **Accessible data visualization**
 
