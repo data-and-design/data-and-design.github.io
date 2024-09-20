@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data & Design Group
+title: 'Data & Design Group'
 description: >- # this means to ignore newlines until "baseurl:"
   We are an interdisciplinary research group at the
   University of Colorado Boulder that uses design to understand and reimagine socio-technical systems.
@@ -52,6 +52,10 @@ defaults:
       type: projects
     values:
       layout: project
+  - scope:
+      path: ''
+    values:
+      image: /imgs/card.png
 
 # Build settings
 sass:
