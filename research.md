@@ -78,6 +78,20 @@ title: Research Themes
               {% endfor %}
             {% endfor %}
           </ul>
+
+          {% assign exhibitions = site.data.exhibitions | where_exp: "x", "x.themes contains theme.key" %}
+          {% if exhibitions and exhibitions.size > 0 %}
+            <h4>
+              Exhibitions
+            </h4>
+            <ul>
+              {% for exhibition in exhibitions %}
+                <li class="pub">
+                  <a href="{{ exhibition.url }}">{{exhibition.year}}. <span class="title">{{ exhibition.title }}</span>. {{ exhibition.venue }}.</a>
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
         </div>
       </div>
     {% endfor %}
