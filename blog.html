@@ -6,7 +6,12 @@ title: Blog
 
 <h1>Blog posts</h1>
 
-{% for post in site.posts %}
+{% assign posts = site.posts | where: 'draft', nil | sort: 'date' | reverse %}
+{% if posts.size == 0%}
+  <p>Coming soon!</p>
+{% endif %}
+
+{% for post in posts %}
   <article class="entry">
     <div class="pure-g">
       <div class="pure-u-1-5">
