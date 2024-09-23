@@ -89,6 +89,8 @@ li {
 }
 
 .cta {
+  background: $foreground;
+  color: $accent;
   font-style: italic;
   &:hover {
     font-style: normal;
