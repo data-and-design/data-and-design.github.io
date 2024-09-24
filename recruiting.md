@@ -66,7 +66,7 @@ As you think about working with me, I also encourage you to consider other [facu
 
 The goal of a Ph.D. is to launch your career as a researcher (whether in academia, industry, civil service, or otherwise). In that process, an advisor plays many roles at different times: collaborator, thought partner, coach, advocate, and more. At a baseline, I believe successful advising relationships require trust, proactive communication, and clear expectation setting from both parties.
 
-Acknowledging that people enter grad school with different goals and experiences, I see my job as figuring out how I can best help you succeed. Sometimes this will mean challenging you to stretch your capabilities so you can grow; other times, it will mean getting out of the way so you can fully exercise your agency. How this will work in practice is something we can figure out together.
+Acknowledging that people enter grad school with different goals and experiences, I see my job as figuring out how I can best help you succeed. Sometimes this will mean challenging you to stretch your capabilities so you can grow; other times, it will mean getting out of the way so you can fully exercise your agency.
 
 ## How does one apply?
 
