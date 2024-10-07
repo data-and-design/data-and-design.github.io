@@ -76,6 +76,14 @@ Apply through the CU Boulder application system, linked below. In your cover let
 - [Read the FAQ](https://www.colorado.edu/cmci/infoscience/gd/faq)
 - [Access the application system](https://grad.apply.colorado.edu/apply/)
 
+Additionally, there are upcoming Zoom information sessions about the Information Science PhD program. There will be general information, and then breakout rooms where a member of the department’s graduate committee will be available to speak more specifically to the program and answer questions. Registration links are below. For questions about the registration process email [cmcigrad@colorado.edu](mailto:cmcigrad@colorado.edu).
+
+Registration links:
+
+- Tuesday, October 8th at 5:00 pm (MDT):  [https://cuboulder.qualtrics.com/jfe/form/SV_0cAK7GxdAgcv6VU](https://cuboulder.qualtrics.com/jfe/form/SV_0cAK7GxdAgcv6VU)
+- Wednesday, October 16 at 10:00 am (MDT):
+  [Https://cuboulder.qualtrics.com/jfe/form/SV_8wyhhmhv59WqnYi](Https://cuboulder.qualtrics.com/jfe/form/SV_8wyhhmhv59WqnYi)
+
 If you have questions or want to learn more about the research group, feel free to email me at <a href="mailto:jzong@colorado.edu">jzong@colorado.edu</a>. However, you are not required to reach out to me first to be a successful applicant.
 
 ## Additional resources
