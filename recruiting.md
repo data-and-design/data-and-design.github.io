@@ -56,7 +56,7 @@ I am looking for applicants who:
 - are excited to contribute to and shape the shared research trajectory of the group
 - want to build interdisciplinary skills across engineering, design, social sciences, and the humanities
 - can help create a welcoming and inclusive research group culture
-- have the potential to grow into leaders in our group, the department, and our research communities
+- have the potential to grow into leaders in our group, the department, and our wider research communities
 
 I'm committed to building a group where people are able to bring diverse lived experiences, interests, and disciplinary perspectives in conversation together.
 
