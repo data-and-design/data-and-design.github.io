@@ -6,22 +6,6 @@
   text-decoration: none;
 }
 
-#logo {
-  font-family: Control-Cursive;
-  font-weight: 900;
-  line-height: 1;
-  font-size: 48px;
-  user-select: none;
-  font-style: normal;
-
-  display: inline-block;
-
-  @include for-md-down {
-    font-size: 36px;
-    padding-bottom: 15px;
-  }
-}
-
 #logo-svg {
   display: inline-block;
   height: 150px;
@@ -39,7 +23,7 @@
 
 .dnd {
   font-family: Control-Cursive;
-  font-weight: 900;
+  font-weight: 700;
   text-decoration: none;
 }
 
