@@ -6,7 +6,7 @@ title: Blog
 
 <h1>Blog posts</h1>
 
-{% assign posts = site.posts | where: 'draft', nil | sort: 'date' | reverse %}
+{% assign posts = site.posts | sort: 'date' | reverse %}
 {% if posts.size == 0%}
   <p>Coming soon!</p>
 {% endif %}
@@ -17,8 +17,15 @@ title: Blog
       <div class="pure-u-1-5">
         {{ post.date | date: "%b %-d, %Y" }}
       </div>
-      <div class="pure-u-4-5">
+      <div class="pure-u-3-5">
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </div>
+      <div class="pure-u-1-5">
+        {% if site.data.authors[post.author] %}
+          {{ site.data.authors[post.author].name }}
+        {% else %}
+          {{ post.author }}
+        {% endif %}
       </div>
   </article>
 {% endfor %}

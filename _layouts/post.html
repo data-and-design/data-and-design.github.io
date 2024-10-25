@@ -5,12 +5,22 @@ layout: page
 <article class="post pure-g">
   <div id="post-header" class="pure-u-1  pure-u-md-3-4">
     <h1 class="title">{{page.title}}</h1>
-    <div id="author">
+    <div id="author-container">
       {% if site.data.authors[page.author] %}
-        {{ site.data.authors[page.author].name }}
-      {% else %}
-        {{ page.author }}
+        {% assign person = site.data.authors[author.key] %}
+        <div id="author-photo" class="portrait monotone">
+          <a href="{{person.url}}">
+            <img src="/imgs/people/{{page.author}}.jpg" alt="{{person.name}}" />
+          </a>
+        </div>
       {% endif %}
+      <div id="author">
+        {% if site.data.authors[page.author] %}
+          {{ site.data.authors[page.author].name }}
+        {% else %}
+          {{ page.author }}
+        {% endif %}
+      </div>
     </div>
     <div id="date">{{ page.date | date: "%b %-d, %Y" }}</div>
   </div>
