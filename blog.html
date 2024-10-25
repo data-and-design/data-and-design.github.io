@@ -17,15 +17,28 @@ title: Blog
       <div class="pure-u-1-5">
         {{ post.date | date: "%b %-d, %Y" }}
       </div>
-      <div class="pure-u-3-5">
+      <div class="pure-u-3-5 column-padding">
+        {% if post.external_url %}
+          <a href="{{ post.external_url }}">{{ post.title }}</a>
+        {% else %}
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        {% endif %}
       </div>
       <div class="pure-u-1-5">
-        {% if site.data.authors[post.author] %}
-          {{ site.data.authors[post.author].name }}
+        {% if post.authors %}
+          {% assign authors = post.authors %}
         {% else %}
-          {{ post.author }}
+          {% assign authors = "" | split: "," %}
+          {% assign authors = authors | push: post.author %}
         {% endif %}
+
+        {% for author in authors  %}
+          {% if site.data.authors[author] %}
+            {{ site.data.authors[author].name }}{% unless forloop.last %},{% endunless %}
+          {% else %}
+            {{ author }}{% unless forloop.last %},{% endunless %}
+          {% endif %}
+        {% endfor %}
       </div>
   </article>
 {% endfor %}
