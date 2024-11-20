@@ -94,6 +94,9 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
       <a href="https://twitter.com/cudatadesign">Twitter</a>
     </p>
     <p>
+      <a href="https://bsky.app/profile/data-and-design.org">Bluesky</a>
+    </p>
+    <p>
       <a href="https://www.linkedin.com/company/cudatadesign">LinkedIn</a>
     </p>
     <p>
