@@ -90,9 +90,9 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
   <div class="pure-u-1 pure-u-md-1-2">
     <h1>Stay in touch</h1>
 
-    <p>
+    <!-- <p>
       <a href="https://twitter.com/cudatadesign">Twitter</a>
-    </p>
+    </p> -->
     <p>
       <a href="https://bsky.app/profile/data-and-design.org">Bluesky</a>
     </p>
