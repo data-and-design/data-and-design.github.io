@@ -25,6 +25,8 @@
 .portrait img {
   width: 100px;
   height: 100px;
+  display: block;
+  border: 1px solid $foreground;
 }
 
 .mission-item {
