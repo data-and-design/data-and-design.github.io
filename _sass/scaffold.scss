@@ -24,10 +24,6 @@ html, body {
   font-size: 21px;
   font-weight: 500;
   line-height: 1.3;
-  // background-color: $background;
-  // background-image:  radial-gradient(rgba($foreground, 0.1) 3px, transparent 1px), radial-gradient(rgba($foreground, 0.1) 3px, $background 1px);
-  // background-size: 50px 50px;
-  // background-position: 0 0,25px 25px;
 }
 
 html, button, input, select, textarea {
@@ -35,6 +31,7 @@ html, button, input, select, textarea {
 }
 
 body {
+  background: url('/imgs/textured-paper-light.png');
   padding: 15px 30px;
   padding-bottom: 30px;
 
@@ -49,14 +46,14 @@ body {
   margin: 0 auto;
 }
 
-.monotone {
+.textured {
   background: $foreground;
+  background: url('/imgs/textured-paper-light.png');
 }
 
-.monotone img {
+.textured img {
   display: block;
-  mix-blend-mode: screen;
-  filter: grayscale(100%);
+  mix-blend-mode: multiply;
   opacity: 1;
   border: 1px solid $foreground;
 }
@@ -112,20 +109,4 @@ li {
 
 h1 a, h2 a, h3 a {
   text-decoration: none;
-}
-
-#p5-container {
-  width: 100vw;
-  height: 100vh;
-  position: fixed;
-  z-index: -1;
-  pointer-events: none;
-  top: 0;
-  left: 0;
-
-  canvas {
-    position: relative;
-    top: 0;
-    left: 0;
-  }
 }

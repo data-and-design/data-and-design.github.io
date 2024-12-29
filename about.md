@@ -91,7 +91,7 @@ title: About
         {% assign person = person_tuple[1] %}
         {% unless person.external %}
         <div class="person">
-          <div class="portrait monotone">
+          <div class="portrait textured">
             <a href="{{person.url}}">
               {% capture defaultAlt %}
                 Photo of {{person.name}}
@@ -124,7 +124,7 @@ title: About
         {% assign person = person_tuple[1] %}
         {% if person.collaborator %}
         <div class="person">
-          <div class="portrait monotone">
+          <div class="portrait textured">
             <a href="{{person.url}}">
               <img src="/imgs/people/{{person_tuple[0]}}.jpg" alt="{{person.name}}" />
             </a>
