@@ -21,12 +21,12 @@ title: Research Themes
     <ul class="themes-list">
       {% for theme in site.data.research_themes %}
         <li>
-          <p>
+          <div>
             <a href="#theme-{{theme.key}}">{{theme.name}}</a>
-          </p>
-          <p class="themes-list-desc">
+          </div>
+          <div class="themes-list-desc">
             {{theme.desc}}
-          </p>
+          </div>
         </li>
       {% endfor %}
     </ul>
