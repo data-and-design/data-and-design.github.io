@@ -7,7 +7,7 @@
   desc: >
     We design abstractions and interfaces that help users rapidly conduct data exploration using a broad set of spatial and temporal visualization techniques.
 - key: refusal
-  name: Data Refusal and Design
+  name: Data Refusal as Design
   desc: >
     We develop software and frameworks to support designers and activists in refusing large-scale data collection by powerful actors.
 - key: embodiment
