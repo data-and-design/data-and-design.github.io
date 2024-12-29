@@ -14,7 +14,7 @@ layout: page
     {% for author in authors  %}
       <div id="author-container">
         {% if site.data.authors[author] %}
-          {% assign person = site.data.authors[author.key] %}
+          {% assign person = site.data.authors[author] %}
           <div id="author-photo" class="portrait textured">
             <a href="{{person.url}}">
               <img src="/imgs/people/{{author}}.jpg" alt="{{person.name}}" />
