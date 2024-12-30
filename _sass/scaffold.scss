@@ -46,18 +46,6 @@ body {
   margin: 0 auto;
 }
 
-.textured {
-  background: $foreground;
-  background: url('/imgs/textured-paper-light.png');
-}
-
-.textured img {
-  display: block;
-  mix-blend-mode: multiply;
-  opacity: 1;
-  border: 1px solid $foreground;
-}
-
 a {
   text-decoration: underline;
   color: inherit;

@@ -19,8 +19,8 @@ layout: page
       {% for project in projects %}
         <div class="pure-u-1 pure-u-md-1-2 project">
             {% if project.imgAlt %}
-              <div class="textured">
-                <a href="/projects/{{project.slug}}"><img src="/imgs/thumbs/{{project.key}}.png" alt="{{project.imgAlt}}" /></a>
+              <div>
+                <a href="/projects/{{project.slug}}"><img src="/imgs/projects/{{project.key}}.png" alt="{{project.imgAlt}}" /></a>
               </div>
             {% endif %}
             <a href="/projects/{{project.slug}}"><h2>{{project.title}}</h2></a>
