@@ -112,7 +112,7 @@ title: About
     &nbsp;
   </div>
   <div class="pure-u-1 pure-u-md-1-2">
-    {% include hiring-cta.html %}
+    <a href="/recruiting/" class="arrow-link"><span class="cta">Join us <span aria-hidden>&rarr;</span></span></a>
   </div>
 </div>
 
