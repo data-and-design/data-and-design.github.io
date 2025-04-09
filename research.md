@@ -39,7 +39,7 @@ title: Research Themes
     {% for theme in site.data.research_themes %}
       <div id="theme-{{theme.key}}" class="theme">
         <div class="content">
-          <h3>{{theme.name}}</h3>
+          <h3><a href="#theme-{{theme.key}}">{{theme.name}}</a></h3>
           {{theme.desc | markdownify}}
           {% capture projectOutput %}
             {% assign projectYears = site.projects | group_by:"year" | sort: "name" | reverse %}
