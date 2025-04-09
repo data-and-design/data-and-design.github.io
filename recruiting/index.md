@@ -18,7 +18,7 @@ _The deadline for 2025 has passed._
 
 ## MS applicants
 
-The [MS in Information Science](https://www.colorado.edu/cmci/infoscience/ms-information-science) is a research oriented Master's program.
+Students can also apply to join the group via the [MS in Information Science](https://www.colorado.edu/cmci/infoscience/ms-information-science), a research oriented Master's program.
 
 _The deadline for 2025 has passed._
 
