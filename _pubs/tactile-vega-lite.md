@@ -11,7 +11,7 @@ year: 2025
 date: 2025-05-31
 doi: 10.1145/3706598.3714132
 pdf_url: /publications/tactile-vega-lite.pdf
-# html_url: https://dl.acm.org/doi/fullHtml/10.1145/3706598.3714132
+html_url: https://dl.acm.org/doi/fullHtml/10.1145/3706598.3714132
 themes: [access, visualization]
 # projects: [umwelt, olli]
 ---
