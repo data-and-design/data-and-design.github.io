@@ -62,14 +62,14 @@
 
 details {
   max-width: 140px;
-  max-height: 3rem;
+  max-height: 2.5rem;
   overflow: hidden;
-  transition: all 200ms ease-out;
+  transition: all 150ms ease-in-out;
 }
 
 details[open] {
-  max-width: 250px;
-  max-height: 12rem;
+  max-width: 275px;
+  max-height: 10rem;
 }
 
 @media screen and (max-width: 1237px) {
