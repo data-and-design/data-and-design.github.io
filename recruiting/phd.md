@@ -87,5 +87,5 @@ If you have questions or want to learn more about the research group, feel free 
 - [The PhD application from a faculty perspective](https://www.eugenewu.net/general/2024/11/28/phdtips.html) — Eugene Wu
 - [HCI PhD application office hours 2024](https://docs.google.com/document/d/1aNN4YvKXOI0hxeXIcb7nwxMIVgpGWnY-RW7GwZmdy1w/edit?tab=t.0)
 - [Illustrated guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/) — Matt Might
-- [Open PhD positions in visualization](https://vis-phd-positions.netlify.app/) — Andrew McNutt
-- [Open PhD positions in HCI](https://www.andrewkuz.net/public/dashboards/cs-hci-phd-opportunities/2024/html/cs-hci-phd-opportunities-2024.html) — Andrew Kuznetsov
+<!-- - [Open PhD positions in visualization](https://vis-phd-positions.netlify.app/) — Andrew McNutt
+- [Open PhD positions in HCI](https://www.andrewkuz.net/public/dashboards/cs-hci-phd-opportunities/2024/html/cs-hci-phd-opportunities-2024.html) — Andrew Kuznetsov -->
