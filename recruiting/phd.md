@@ -1,5 +1,6 @@
 ---
 layout: post
+recruiting: true
 title: 'Recruiting Ph.D. Students for Fall 2026'
 author: jzong
 date: 2025-07-02

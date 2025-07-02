@@ -1,5 +1,6 @@
 ---
 title: Join Us
+recruiting: true
 layout: page
 ---
 
