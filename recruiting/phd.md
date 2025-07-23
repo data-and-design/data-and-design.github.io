@@ -74,11 +74,13 @@ Acknowledging that people enter grad school with different goals and experiences
 
 Apply through the CU Boulder application system, linked below. In your cover letter, please name me as a prospective advisor so that I see your application.
 
-- [Learn about the program](https://www.colorado.edu/cmci/infoscience/phd)
-- [Read the FAQ](https://www.colorado.edu/cmci/infoscience/gd/faq)
+- [Learn about the program](https://www.colorado.edu/cmdi/infoscience/phd-information-science)
+- [Read the FAQ](https://www.colorado.edu/cmdi/infoscience/gd/faq)
 - [Access the application system](https://grad.apply.colorado.edu/apply/)
 
 If you have questions or want to learn more about the research group, feel free to email me at <a href="mailto:jzong@colorado.edu">jzong@colorado.edu</a>. However, you are not required to reach out to me first to be a successful applicant.
+
+Because of the volume of applicants, I can't promise to reply to every email or give individualized advice. However, I do my best to respond directly to specific questions.
 
 ## Additional resources
 
