@@ -47,15 +47,15 @@ Example papers:
 - [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](/publications/bartleby/)
 - [Data Refusal from Below: A Framework for Understanding, Evaluating, and Envisioning Refusal as Design](/publications/data-refusal/)
 
-## Do you have funding for students?
-
-Generally, admitted students in our program are guaranteed funding for at least 4 years, and are funded through a combination of TA positions, RA positions, and external fellowships.
-
-The research group has funding to fully support at least one new student this year.
-
 ## What can a new student expect to work on?
 
 As a new Ph.D. student joining the group, you'll work with me to identify a project that builds on the group's existing work in accessibility or data ethics. Working with you on an initial project where I have more upfront involvement in scoping the project is a way for me to scaffold your learning experience as a junior researcher. As you progress in your Ph.D., I expect that we will work together to develop projects that closely reflect your goals and interests and advance your growth as an independent researcher.
+
+## How are students funded?
+
+Generally, admitted students in our program are guaranteed funding for at least 4 years, and are funded through a combination of TA positions, RA positions, and external fellowships. The research group has funding to fully support at least one new student this year.
+
+I expect students to gain experience as both TAs and RAs during their Ph.D. journey, and actively pursue external funding with my support. I believe all of these funding avenues provide valuable experiences for a junior researcher. For instance, being a teaching assistant develops valuable skills in public communication, equitable leadership, and invests in our field's future. Research assistantships grow your research skills while contributing to the group's broader research trajectory. And seeking external funding through fellowships is an important way to develop the communication and visioning skills to make your work legible and exciting to others in order to earn their support.
 
 ## What kind of applicants am I looking for?
 
@@ -67,6 +67,8 @@ I am looking for applicants who:
 - have the potential to grow into leaders in our group, the department, and our wider research communities
 
 I'm committed to building a group where people are able to bring diverse lived experiences, interests, and disciplinary perspectives in conversation together.
+
+**This year, my recruitment priorities are for students with relevant background and/or interest within accessibility, visualization, and design. I'm particularly interested in talking to students who want to bring a critical perspective to designing web frameworks and toolkits. However, I will seriously consider applications that connect with any area of the group's work as described above.**
 
 As you think about working with me, I also encourage you to consider other [faculty in Information Science](https://www.colorado.edu/cmci/people/information-science) who you might have common interests with, who might be potential future mentors, collaborators, or committee members.
 
