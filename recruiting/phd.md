@@ -47,6 +47,12 @@ Example papers:
 - [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](/publications/bartleby/)
 - [Data Refusal from Below: A Framework for Understanding, Evaluating, and Envisioning Refusal as Design](/publications/data-refusal/)
 
+## Do you have funding for students?
+
+Generally, admitted students in our program are guaranteed funding for at least 4 years, and are funded through a combination of TA positions, RA positions, and external fellowships.
+
+The research group has funding to fully support at least one new student this year.
+
 ## What can a new student expect to work on?
 
 As a new Ph.D. student joining the group, you'll work with me to identify a project that builds on the group's existing work in accessibility or data ethics. Working with you on an initial project where I have more upfront involvement in scoping the project is a way for me to scaffold your learning experience as a junior researcher. As you progress in your Ph.D., I expect that we will work together to develop projects that closely reflect your goals and interests and advance your growth as an independent researcher.
