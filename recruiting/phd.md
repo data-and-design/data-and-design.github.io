@@ -68,7 +68,7 @@ I am looking for applicants who:
 
 I'm committed to building a group where people are able to bring diverse lived experiences, interests, and disciplinary perspectives in conversation together.
 
-**This year, my recruitment priorities are for students with relevant background and/or interest within accessibility, visualization, and design. I'm particularly interested in talking to students who want to bring a critical perspective to designing web frameworks and toolkits. However, I will seriously consider applications that connect with any area of the group's work as described above.**
+This year, my recruitment priorities are for students with relevant background and/or interest within **accessibility, visualization, and design**. I'm particularly interested in talking to students who want to **bring a critical perspective to designing web frameworks and toolkits**. However, I will seriously consider applications that connect with any area of the group's work as described above.
 
 As you think about working with me, I also encourage you to consider other [faculty in Information Science](https://www.colorado.edu/cmci/people/information-science) who you might have common interests with, who might be potential future mentors, collaborators, or committee members.
 
