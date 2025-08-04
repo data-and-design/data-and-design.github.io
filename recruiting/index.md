@@ -30,4 +30,4 @@ Current CU Boulder undergraduates can apply to work with the <span class="dnd">D
 
 ## CU Undergrads
 
-Exceptional undergraduates who are interested in research should [contact Jonathan](mailto:jzong@colorado.edu) with a brief statement of interest. Research positions will depend on project and mentor availability.
+Exceptional undergraduates who are interested in research should [contact Jonathan](mailto:jzong@colorado.edu) with a resume and a brief statement explaining your interests and why you would be a good fit for the research group. Research positions will depend on project and mentor availability.
