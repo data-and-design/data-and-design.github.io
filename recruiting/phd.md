@@ -55,7 +55,7 @@ As a new Ph.D. student joining the group, you'll work with me to identify a proj
 
 Generally, admitted students in our program are guaranteed funding for at least 4 years, and are funded through a combination of TA positions, RA positions, and external fellowships. The research group has funding to fully support at least one new student this year.
 
-I expect students to gain experience as both TAs and RAs during their Ph.D. journey, and actively pursue external funding with my support. I believe all of these funding avenues provide valuable experiences for a junior researcher. For instance, being a teaching assistant develops valuable skills in public communication, equitable leadership, and invests in our field's future. Research assistantships grow your research skills while contributing to the group's broader research trajectory. And seeking external funding through fellowships is an important way to develop the communication and visioning skills to make your work legible and exciting to others in order to earn their support.
+I expect students to gain experience as both TAs and RAs during their Ph.D. journey, and actively pursue external funding with my support. I believe all of these funding avenues provide valuable experiences for a junior researcher. For instance, being a teaching assistant develops valuable skills in public communication, equitable leadership, and invests in our field's future. Research assistantships grow your research skills while contributing to the group's broader research trajectory. And seeking external funding through fellowships is an important way to develop the communication and visioning skills to make your work legible and exciting to others.
 
 ## What kind of applicants am I looking for?
 
