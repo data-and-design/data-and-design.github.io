@@ -92,3 +92,4 @@ Optional fields:
 
 - Add the pdf to `/publications`
   - The pdf filename should match the page filename
+  - Update pdf_url in the md page to match
