@@ -18,7 +18,7 @@ bundle install
 - Serve your content
 
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ```
 
 - Check localhost:4000 for your content
@@ -48,3 +48,11 @@ Optional fields:
     - Extension must be .jpg
     - Ideally compress to under 1mb
     - Filename must match the key of the person record in `authors.yml`
+
+## How to add a publication
+
+- Create publication markdown page in `/_pubs`
+    - The filename will be the url slug, i.e. `https://data-and-design.org/publications/[filename]`
+    - The publication record is defined at the top of the md page, in the front matter
+- Add the pdf to `/publications`
+    - The pdf filename should match the page filename
