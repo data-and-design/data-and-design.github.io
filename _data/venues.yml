@@ -16,6 +16,12 @@ vis-posters:
   bibtex:
     type: inproceedings
     venue: booktitle
+vis-access:
+  short: IEEE VIS Accessibility Workshop
+  full: IEEE VIS Accessibility Workshop
+  bibtex:
+    type: inproceedings
+    venue: booktitle
 eurovis:
   short: EuroVis
   full: Computer Graphics Forum (EuroVis)
