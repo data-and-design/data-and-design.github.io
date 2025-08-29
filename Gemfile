@@ -31,3 +31,11 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "nokogiri", "~> 1.12"
 gem "webrick"
 gem "htmlbeautifier"
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
+gem 'drb'
+gem 'fiddle'
+gem 'mutex_m'
+gem 'nkf'
+gem 'ostruct'
