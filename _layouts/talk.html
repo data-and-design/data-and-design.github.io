@@ -1,0 +1,31 @@
+---
+layout: post
+---
+
+{% if page.youtube_url %}
+    <style>
+    .video-container {
+    position: relative;
+    width: 100%;
+    max-width: 100% !important;
+    padding-bottom: 56.25%;
+    margin: 0 auto 1em auto !important;
+    }
+    .video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    }
+    img {
+        margin-top: 2em;
+    }
+    </style>
+
+    <div class="video-container">
+        <iframe class="video" src="{{{page.youtube_url}}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+{% endif %}
+{{content}}

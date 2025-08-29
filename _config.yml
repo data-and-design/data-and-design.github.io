@@ -38,6 +38,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:slug/
+  talks:
+    output: true
+    permalink: /talks/:slug/
   posts:
     permalink: /blog/:year/:month/:day/:slug/
 
@@ -52,6 +55,11 @@ defaults:
       type: projects
     values:
       layout: project
+  - scope:
+      path: ''
+      type: talks
+    values:
+      layout: talk
   - scope:
       path: ''
     values:
