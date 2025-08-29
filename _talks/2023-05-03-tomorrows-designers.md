@@ -144,7 +144,7 @@ Thank you so much, and I look forward to the conversations today.
 
 ---
 
-## Q&A with Advisor Arvind Satyanarayan
+## Q&A with Arvind Satyanarayan
 
 **Arvind:** That was really awesome. Even though I've seen the work day to day, week to week, it's nice to see it come together and hear you tell the story of it. I was thinking about particularly the way you were introduced as a computer scientist. I'm curious if I can prompt you to reflect—I think the computer science bit of your identity is only part of what makes you such an effective designer. I'm curious about the path that led you to working on accessibility and how maybe it's prompting you to draw on other parts of your skill set.
 

@@ -21,6 +21,9 @@ pdf_url: /publications/rich-screen-reader-vis-experiences.pdf
 html_url: https://vis.csail.mit.edu/pubs/rich-screen-reader-vis-experiences/
 themes: [access]
 projects: [olli]
+materials: 
+  - name: EuroVis Talk
+    url: /talks/rich-screen-reader-experiences/
 ---
 
 ### Abstract
