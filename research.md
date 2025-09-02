@@ -84,6 +84,29 @@ title: Research Themes
             {% endfor %}
           </ul>
 
+          {% capture talkOutput %}
+            {% assign talkYears = site.talks | group_by:"year" | sort: "name" | reverse %}
+            {% for year in talkYears %}
+              {% assign talks = year.items | sort: 'date' | reverse %}
+              {% for talk in talks %}
+                {% if talk.themes and talk.themes contains theme.key %}
+                  {% assign url = talk.external_url | default: talk.url | relative_url | replace: 'index.html', '' %}
+                  {% assign author = site.data.authors[talk.author] %}
+                  <li class="pub"><a href="{{url}}">{{talk.date | date: "%Y"}}. <span class="title">{{talk.title}}</span>. {{author.name}}.</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          {% endcapture %}
+          {% assign talkOutputStrip = talkOutput | strip%}
+          {% if talkOutputStrip and talkOutputStrip != '' %}
+            <h4>
+              Talks
+            </h4>
+            <ul>
+            {{talkOutputStrip}}
+            </ul>
+          {%endif%}
+
           {% assign exhibitions = site.data.exhibitions | where_exp: "x", "x.themes contains theme.key" %}
           {% if exhibitions and exhibitions.size > 0 %}
             <h4>

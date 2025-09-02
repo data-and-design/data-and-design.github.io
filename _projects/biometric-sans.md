@@ -17,4 +17,3 @@ Writing in Biometric Sans foregrounds the mediation of writing in software. This
 
 - Digital typewriter: [https://jonathanzong.github.io/biometric-sans/](https://jonathanzong.github.io/biometric-sans/)
 - Documentation page: [https://jonathanzong.com/projects/biometric-sans](https://jonathanzong.com/projects/biometric-sans)
-- Talk: [Biometric Sans and Public Display: Embodied Writing in the Age of Data](https://jonathanzong.com/blog/2020/05/31/biometric-sans-and-public-display-embodied-writing-in-the-age-of-data)

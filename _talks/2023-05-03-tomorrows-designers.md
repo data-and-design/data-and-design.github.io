@@ -3,6 +3,7 @@ layout: talk
 title: "Tomorrow's Designers Designing Today"
 author: jzong
 youtube_url: https://www.youtube-nocookie.com/embed/lNvPY8-FrvY?si=u_7ZZgcCqh1Bqa2L
+themes: [access]
 ---
 
 _This talk was part of [an event at the MIT Morningside Academy for Design](https://design.mit.edu/events/tomorrow-s-designers-designing-today) during Boston Design Week._

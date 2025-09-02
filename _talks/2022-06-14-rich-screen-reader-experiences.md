@@ -3,6 +3,8 @@ layout: talk
 title: "Rich Screen Reader Experiences for Accessible Data Visualization"
 author: jzong
 youtube_url: https://www.youtube-nocookie.com/embed/oc4GQNM7tUw?si=nhV2l5Moce0a109u
+themes: [access]
+projects: [olli]
 ---
 
 _This is the conference talk for [Rich Screen Reader Experiences for Accessible Data Visualization](https://data-and-design.org/publications/rich-screen-reader-vis-experiences/), which was presented at EuroVis 2022 and won Best Paper Honorable Mention._

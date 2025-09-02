@@ -42,6 +42,24 @@ layout: page
       {% endfor %}
     </ul>
 
+    {% assign projectTalks = site.talks | where_exp: "talk", "talk.projects contains page.key" %}
+    {% if projectTalks and projectTalks.size > 0 %}
+      <h4>
+        Talks
+      </h4>
+      <ul>
+        {% assign talkYears = projectTalks | group_by:"year" | sort: "name" | reverse %}
+        {% for year in talkYears %}
+          {% assign talks = year.items | sort: 'date' | reverse %}
+          {% for talk in talks %}
+            {% assign url = talk.external_url | default: talk.url | relative_url | replace: 'index.html', '' %}
+            {% assign author = site.data.authors[talk.author] %}
+            <li class="pub"><a href="{{url}}">{{talk.date | date: "%Y"}}. <span class="title">{{talk.title}}</span>. {{author.name}}.</a></li>
+          {% endfor %}
+        {% endfor %}
+      </ul>
+    {% endif %}
+
     {% assign exhibitions = site.data.exhibitions | where_exp: "x", "x.projects contains page.key" %}
     {% if exhibitions and exhibitions.size > 0 %}
       <h4>
