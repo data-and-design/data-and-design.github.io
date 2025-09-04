@@ -25,9 +25,11 @@ Students can also apply to join the group via the [MS in Information Science](ht
 
 Current CU Boulder undergraduates can apply to work with the <span class="dnd">Data & Design</span> Group through the [Bachelors-Accelerated Masters (BAM)](https://www.colorado.edu/cmci/infoscience/bam-information-science-bachelors-accelerated-masters) program in Information Science.
 
-  </div>
-</div>
 
 ## CU Undergrads
 
 Exceptional undergraduates who are interested in research should [contact Jonathan](mailto:jzong@colorado.edu) with a resume and a brief statement explaining your interests and why you would be a good fit for the research group. Research positions will depend on project and mentor availability.
+
+  </div>
+</div>
+
