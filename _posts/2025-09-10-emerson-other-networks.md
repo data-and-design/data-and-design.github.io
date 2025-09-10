@@ -6,7 +6,7 @@ author: jzong
 
 How have people resourcefully used technology to create their own communication networks, and how can learning about this history help us reimagine the future of the internet?
 
-Last night, I got the chance to attend a lecture-performance at the Boulder Public Library by [Dr. Lori Emerson](https://loriemerson.net/), Professor of Media Studies at University of Colorado Boulder.
+Last night, I attended a lecture-performance at the Boulder Public Library by [Dr. Lori Emerson](https://loriemerson.net/), Professor of Media Studies at University of Colorado Boulder.
 I took notes on Lori's introductory talk as a way to engage with her presentation and as a resource for others who were unable to attend.
 
 [Other Networks](https://loriemerson.net/books/other-networks/) is a book that is invested in documenting and recreating networks before and outside of the internet. Lori's work highlights the fact that the corporate-dominated internet is “not the network we want, not the network we deserve.” Therefore, the book aims to demystify how Other Networks work and make this knowledge more accessible, so that we can as "what-if" questions about the future. It was created in collaboration with Dr. libi rose striegl, and the [Media Archaeology Lab](https://www.mediaarchaeologylab.com/) which Emerson leads at CU Boulder.
