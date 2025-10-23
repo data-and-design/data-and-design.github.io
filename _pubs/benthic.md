@@ -11,11 +11,11 @@ authors:
     affiliation: MIT
   - key: arvindsatya
 venue: assets
-# doi: 10.1111/cgf.14519
+doi: 10.1145/3663547.3746342
 year: 2025
 date: 2025-10-27
 pdf_url: /publications/benthic.pdf
-# html_url: https://vis.csail.mit.edu/pubs/rich-screen-reader-vis-experiences/
+html_url: https://dl.acm.org/doi/10.1145/3663547.3746342
 themes: [access]
 # projects: [olli]
 ---
