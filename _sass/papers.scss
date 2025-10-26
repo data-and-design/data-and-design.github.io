@@ -80,7 +80,11 @@
   #paper-content {
     padding: 1em 0;
     p {
-      line-height: 2;
+      line-height: $post-line-height;
+
+      @include for-md-down {
+        line-height: $post-line-height-mobile;
+      }
     }
   }
 
