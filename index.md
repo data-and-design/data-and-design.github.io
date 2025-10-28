@@ -21,6 +21,19 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
 </p>
 
   </div>
+  <div class="pure-u-1 pure-u-md-1-2">
+    <div class="news-section">
+      <ul class="news-items">
+        {% assign sorted_news = site.data.news | sort: 'date' | reverse %}
+        {% for item in sorted_news limit:5 %}
+          <li class="news-item">
+            <div class="news-date">{{ item.date | date: "%B %-d, %Y" }}</div>
+            <div class="news-content">{{ item.content }}</div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
 </div>
 
 <div class="pure-g">
