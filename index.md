@@ -22,7 +22,7 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
 
   </div>
   <div class="pure-u-1 pure-u-md-1-2">
-    <div class="news-section">
+    <div class="news-section news-section--centered">
       <ul class="news-items">
         {% assign sorted_news = site.data.news | sort: 'date' | reverse %}
         {% for item in sorted_news limit:5 %}
@@ -32,6 +32,9 @@ Our group is part of the <a href="https://www.colorado.edu/cmci/infoscience">Dep
           </li>
         {% endfor %}
       </ul>
+      <p>
+        <a href="/news" class="arrow-link">Read more <span aria-hidden>&rarr;</span></a>
+      </p>
     </div>
   </div>
 </div>
