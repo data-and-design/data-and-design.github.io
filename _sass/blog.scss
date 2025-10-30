@@ -35,6 +35,13 @@
 
   #post-content {
     padding-bottom: 1em;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+    a {
+      overflow-wrap: break-word;
+      word-break: break-word;
+    }
 
     p:first-child {
       margin-top: 0;
