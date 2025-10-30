@@ -79,6 +79,14 @@
 
   #paper-content {
     padding: 1em 0;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+    a {
+      overflow-wrap: break-word;
+      word-break: break-word;
+    }
+
     p {
       line-height: $post-line-height;
 
