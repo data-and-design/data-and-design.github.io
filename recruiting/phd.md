@@ -61,16 +61,17 @@ I expect students to gain experience as both TAs and RAs during their Ph.D. jour
 
 ## What kind of applicants am I looking for?
 
-I am looking for applicants who:
+I'm looking for applicants who are excited to contribute to and shape the shared research trajectory of the group. Specifically, I'm seeking students who:
 
-- are excited to contribute to and shape the shared research trajectory of the group
-- want to build interdisciplinary skills across engineering, design, social sciences, and the humanities
-- can help create a welcoming and inclusive research group culture
-- have the potential to grow into leaders in our group, the department, and our wider research communities
+- are curious about building interdisciplinary skills across engineering, design, social sciences, and the humanities
+- want to help create a welcoming and inclusive research group culture
+- are eager to develop as leaders in our group, the department, and our wider research communities
 
-I'm committed to building a group where people are able to bring diverse lived experiences, interests, and disciplinary perspectives in conversation together.
+I'm committed to building a group where people can bring diverse lived experiences, interests, and disciplinary perspectives into conversation together. In return, you'll join a collaborative community focused on mutual growth, where I'll work with you to develop your vision as an independent researcher.
 
-This year, my recruitment priorities are for students with relevant background and/or interest within **accessibility, visualization, and design**. I'm particularly interested in talking to students who want to **critically reimagine accessibility tools**. However, I will seriously consider applications that connect with any area of the group's work as described above.
+**What I'm looking for in your application:** I want to understand your research interests and goals for the PhD, how you see your interests connecting to the lab's work, and what you hope to accomplish. I want to know what motivates you, what activates your curiosity, and what path has led you here—why is pursuing a PhD the right next step for you? I encourage you to explore our projects and papers to get a sense of what we do and how you might contribute.
+
+This year, I'm particularly interested in students with background and/or strong interest in **accessibility, visualization, and design**—especially those who want to **critically reimagine accessibility tools**. However, relevant background can come from many different disciplinary paths, and I will seriously consider applications that connect with any area of the group's work as described above.
 
 As you think about working with me, I also encourage you to consider other [faculty in Information Science](https://www.colorado.edu/cmci/people/information-science) who you might have common interests with, who might be potential future mentors, collaborators, or committee members.
 
@@ -88,9 +89,7 @@ Apply through the CU Boulder application system, linked below. In your cover let
 - [Read the FAQ](https://www.colorado.edu/cmdi/infoscience/gd/faq)
 - [Access the application system](https://grad.apply.colorado.edu/apply/)
 
-If you have questions or want to learn more about the research group, feel free to email me at <a href="mailto:jzong@colorado.edu">jzong@colorado.edu</a>. However, you are not required to reach out to me first to be a successful applicant.
-
-Because of the volume of applicants, I can't promise to reply to every email or give individualized advice. However, I do my best to respond directly to specific questions.
+**About reaching out:** You're welcome to email me at <a href="mailto:jzong@colorado.edu">jzong@colorado.edu</a> if you have questions or want to learn more about the research group. I receive a high volume of emails during application season, so I do my best to respond to specific questions but may not be able to reply to everyone. Please know that not reaching out won't disadvantage you in the application process—I'm committed to giving every application careful consideration regardless of whether we've been in touch beforehand.
 
 ## Additional resources
 
