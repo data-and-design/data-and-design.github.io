@@ -5,9 +5,8 @@ authors:
 venue: vis-access
 year: 2025
 date: 2025-11-03
-# doi: 10.1145/3706598.3714132
+doi: 10.1109/AccessViz68666.2025.00011
 pdf_url: /publications/access-citational-justice.pdf
-# html_url: https://dl.acm.org/doi/fullHtml/10.1145/3706598.3714132
 themes: [access]
 # projects: [umwelt, olli]
 ---
