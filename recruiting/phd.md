@@ -53,7 +53,7 @@ As a new Ph.D. student joining the group, you'll work with me to identify a proj
 
 ## How are students funded?
 
-Generally, admitted students in our program are guaranteed funding for at least 4 years, and are funded through a combination of TA positions, RA positions, and external fellowships.
+Generally, admitted students in our program are guaranteed funding for at least 4 years, and are funded through a combination of TA positions, RA positions, and external fellowships. In practice, students have historically not had problems with funding through the full expected 5 years.
 
 The research group has funding to fully support at least one new student this year.
 
