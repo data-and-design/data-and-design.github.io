@@ -20,7 +20,8 @@ If you're interested, please [email Jonathan](mailto:jzong@colorado.edu) with:
 What you'll gain:
 - Participate in group meetings where we discuss exciting ideas, give each other feedback on projects, and build a supportive intellectual community
 - Work on open-source projects that have real-world impact
-- Potentially earn credit hours through independent study (if you're an information science major)
+- Potentially earn credit hours through independent study or an honors thesis (if you're an information science major)
+- Potentially be paid through the [UROP program](https://www.colorado.edu/urop/applying/student-grant-proposals/assistantships).
 
 **A few things to know:**
 - Taking a class with me first is highly recommended—it helps us get to know each other and ensures you're familiar with the kind of work we do
