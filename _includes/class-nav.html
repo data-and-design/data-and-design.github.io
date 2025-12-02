@@ -1,0 +1,16 @@
+{% comment %}
+Class-specific navigation
+Filters pages by class_id and displays them in nav_order
+{% endcomment %}
+
+{% assign class_pages = site.pages | where: "class_id", page.class_id | sort: "nav_order" %}
+
+<nav class="class-nav">
+  {% for class_page in class_pages %}
+    {% if class_page.nav_title %}
+      <a href="{{ class_page.url }}" {% if page.url == class_page.url %}class="selected"{% endif %}>
+        {{ class_page.nav_title }}
+      </a>
+    {% endif %}
+  {% endfor %}
+</nav>

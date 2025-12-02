@@ -1,0 +1,62 @@
+// Class pages styles
+
+.class-content-wrapper {
+  display: flex;
+  gap: 2rem;
+
+  @include for-md-down {
+    flex-direction: column;
+  }
+}
+
+.class-nav-container {
+  flex: 0 0 200px;
+
+  @include for-md-down {
+    flex: 1 1 auto;
+  }
+}
+
+.class-nav {
+  margin-top: 2em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  position: sticky;
+  top: 1rem;
+
+  @include for-md-down {
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: static;
+  }
+
+  a {
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    color: $foreground;
+    border-left: 3px solid transparent;
+    transition: all 0.2s ease;
+
+    @include for-md-down {
+      border-left: none;
+      border-bottom: 3px solid transparent;
+    }
+
+    &.selected {
+      font-weight: bold;
+      border-left-color: $foreground;
+      background-color: rgba($foreground, 0.05);
+
+      @include for-md-down {
+        border-left-color: transparent;
+        border-bottom-color: $foreground;
+      }
+    }
+  }
+}
+
+.class-content {
+  flex: 1;
+  min-width: 0; // prevents flex item from overflowing
+}
