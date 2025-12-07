@@ -13,7 +13,7 @@ title: News
         {% for item in sorted_news %}
           <li class="news-item">
             <div class="news-date">{{ item.date | date: "%B %-d, %Y" }}</div>
-            <div class="news-content">{{ item.content }}</div>
+            <div class="news-content">{{ item.content | markdownify }}</div>
           </li>
         {% endfor %}
       </ul>
