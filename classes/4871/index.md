@@ -3,7 +3,7 @@ layout: class
 class_id: 4871
 nav_title: Home
 nav_order: 1
-title: INFO 4871
+title: 'INFO 4871: Design for Accessibility'
 ---
 
 # INFO 4871: Design for Accessibility

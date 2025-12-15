@@ -3,7 +3,7 @@ layout: class
 class_id: 4871
 nav_title: Course Logistics
 nav_order: 5
-title: Course Logistics
+title: Course Logistics | INFO 4871
 ---
 
 # Course Logistics

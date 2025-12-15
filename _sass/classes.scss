@@ -59,4 +59,9 @@
 .class-content {
   flex: 1;
   min-width: 0; // prevents flex item from overflowing
+
+  a {
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
 }
