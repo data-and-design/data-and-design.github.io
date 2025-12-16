@@ -13,6 +13,9 @@ doi: 10.1145/3706598.3714132
 pdf_url: /publications/tactile-vega-lite.pdf
 html_url: https://dl.acm.org/doi/fullHtml/10.1145/3706598.3714132
 themes: [access, visualization]
+materials:
+  - name: Tactile Vega-Lite Editor
+    url: https://mitvis.github.io/tactile-vega-lite/
 # projects: [umwelt, olli]
 ---
 
