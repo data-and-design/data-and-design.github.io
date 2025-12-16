@@ -7,7 +7,7 @@ title: News
   <div class="pure-u-1 pure-u-md-3-4">
     
     <h1>News & Updates</h1>
-      <div class="news-section">
+      <div class="news-section news-section--full">
       <ul class="news-items">
         {% assign sorted_news = site.data.news | sort: 'date' | reverse %}
         {% for item in sorted_news %}
