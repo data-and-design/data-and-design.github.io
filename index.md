@@ -16,9 +16,9 @@ We are part of the <a href="https://www.colorado.edu/cmci/infoscience">Departmen
 
 <a href="/about" class="arrow-link">Read more <span aria-hidden>&rarr;</span></a>
 
-<p>
+<!-- <p>
 {% include hiring-cta.html %}
-</p>
+</p> -->
 
   </div>
   <div class="pure-u-1 pure-u-md-1-2">
