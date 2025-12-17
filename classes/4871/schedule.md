@@ -51,9 +51,6 @@ document.addEventListener('DOMContentLoaded', function() {
 In class:
 - Astra Taylor, dir. **Judith Butler & Sunaura Taylor in conversation.** From *Examined Life*. 2008. <https://www.youtube.com/watch?v=k0HZaPkF6qE>.
 
-Optional:
-- Richard E. Ladner, Stephanie Ludi. **Foundations: Disability & Accessibility** In *Teaching Accessible Computing*, edited by Alannah Oleson, Amy J. Ko, Richard E. Ladner. Bookish Press, 2024. <https://bookish.press/tac/DisabilityAndAccessibility>
-
 #### Due
 None
 
@@ -80,13 +77,14 @@ None
 #### Due
 
 
-<h2 id="week-3">Week 3 — Nothing About Us Without Us</h2>
+<h2 id="week-3">Week 3 — Against Technoableism (Part 1)</h2>
 
 ### January 20 (Tuesday)
 
 #### Readings
-- Costanza-Chock, Sasha. **“Introduction: #TravelingWhileTrans, Design Justice, and Escape from the Matrix of Domination.”** *Design Justice*, March 3, 2020. <https://designjustice.mitpress.mit.edu/pub/ap8rgw5e/release/1>.
-- Costanza-Chock, Sasha. **“Design Values: Hard-Coding Liberation?”** *Design Justice*, March 3, 2020. <https://designjustice.mitpress.mit.edu/pub/3h2zq86d/release/1>.
+- Shew, Ashley. **Chapter 1: Disabled Everything**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
+- Shew, Ashley. **Chapter 2: Disorientation**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
+
 
 #### Due
 
@@ -94,22 +92,21 @@ None
 ### January 22 (Thursday)
 
 #### Readings
-- Morris, Amanda. **“For Blind Internet Users, the Fix Can Be Worse Than the Flaws.”** Technology. *The New York Times*, July 13, 2022. <https://www.nytimes.com/2022/07/13/technology/ai-web-accessibility.html>.
-- Aurora Moon. **“The Cochlear Implant Controversy.”** *Daily Kos*, November 17, 2013. <https://www.dailykos.com/stories/2013/11/17/1256259/-The-Cochlear-Implant-Controversy>.
-
-Optional (grad student recommended):
-- Winner, Langdon. **“Do Artifacts Have Politics?”** Daedalus 109, no. 1 (1980): 121–36.
-
-
+- Shew, Ashley. **Chapter 3: Scripts and Crips**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
+- Shew, Ashley. **Chapter 4: New Legs, Old Tricks**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
 
 #### Due
 
 
-<h2 id="week-4">Week 4 — Technoableism</h2>
+<h2 id="week-4">Week 4 — Against Technoableism (Part 2)</h2>
 
 ### January 27 (Tuesday) — Class on Zoom
 
 #### Readings
+
+- Shew, Ashley. **Chapter 5: The Neurodivergent Resistance**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
+- Shew, Ashley. **Chapter 6: Accessible Futures**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
+
 
 #### Due
 
@@ -117,11 +114,12 @@ Optional (grad student recommended):
 ### January 29 (Thursday) — Class on Zoom
 
 #### Readings
+- Winner, Langdon. **“Do Artifacts Have Politics?”** Daedalus 109, no. 1 (1980): 121–36.
 
 #### Due
 
 
-<h2 id="week-5">Week 5 — There Are Disabled People in the Future</h2>
+<h2 id="week-5">Week 5 — Disability Futures</h2>
 
 ### February 3 (Tuesday)
 
@@ -138,6 +136,8 @@ Optional (grad student recommended):
 ### February 5 (Thursday)
 
 #### Readings
+- Angelini, Robin, Katta Spiel, and Maartje De Meulder. **“Speculating Deaf Tech: Reimagining Technologies Centering Deaf People.”** Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (New York, NY, USA), CHI ’25, Association for Computing Machinery, April 25, 2025, 1–18. <https://doi.org/10.1145/3706598.3713238>.
+
 
 #### Due
 
@@ -163,44 +163,35 @@ Optional (grad student recommended):
 #### Due
 
 
-<h2 id="week-7">Week 7 — Cybernetics and Posthumanism</h2>
+<h2 id="week-7">Week 7 — Common Cyborg</h2>
 
 ### February 17 (Tuesday)
 
 #### Readings
 - Weise, Jillian. **“Common Cyborg.”** *Granta*, September 24, 2018. <https://granta.com/common-cyborg/>.
-- Alice Wong and Ed Yong. **“What Counts as Seeing.”**  *Orion Magazine*. July 12, 2022. <https://orionmagazine.org/article/ed-yong-alice-wong-interview/>.
-
-
-Optional (grad student recommended):
-- Shew, Ashley, and Joshua Earle. **“Cyborg-Technology Relations.”** *Journal of Human-Technology Relations* 2 (November 2024). <https://doi.org/10.59490/jhtr.2024.2.7073>.
-
-Optional:
-- Donna Haraway. **"A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century."** in *Simians, Cyborgs and Women: The Reinvention of Nature*. 1985. <https://theanarchistlibrary.org/library/donna-haraway-a-cyborg-manifesto>
-
+- Kafer, Alison. Chapter 5 **“The Cyborg and the Crip: Critical Encounters.”** *Feminist, Queer, Crip*. Indiana University Press, 2013.
 
 #### Due
 
 
 ### February 19 (Thursday)
-- Hollan, James, Edwin Hutchins, and David Kirsh. **“Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research.”** *ACM Trans. Comput.-Hum. Interact.* (New York, NY, USA) 7, no. 2 (2000): 174–96. <https://doi.org/10.1145/353485.353487>.
-
-
 
 
 #### Readings
+- Hollan, James, Edwin Hutchins, and David Kirsh. **“Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research.”** *ACM Trans. Comput.-Hum. Interact.* (New York, NY, USA) 7, no. 2 (2000): 174–96. <https://doi.org/10.1145/353485.353487>.
+
 
 #### Due
 
 
-<h2 id="week-8">Week 8 — Care, Interdependence, and the Myth of Autonomy</h2>
+<h2 id="week-8">Week 8 — Posthumanism: Who is the "Human" in HCI?</h2>
 
 ### February 24 (Tuesday)
 
-- Mia Mingus. **“Access Intimacy, Interdependence and Disability Justice.”** Leaving Evidence, April 12, 2017. <https://leavingevidence.wordpress.com/2017/04/12/access-intimacy-interdependence-and-disability-justice/>.
-- Bennett, Cynthia L., Erin Brady, and Stacy M. Branham. **“Interdependence as a Frame for Assistive Technology Research and Design.”** *Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility* (New York, NY, USA), ASSETS ’18, Association for Computing Machinery, October 8, 2018, 161–73. <https://doi.org/10.1145/3234695.3236348>.
-
 #### Readings
+- Romanska, Magda. **“The Bionic Body: Disability, Technology and Posthumanism.”** Body, Space & Technology 23, no. 1 (2024). <https://doi.org/10.16995/bst.11480>.
+- Alice Wong and Ed Yong. **“What Counts as Seeing.”**  *Orion Magazine*. July 12, 2022. <https://orionmagazine.org/article/ed-yong-alice-wong-interview/>.
+
 
 #### Due
 
@@ -208,18 +199,13 @@ Optional:
 ### February 26 (Thursday) — Reading day
 
 
-<h2 id="week-9">Week 9 — Affordance: Being in the World</h2>
+<h2 id="week-9">Week 9 — Care, Interdependence, and the Myth of Autonomy</h2>
 
 ### March 3 (Tuesday)
 
 #### Readings
+- Mia Mingus. **“Access Intimacy, Interdependence and Disability Justice.”** Leaving Evidence, April 12, 2017. <https://leavingevidence.wordpress.com/2017/04/12/access-intimacy-interdependence-and-disability-justice/>.
 
-- Edwards, Terra. **Chapter 1: Life at the Limits of Language**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
-- Edwards, Terra. **Chapter 2: Creating DeafBlind Identity**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
-- Edwards, Terra. **Chapter 3: The Collapse of the World**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
-
-Optional (grad student recommended):
-- Garland-Thomson, Rosemarie. **“Misfits: A Feminist Materialist Disability Concept.”** *Hypatia* 26, no. 3 (2011): 591–609. <https://www.jstor.org/stable/23016570>
 
 #### Due
 
@@ -227,22 +213,19 @@ Optional (grad student recommended):
 ### March 5 (Thursday)
 
 #### Readings
-- Don Norman. **Chapter 1: The Psychopathology of Everyday Things**. *The Design of Everyday Things: Revised and Expanded Edition*. 2013. Originally published 1988.
-- Don Norman. **Chapter 2: The Psychology of Everyday Actions**. *The Design of Everyday Things: Revised and Expanded Edition*. 2013. Originally published 1988.
-
-
-Optional:
-- James J. Gibson. **“The Theory of Affordances.”** In *The Ecological Approach to Visual Perception*. 1979. <https://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf>
+- Bennett, Cynthia L., Erin Brady, and Stacy M. Branham. **“Interdependence as a Frame for Assistive Technology Research and Design.”** *Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility* (New York, NY, USA), ASSETS ’18, Association for Computing Machinery, October 8, 2018, 161–73. <https://doi.org/10.1145/3234695.3236348>.
 
 #### Due
 
 
-<h2 id="week-10">Week 10 — Against Access</h2>
+<h2 id="week-10">Week 10 — Disability and the Arts</h2>
 
 ### March 10 (Tuesday)
-- Clark, John Lee. **“Against Access.”** *McSweeney’s Quarterly Concern 64: The Audio Issue*, October 2021. <https://audio.mcsweeneys.net/transcripts/against_access.html>.
 
 #### Readings
+- Finnegan Shannon. **“Do You Want Us Here or Not, 2018–Ongoing.”** Finnegan Shannon, 2018. <https://shannonfinnegan.com/do-you-want-us-here-or-not>.
+- Godin, M. Leona. **“Iconic Photographs of Blind People Prove Seeing Isn’t Knowing.”** ARTnews.Com, November 27, 2025. <https://www.artnews.com/art-in-america/features/blindness-photography-paul-strand-walker-evans-jacob-riis-1234763708/>.
+
 
 #### Due
 
@@ -250,6 +233,8 @@ Optional:
 ### March 12 (Thursday)
 
 #### Readings
+- Mills, Mara. **“HOLDING THE LINE: On the Art of Christine Sun Kim.”** Artforum, April 1, 2025. <https://www.artforum.com/features/christine-sun-kim-mara-mills-whitney-museum-review-1234728306/>.
+
 
 #### Due
 
@@ -257,12 +242,13 @@ Optional:
 <h2 id="week-11">Week 11 — Spring Break</h2>
 
 
-<h2 id="week-12">Week 12 — Disability and AI</h2>
+<h2 id="week-12">Week 12 — Life at the Limits of Language (Part 1)</h2>
 
 ### March 24 (Tuesday)
 
 #### Readings
-- Whittaker, Meredith, Meryl Alper, Cynthia L. Bennett, Sara Hendren, Elizabeth Kaziunas, Mara Mills, Meredith Ringel Morris, Joy Lisi Rankin, Emily Rogers, Marcel Salas, and Sarah Myers West. **“Disability, Bias & AI Report.”** AI Now Institute, November 20, 2019. <https://ainowinstitute.org/publications/disabilitybiasai-2019>
+- Edwards, Terra. **Chapter 1: Life at the Limits of Language**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
+- Edwards, Terra. **Chapter 2: Creating DeafBlind Identity**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
 
 #### Due
 
@@ -270,19 +256,22 @@ Optional:
 ### March 26 (Thursday)
 
 #### Readings
-- Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Remi Denton, and Robin Brewer. **“‘I Wouldn’t Say Offensive but...’: Disability-Centered Perspectives on Large Language Models.”** *ACM Conference on Fairness Accountability and Transparency*, ACM, June 12, 2023, 205–16. <https://doi.org/10.1145/3593013.3593989>.
+- Don Norman. **Chapter 1: The Psychopathology of Everyday Things**. *The Design of Everyday Things: Revised and Expanded Edition*. 2013. Originally published 1988.
+
+Optional:
+- James J. Gibson. **“The Theory of Affordances.”** In *The Ecological Approach to Visual Perception*. 1979. <https://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf>
 
 #### Due
 
 
-<h2 id="week-13">Week 13 — Feminist and Decolonial Disability Studies</h2>
+<h2 id="week-13">Week 13 — Life at the Limits of Language (Part 2)</h2>
 
 ### March 31 (Tuesday)
-- Schalk, Sami. **“Disability.”** Keywords, January 1, 2021. <https://keywords.nyupress.org/gender-and-sexuality-studies/essay/disability/>.
-- Nguyen, Xuan Thuy. **“Decolonial Disability Studies.”** In *Crip Authorship: Disability as Method*, edited by Mara Mills and Rebecca Sanchez. NYU Press, 2023. <https://www.jstor.org/stable/jj.13944206.14>.
 
 
 #### Readings
+- Edwards, Terra. **Chapter 3: The Collapse of the World**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
+- Edwards, Terra. **Chapter 4: The Protactile Movement**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
 
 #### Due
 
@@ -290,15 +279,21 @@ Optional:
 ### April 2 (Thursday)
 
 #### Readings
+- Clark, John Lee. **“Against Access.”** *McSweeney’s Quarterly Concern 64: The Audio Issue*, October 2021. <https://audio.mcsweeneys.net/transcripts/against_access.html>.
+
+
 
 #### Due
 
 
-<h2 id="week-14">Week 14</h2>
+<h2 id="week-14">Week 14 — Disability, Bias, and AI</h2>
 
 ### April 7 (Tuesday)
 
 #### Readings
+- Whittaker, Meredith, Meryl Alper, Cynthia L. Bennett, Sara Hendren, Elizabeth Kaziunas, Mara Mills, Meredith Ringel Morris, Joy Lisi Rankin, Emily Rogers, Marcel Salas, and Sarah Myers West. **“Disability, Bias & AI Report.”** AI Now Institute, November 20, 2019. <https://ainowinstitute.org/publications/disabilitybiasai-2019>
+
+
 
 #### Due
 
@@ -306,15 +301,21 @@ Optional:
 ### April 9 (Thursday)
 
 #### Readings
+- Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Remi Denton, and Robin Brewer. **“‘I Wouldn’t Say Offensive but...’: Disability-Centered Perspectives on Large Language Models.”** *ACM Conference on Fairness Accountability and Transparency*, ACM, June 12, 2023, 205–16. <https://doi.org/10.1145/3593013.3593989>.
+- **“ASAN Says No Generative AI in Plain Language.”** Autistic Self Advocacy Network, July 29, 2025. <https://autisticadvocacy.org/2025/07/asan-says-no-generative-ai-in-plain-language/>.
+
+
 
 #### Due
 
 
-<h2 id="week-15">Week 15</h2>
+<h2 id="week-15">Week 15 — Sociotechnical Considerations for Design</h2>
 
 ### April 14 (Tuesday)
 
 #### Readings
+- Lundgard, Alan, Crystal Lee, and Arvind Satyanarayan. **“Sociotechnical Considerations for Accessible Visualization Design.”** 2019 IEEE Visualization Conference (VIS), October 2019, 16–20. <https://doi.org/10.1109/VISUAL.2019.8933762>.
+
 
 #### Due
 
@@ -322,15 +323,18 @@ Optional:
 ### April 16 (Thursday)
 
 #### Readings
+- Zong, Jonathan, Crystal Lee, Alan Lundgard, JiWoong Jang, Daniel Hajas, and Arvind Satyanarayan. **“Rich Screen Reader Experiences for Accessible Data Visualization.”** Computer Graphics Forum, 2022. <https://vis.mit.edu/pubs/rich-screen-reader-vis-experiences/>.
 
 #### Due
 
 
-<h2 id="week-16">Week 16</h2>
+<h2 id="week-16">Week 16 — Conclusion: Disability and Design</h2>
 
 ### April 21 (Tuesday)
 
 #### Readings
+
+None
 
 #### Due
 
@@ -339,4 +343,7 @@ Optional:
 
 #### Readings
 
+None
+
 #### Due
+
