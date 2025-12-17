@@ -6,7 +6,7 @@ home: true
 <div class="pure-g">
   <div class="pure-u-1 pure-u-md-1-2" markdown="1">
 
-The <span class="dnd">Data & Design</span> Group is working toward a world where everyone has power to shape the systems that affect their lives.
+The <span class="dnd">Data & Design</span> Group is working toward a world where everyone has power to shape the socio-technical systems that affect their lives.
 
 We believe critique should take material form—that identifying problems isn't enough without articulating positive visions for the future.
 
