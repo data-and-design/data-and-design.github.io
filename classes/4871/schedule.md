@@ -72,6 +72,9 @@ None
 ### January 15 (Thursday)
 
 #### Readings
+- Petrick, Elizabeth. **“The Computer as Prosthesis? Embodiment, Augmentation, and Disability.”** In *Abstractions and Embodiments: New Histories of Computing and Society*, edited by Janet Abbate and Stephanie Dick. 2022.
+
+Optional:
 - Douglas C. Engelbart. **Augmenting Human Intellect: A Conceptual Framework.** SRI Summary Report AFOSR-3223. Stanford Research Institute, 1962. <https://www.dougengelbart.org/pubs/augment-3906.html>
 
 #### Due
@@ -256,7 +259,7 @@ None
 ### March 26 (Thursday)
 
 #### Readings
-- Don Norman. **Chapter 1: The Psychopathology of Everyday Things**. *The Design of Everyday Things: Revised and Expanded Edition*. 2013. Originally published 1988.
+- Davis, Jenny L. **“Introduction.”** from *How Artifacts Afford: The Power and Politics of Everyday Things.* Design Thinking, Design Theory, edited by Ken Friedman and Erik Stolterman. MIT Press, 2020.
 
 Optional:
 - James J. Gibson. **“The Theory of Affordances.”** In *The Ecological Approach to Visual Perception*. 1979. <https://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf>
