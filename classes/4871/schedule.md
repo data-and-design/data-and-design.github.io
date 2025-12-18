@@ -46,14 +46,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 ### January 8 (Thursday)
 
-#### Readings
+#### In class
 
-In class:
 - Astra Taylor, dir. **Judith Butler & Sunaura Taylor in conversation.** From *Examined Life*. 2008. <https://www.youtube.com/watch?v=k0HZaPkF6qE>.
-
-#### Due
-None
-
 
 <h2 id="week-2">Week 2 — Extending Capabilities, Not Fixing Defecits</h2>
 
@@ -64,10 +59,8 @@ None
 - Sara Hendren. **“All Technology Is Assistive: Six Design Rules on Disability.”** In *Making Things and Drawing Boundaries: Experiments in the Digital Humanities*, edited by Jentery Sayers. University of Minnesota Press, 2018. <https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/b22b7f2d-f386-4ec5-bcee-30591c0078ba>.
 - Mills, Mara. **“Technology.”** *Keywords*, April 27, 2015.
 
-
-
 #### Due
-
+- [Reading responses](./assignments)
 
 ### January 15 (Thursday)
 
@@ -78,7 +71,7 @@ Optional:
 - Douglas C. Engelbart. **Augmenting Human Intellect: A Conceptual Framework.** SRI Summary Report AFOSR-3223. Stanford Research Institute, 1962. <https://www.dougengelbart.org/pubs/augment-3906.html>
 
 #### Due
-
+- [Reading responses](./assignments)
 
 <h2 id="week-3">Week 3 — Against Technoableism (Part 1)</h2>
 
@@ -88,8 +81,8 @@ Optional:
 - Shew, Ashley. **Chapter 1: Disabled Everything**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
 - Shew, Ashley. **Chapter 2: Disorientation**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
 
-
 #### Due
+- [Reading responses](./assignments)
 
 
 ### January 22 (Thursday)
@@ -99,6 +92,7 @@ Optional:
 - Shew, Ashley. **Chapter 4: New Legs, Old Tricks**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
 
 #### Due
+- [Reading responses](./assignments)
 
 
 <h2 id="week-4">Week 4 — Against Technoableism (Part 2)</h2>
@@ -112,6 +106,7 @@ Optional:
 
 
 #### Due
+- [Reading responses](./assignments)
 
 
 ### January 29 (Thursday) — Class on Zoom
@@ -120,7 +115,8 @@ Optional:
 - Winner, Langdon. **“Do Artifacts Have Politics?”** Daedalus 109, no. 1 (1980): 121–36.
 
 #### Due
-
+- [Reading responses](./assignments)
+- [Milestone 1: Team Composition](./final-project.html#milestone-1)
 
 <h2 id="week-5">Week 5 — Disability Futures</h2>
 
@@ -134,7 +130,7 @@ Optional:
 
 
 #### Due
-
+- [Reading responses](./assignments)
 
 ### February 5 (Thursday)
 
@@ -143,7 +139,8 @@ Optional:
 
 
 #### Due
-
+- [Reading responses](./assignments)
+- [Milestone 2: Define a Project](./final-project.html#milestone-2)
 
 <h2 id="week-6">Week 6 — Crip Technoscience: Disabled Knowing and Making</h2>
 
@@ -154,6 +151,7 @@ Optional:
 
 
 #### Due
+- [Reading responses](./assignments)
 
 
 ### February 12 (Thursday)
@@ -164,6 +162,8 @@ Optional:
 
 
 #### Due
+- [Reading responses](./assignments)
+- [Milestone 3: Make a Plan](./final-project.html#milestone-3)
 
 
 <h2 id="week-7">Week 7 — Common Cyborg</h2>
@@ -175,7 +175,7 @@ Optional:
 - Kafer, Alison. Chapter 5 **“The Cyborg and the Crip: Critical Encounters.”** *Feminist, Queer, Crip*. Indiana University Press, 2013.
 
 #### Due
-
+- [Reading responses](./assignments)
 
 ### February 19 (Thursday)
 
@@ -185,6 +185,8 @@ Optional:
 
 
 #### Due
+- [Reading responses](./assignments)
+- [Milestone 4: Present in Class](./final-project.html#milestone-4)
 
 
 <h2 id="week-8">Week 8 — Posthumanism: Who is the "Human" in HCI?</h2>
@@ -197,6 +199,7 @@ Optional:
 
 
 #### Due
+- [Reading responses](./assignments)
 
 
 ### February 26 (Thursday) — Reading day
@@ -211,6 +214,7 @@ Optional:
 
 
 #### Due
+- [Reading responses](./assignments)
 
 
 ### March 5 (Thursday)
@@ -219,7 +223,8 @@ Optional:
 - Bennett, Cynthia L., Erin Brady, and Stacy M. Branham. **“Interdependence as a Frame for Assistive Technology Research and Design.”** *Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility* (New York, NY, USA), ASSETS ’18, Association for Computing Machinery, October 8, 2018, 161–73. <https://doi.org/10.1145/3234695.3236348>.
 
 #### Due
-
+- [Reading responses](./assignments)
+- [Milestone 5: Weekly Update](./final-project.html#weekly-updates)
 
 <h2 id="week-10">Week 10 — Disability and the Arts</h2>
 
@@ -231,6 +236,7 @@ Optional:
 
 
 #### Due
+- [Reading responses](./assignments)
 
 
 ### March 12 (Thursday)
@@ -240,7 +246,8 @@ Optional:
 
 
 #### Due
-
+- [Reading responses](./assignments)
+- [Milestone 6: Weekly Update](./final-project.html#weekly-updates)
 
 <h2 id="week-11">Week 11 — Spring Break</h2>
 
@@ -254,6 +261,7 @@ Optional:
 - Edwards, Terra. **Chapter 2: Creating DeafBlind Identity**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
 
 #### Due
+- [Reading responses](./assignments)
 
 
 ### March 26 (Thursday)
@@ -265,7 +273,8 @@ Optional:
 - James J. Gibson. **“The Theory of Affordances.”** In *The Ecological Approach to Visual Perception*. 1979. <https://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf>
 
 #### Due
-
+- [Reading responses](./assignments)
+- [Milestone 7: Weekly Update](./final-project.html#weekly-updates)
 
 <h2 id="week-13">Week 13 — Life at the Limits of Language (Part 2)</h2>
 
@@ -277,7 +286,7 @@ Optional:
 - Edwards, Terra. **Chapter 4: The Protactile Movement**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
 
 #### Due
-
+- [Reading responses](./assignments)
 
 ### April 2 (Thursday)
 
@@ -287,7 +296,8 @@ Optional:
 
 
 #### Due
-
+- [Reading responses](./assignments)
+- [Milestone 8: Weekly Update](./final-project.html#weekly-updates)
 
 <h2 id="week-14">Week 14 — Disability, Bias, and AI</h2>
 
@@ -299,6 +309,7 @@ Optional:
 
 
 #### Due
+- [Reading responses](./assignments)
 
 
 ### April 9 (Thursday)
@@ -310,6 +321,8 @@ Optional:
 
 
 #### Due
+- [Reading responses](./assignments)
+- [Milestone 9: Weekly Update](./final-project.html#weekly-updates)
 
 
 <h2 id="week-15">Week 15 — Sociotechnical Considerations for Design</h2>
@@ -321,6 +334,7 @@ Optional:
 
 
 #### Due
+- [Reading responses](./assignments)
 
 
 ### April 16 (Thursday)
@@ -329,24 +343,24 @@ Optional:
 - Zong, Jonathan, Crystal Lee, Alan Lundgard, JiWoong Jang, Daniel Hajas, and Arvind Satyanarayan. **“Rich Screen Reader Experiences for Accessible Data Visualization.”** Computer Graphics Forum, 2022. <https://vis.mit.edu/pubs/rich-screen-reader-vis-experiences/>.
 
 #### Due
+- [Reading responses](./assignments)
+- [Milestone 10: Weekly Update](./final-project.html#weekly-updates)
 
 
-<h2 id="week-16">Week 16 — Conclusion: Disability and Design</h2>
+<h2 id="week-16">Week 16 — Final Project Presentations</h2>
 
 ### April 21 (Tuesday)
 
-#### Readings
+#### In class
 
-None
-
-#### Due
-
+- Final Project Presentations
 
 ### April 23 (Thursday)
 
-#### Readings
+#### In class
 
-None
+- Final Project Presentations
 
 #### Due
 
+- Final Project Report
