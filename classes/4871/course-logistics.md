@@ -4,6 +4,7 @@ class_id: 4871
 nav_title: Course Logistics
 nav_order: 5
 title: Course Logistics | INFO 4871
+description: Information and course policies for INFO 4871 Design for Accessibility.
 ---
 
 # Course Logistics

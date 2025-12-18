@@ -4,6 +4,7 @@ class_id: 4871
 nav_title: Assignments
 nav_order: 3
 title: Assignments | INFO 4871
+description: "Assignments for INFO 4871: Design for Accessibility."
 ---
 
 # Assignments

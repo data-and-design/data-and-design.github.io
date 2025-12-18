@@ -4,6 +4,7 @@ class_id: 4871
 nav_title: Schedule
 nav_order: 2
 title: Schedule | INFO 4871
+description: Week-by-week schedule for INFO 4871 including readings on disability studies, accessibility, crip technoscience, and participatory design methods.
 ---
 
 # Schedule

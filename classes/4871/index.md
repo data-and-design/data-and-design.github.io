@@ -4,6 +4,7 @@ class_id: 4871
 nav_title: Home
 nav_order: 1
 title: 'INFO 4871: Design for Accessibility'
+description: A course exploring disability-centered design of technology. Learn frameworks from disability studies and apply them through readings, discussions, and hands-on design projects.
 ---
 
 # INFO 4871: Design for Accessibility
