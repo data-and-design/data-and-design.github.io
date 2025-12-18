@@ -33,6 +33,28 @@ If you qualify for accommodations because of a disability, please submit your ac
 
 # Policies
 
+## Attendance Policy
+Because the class involves grappling with ideas and concepts that we might be encountering for the first time, the bulk of the value of this class comes from in-class discussion where we help each other refine our understanding of the material.
+
+That's why attendance and active participation are really important for this class. Our discussion time together is valuable and really difficult to replace by other activities. Missing class can have a huge impact on your and your classmates’ learning experience. When you miss a session, everyone else also misses out on potentially hearing your perspective on the material. 
+
+All students are expected to come to class having made progress with readings, course assignments, and projects and fully participate in class activities and discussions. The participation grade is calculated based on in-class activities, daily notes, interactions with and feedback from partners and the instructor, and general participation in class. 
+
+Here are some examples of how you can participate:
+- Giving comments and feedback on other students’ projects 
+- Practice active listening – be attentive and be engaged
+- Ask questions – there are no dumb questions
+- Comment, build on, or clarify others’ contributions 
+- Visit the instructor in office hours to chat, ask questions, or give feedback
+- Only use technology devices when it’s relevant to course activities
+- Maintain professional interactions with community members, including showing up to meetings on times, sharing project feedback, and following through on shared commitments
+
+That being said, things happen outside of our control. I am happy to work with students who have needs related to disability, illness, family, or religious obligations.
+
+**If you let me know in a timely manner that you will miss class for these reasons**, I will not penalize your participation grade. However, I highly encourage you to ask a classmate about what you missed or come to office hours.
+
+In particular, **do not come to class if you are sick**. It is important to rest when you are not feeling well, and your classmates do not want to become sick too. This is important for disability inclusion, as we want class space to be welcoming for people e.g. who are immunocompromised.
+
 ## AI Policy
 Generative AI tools, such as LLMs and code agents, are quickly changing the practice of software design and engineering. These changes have implications for the way that we learn and practice design in ways that are relevant to this class. Here, I’d like to articulate some guiding values that we should follow in class:
 

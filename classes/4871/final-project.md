@@ -33,6 +33,8 @@ Teams that want to propose a project have to submit a short proposal answering t
 - What is the solution you want to propose?
 - How do you plan to implement it?
 
+Before you submit, it's **strongly encouraged** that you talk to the instructor for feedback on your idea.
+
 <h2 id="milestone-3">Milestone 3: Make a plan</h2>
 
 Develop a more fully fleshed out project plan that addresses the following:
