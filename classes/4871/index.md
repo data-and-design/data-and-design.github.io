@@ -17,8 +17,8 @@ You'll learn frameworks from disability studies and apply them to real design ch
 ### What We'll Cover
 - Different ways of understanding disability (social model, medical model, political/relational model) and why it matters for design
 - How past design practices have excluded or harmed disabled people
+- How existing technologies reflect ableist ideas about normalcy, universality, or productivity
 - Co-designing with disabled communities (not just for them)
-- How disability intersects with race, class, gender, and age in tech design
 - Questions of representation, power, and agency in accessibility work
 
 ### What You'll Learn to Do
@@ -26,3 +26,7 @@ You'll learn frameworks from disability studies and apply them to real design ch
 - Design prototypes using participatory methods that center disabled experience
 - Recognize how disability is experienced differently across intersecting identities
 - Make the case for inclusive design in your future work (wherever that takes you)
+
+## Acknowledgements
+
+Deepest thanks to [Crystal Lee](https://crystaljjlee.com/) for giving feedback on early drafts of the syllabus. Thank you to [Enrico Bertini](https://enrico.bertini.io/) for advice/inspiration on the "paper reading roles" assignment model.

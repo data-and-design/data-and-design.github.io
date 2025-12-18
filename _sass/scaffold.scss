@@ -71,6 +71,19 @@ li {
   margin-bottom: 1rem;
 }
 
+td {
+  padding: 0.5rem;
+}
+
+hr {
+  display: block;
+  height: 2px;
+  border: 0;
+  border-top: 2px solid $decoration;
+  margin: 1em 0;
+  padding: 0;
+}
+
 ::selection {
   background: $foreground;
   color: $accent;
