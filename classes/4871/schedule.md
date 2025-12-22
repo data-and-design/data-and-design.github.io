@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 - Astra Taylor, dir. **Judith Butler & Sunaura Taylor in conversation.** From *Examined Life*. 2008. <https://www.youtube.com/watch?v=k0HZaPkF6qE>.
 
-<h2 id="week-2">Week 2 — Extending Capabilities, Not Fixing Defecits</h2>
+<h2 id="week-2">Week 2 — Extending Capabilities, Not Fixing Deficits</h2>
 
 ### January 13 (Tuesday)
 
