@@ -18,12 +18,6 @@ title: About
     <p>
       The <span class="dnd">Data & Design</span> Group is an interdisciplinary research group in the <a href="https://www.colorado.edu/cmci/infoscience">Department of Information Science</a> at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>.
     </p>
-    <p>
-      We study technology and society by making things. Design is both our method for understanding problems and our medium for proposing alternatives.
-    </p>
-    <p>
-      The artifacts we create—tools, systems, frameworks—aren't just outputs of research; they <span class="cta">embody ideas about how technology could work differently</span>.
-    </p>
     <a href="/people" class="arrow-link">Our team <span aria-hidden>&rarr;</span></a>
   </div>
 </div>
@@ -32,6 +26,19 @@ title: About
   <div class="pure-u-md-1-4">&nbsp;</div>
   <div class="pure-u-1 pure-u-md-1-2">
   <h2>Mission</h2>
+    <p>
+      We study technology and society by making things. Design is both our method for understanding problems and our medium for proposing alternatives.
+    </p>
+    <p>
+      The artifacts we create—tools, systems, frameworks—aren't just outputs of research; they <span class="cta">embody ideas about how technology could work differently</span>.
+    </p>
+  </div>
+</div>
+
+<div class="pure-g">
+  <div class="pure-u-md-1-4">&nbsp;</div>
+  <div class="pure-u-1 pure-u-md-1-2">
+  <h2>Vision</h2>
     <p>
       We are working toward a world where everyone has power to shape the design of systems that affect their social and political lives.
     </p>
