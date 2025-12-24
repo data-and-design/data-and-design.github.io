@@ -14,10 +14,10 @@ materials:
     url: /publications/olli-poster.pdf
     type: file
   - name: Olli website
-    url: https://mitvis.github.io/olli/
+    url: https://umwelt-data.github.io/olli/
     type: cube
   - name: Code
-    url: https://github.com/mitvis/olli
+    url: https://github.com/umwelt-data/olli
     type: code
 themes: [access]
 projects: [olli]
