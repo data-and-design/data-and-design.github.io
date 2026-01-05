@@ -39,7 +39,7 @@ Because the class involves grappling with ideas and concepts that we might be en
 
 That's why attendance and active participation are really important for this class. Our discussion time together is valuable and really difficult to replace by other activities. Missing class can have a huge impact on your and your classmates’ learning experience. When you miss a session, everyone else also misses out on potentially hearing your perspective on the material. 
 
-All students are expected to come to class having made progress with readings, course assignments, and projects and fully participate in class activities and discussions. The participation grade is calculated based on in-class activities, daily notes, interactions with and feedback from partners and the instructor, and general participation in class. 
+All students are expected to come to class having made progress with readings, course assignments, and projects and fully participate in class activities and discussions. The participation grade is calculated based on in-class activities, interactions with and feedback from partners and the instructor, and general participation in class. 
 
 Here are some examples of how you can participate:
 - Giving comments and feedback on other students’ projects 
@@ -52,9 +52,24 @@ Here are some examples of how you can participate:
 
 That being said, things happen outside of our control. I am happy to work with students who have needs related to disability, illness, family, or religious obligations.
 
-**If you let me know in a timely manner that you will miss class for these reasons**, I will not penalize your participation grade. However, I highly encourage you to ask a classmate about what you missed or come to office hours.
+**If you let me know before class that you will miss class for one of these accepted reasons**, I will not penalize your participation grade. However, I highly encourage you to ask a classmate about what you missed or come to office hours.
 
 In particular, **do not come to class if you are sick**. It is important to rest when you are not feeling well, and your classmates do not want to become sick too. This is important for disability inclusion, as we want class space to be welcoming for people e.g. who are immunocompromised.
+
+
+## Late Work Policy
+Students are expected to read assigned readings and to complete assignments by the due dates indicated in the course schedule. Understanding the readings properly is extremely important. Make sure you give yourself plenty of time to read, comprehend, and reflect on the readings every week.
+
+Students may request a deadline extension for any assignment by emailing the instructor. An extension request must contain:
+
+- a request for an extension on a specific assignment
+- the amount of time requested
+- the reason for the request
+
+**Extension requests must be made before the assignment due date.**
+
+Late assignments will be accepted 5 days past the deadline. However, 10% points will be deducted per day late up to 50%. Assignments will not be accepted after 5 days past due even for partial credit.
+
 
 ## AI Policy
 Generative AI tools, such as LLMs and code agents, are quickly changing the practice of software design and engineering. These changes have implications for the way that we learn and practice design in ways that are relevant to this class. Here, I’d like to articulate some guiding values that we should follow in class:
