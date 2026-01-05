@@ -9,4 +9,6 @@ description: Course resources and supplemental materials for INFO 4871 Design fo
 
 # Resources
 
-Course resources coming soon.
+This page will contain resources for accessibility that are recommended by the instructor or by class members. If you would like to suggest a resource for this page, email it to the instructor.
+
+[Coming Soon]
