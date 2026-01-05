@@ -23,7 +23,13 @@ Form teams of 4–5 and enter them into Canvas.
 
 Pick a project from this list:
 
-- tbd
+- Develop a new feature for the [Olli](https://github.com/umwelt-data/olli) open source library
+    - Spatial navigation
+    - Custom key bindings
+    - Customizable text descriptions
+    - Geospatial map support
+    - Diagram / relational graph support
+- Create an example gallery and documentation for the [Umwelt](https://github.com/umwelt-data/umwelt) accessible data tool
 
 ### Proposing a project
 
