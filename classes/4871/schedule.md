@@ -94,6 +94,7 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
+- [Milestone 1: Team Composition](./final-project.html#milestone-1)
 
 
 <h2 id="week-4">Week 4 — Against Technoableism (Part 2)</h2>
@@ -117,7 +118,6 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-- [Milestone 1: Team Composition](./final-project.html#milestone-1)
 
 <h2 id="week-5">Week 5 — Disability Futures</h2>
 
