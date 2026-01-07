@@ -66,6 +66,7 @@ document.addEventListener('DOMContentLoaded', function() {
     - Rotation 2: [**Concept Keeper**](#concept-keeper)
     - Rotation 3: [**Connector**](#connector)
     - Rotation 4: [**Design Translator**](#design-translator)
+- Start of semester survey
 
 ### January 15 (Thursday)
 
