@@ -68,7 +68,7 @@ That being said, things happen outside of our control. I am happy to work with s
 
 In particular, **do not come to class if you are sick**. It is important to rest when you are not feeling well, and your classmates do not want to become sick too. This is important for disability inclusion, as we want class space to be welcoming for people e.g. who are immunocompromised.
 
-Due to course requirements and enrollment demands, the Information Science Department may administratively drop students who do not fulfill syllabus’ attendance expectations in advance of the drop-without-penalty deadline (January 23rd, 2026). If you have concerns about meeting this requirement, please reach out to the instructor. 
+Due to course requirements and enrollment demands, the Information Science Department may [administratively drop](https://www.colorado.edu/registrar/students/registration/register/drop) students who do not fulfill syllabus’ attendance expectations in advance of the drop-without-penalty deadline (January 23rd, 2026). If you have concerns about meeting this requirement, please reach out to the instructor. 
 
 
 ## Late Work Policy
