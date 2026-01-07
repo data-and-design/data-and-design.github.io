@@ -62,6 +62,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Argument Analyst**](#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](#concept-keeper)
+    - Rotation 3: [**Connector**](#connector)
+    - Rotation 4: [**Design Translator**](#design-translator)
 
 ### January 15 (Thursday)
 
@@ -73,6 +77,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Design Translator**](#design-translator)
+    - Rotation 2: [**Argument Analyst**](#argument-analyst)
+    - Rotation 3: [**Concept Keeper**](#concept-keeper)
+    - Rotation 4: [**Connector**](#connector)
 
 <h2 id="week-3">Week 3 — Against Technoableism (Part 1)</h2>
 
@@ -84,6 +92,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Connector**](#connector)
+    - Rotation 2: [**Design Translator**](#design-translator)
+    - Rotation 3: [**Argument Analyst**](#argument-analyst)
+    - Rotation 4: [**Concept Keeper**](#concept-keeper)
 
 
 ### January 22 (Thursday)
@@ -94,6 +106,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Concept Keeper**](#concept-keeper)
+    - Rotation 2: [**Connector**](#connector)
+    - Rotation 3: [**Design Translator**](#design-translator)
+    - Rotation 4: [**Argument Analyst**](#argument-analyst)
 - [Milestone 1: Team Composition](./final-project.html#milestone-1)
 
 
@@ -109,15 +125,23 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Argument Analyst**](#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](#concept-keeper)
+    - Rotation 3: [**Connector**](#connector)
+    - Rotation 4: [**Design Translator**](#design-translator)
 
 
 ### January 29 (Thursday) — Class on Zoom
 
 #### Readings
-- Winner, Langdon. **“Do Artifacts Have Politics?”** Daedalus 109, no. 1 (1980): 121–36.
+- Winner, Langdon. **"Do Artifacts Have Politics?"** Daedalus 109, no. 1 (1980): 121–36.
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Design Translator**](#design-translator)
+    - Rotation 2: [**Argument Analyst**](#argument-analyst)
+    - Rotation 3: [**Concept Keeper**](#concept-keeper)
+    - Rotation 4: [**Connector**](#connector)
 
 <h2 id="week-5">Week 5 — Disability Futures</h2>
 
@@ -127,20 +151,28 @@ Optional:
 
 - Kafer, Alison. **“Introduction: Imagined Futures.”** *Feminist, Queer, Crip*. Indiana University Press, 2013.
 
-- Garland-Thomson, Rosemarie. **“Conserving Disability and Constructing a Habitable World.”** ABC Religion & Ethics, December 2, 2020. <https://www.abc.net.au/religion/rosemarie-garland-thomson-conserving-disability-and-constructin/12408108>.
+- Garland-Thomson, Rosemarie. **"Conserving Disability and Constructing a Habitable World."** ABC Religion & Ethics, December 2, 2020. <https://www.abc.net.au/religion/rosemarie-garland-thomson-conserving-disability-and-constructin/12408108>.
 
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Connector**](#connector)
+    - Rotation 2: [**Design Translator**](#design-translator)
+    - Rotation 3: [**Argument Analyst**](#argument-analyst)
+    - Rotation 4: [**Concept Keeper**](#concept-keeper)
 
 ### February 5 (Thursday)
 
 #### Readings
-- Angelini, Robin, Katta Spiel, and Maartje De Meulder. **“Speculating Deaf Tech: Reimagining Technologies Centering Deaf People.”** Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (New York, NY, USA), CHI ’25, Association for Computing Machinery, April 25, 2025, 1–18. <https://doi.org/10.1145/3706598.3713238>.
+- Angelini, Robin, Katta Spiel, and Maartje De Meulder. **"Speculating Deaf Tech: Reimagining Technologies Centering Deaf People."** Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (New York, NY, USA), CHI '25, Association for Computing Machinery, April 25, 2025, 1–18. <https://doi.org/10.1145/3706598.3713238>.
 
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Concept Keeper**](#concept-keeper)
+    - Rotation 2: [**Connector**](#connector)
+    - Rotation 3: [**Design Translator**](#design-translator)
+    - Rotation 4: [**Argument Analyst**](#argument-analyst)
 - [Milestone 2: Define a Project](./final-project.html#milestone-2)
 
 <h2 id="week-6">Week 6 — Crip Technoscience: Disabled Knowing and Making</h2>
@@ -148,22 +180,30 @@ Optional:
 ### February 10 (Tuesday)
 
 #### Readings
-- Hamraie, Aimi, and Kelly Fritsch. **“Crip Technoscience Manifesto.”** *Catalyst: Feminism, Theory, Technoscience* 5, no. 1 (2019): 1. <https://catalystjournal.org/index.php/catalyst/article/view/29607/24772>.
+- Hamraie, Aimi, and Kelly Fritsch. **"Crip Technoscience Manifesto."** *Catalyst: Feminism, Theory, Technoscience* 5, no. 1 (2019): 1. <https://catalystjournal.org/index.php/catalyst/article/view/29607/24772>.
 
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Argument Analyst**](#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](#concept-keeper)
+    - Rotation 3: [**Connector**](#connector)
+    - Rotation 4: [**Design Translator**](#design-translator)
 
 
 ### February 12 (Thursday)
 
 #### Readings
 
-- Brody, Miriam, Izabella Rodrigues, Jane L. E, and Jingyi Li. **“Expanding Norms, Negotiating Bodies: How Artists with Disabilities Perceive and Use Creative Tools.”** *Proceedings of the 27th International ACM SIGACCESS Conference on Computers and Accessibility* (New York, NY, USA), ASSETS ’25, Association for Computing Machinery, October 22, 2025, 1–14. <https://doi.org/10.1145/3663547.3746331>.
+- Brody, Miriam, Izabella Rodrigues, Jane L. E, and Jingyi Li. **"Expanding Norms, Negotiating Bodies: How Artists with Disabilities Perceive and Use Creative Tools."** *Proceedings of the 27th International ACM SIGACCESS Conference on Computers and Accessibility* (New York, NY, USA), ASSETS '25, Association for Computing Machinery, October 22, 2025, 1–14. <https://doi.org/10.1145/3663547.3746331>.
 
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Design Translator**](#design-translator)
+    - Rotation 2: [**Argument Analyst**](#argument-analyst)
+    - Rotation 3: [**Concept Keeper**](#concept-keeper)
+    - Rotation 4: [**Connector**](#connector)
 - [Milestone 3: Make a Plan](./final-project.html#milestone-3)
 
 
@@ -173,20 +213,28 @@ Optional:
 
 #### Readings
 - Weise, Jillian. **“Common Cyborg.”** *Granta*, September 24, 2018. <https://granta.com/common-cyborg/>.
-- Kafer, Alison. Chapter 5 **“The Cyborg and the Crip: Critical Encounters.”** *Feminist, Queer, Crip*. Indiana University Press, 2013.
+- Kafer, Alison. Chapter 5 **"The Cyborg and the Crip: Critical Encounters."** *Feminist, Queer, Crip*. Indiana University Press, 2013.
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Connector**](#connector)
+    - Rotation 2: [**Design Translator**](#design-translator)
+    - Rotation 3: [**Argument Analyst**](#argument-analyst)
+    - Rotation 4: [**Concept Keeper**](#concept-keeper)
 
 ### February 19 (Thursday)
 
 
 #### Readings
-- Hollan, James, Edwin Hutchins, and David Kirsh. **“Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research.”** *ACM Trans. Comput.-Hum. Interact.* (New York, NY, USA) 7, no. 2 (2000): 174–96. <https://doi.org/10.1145/353485.353487>.
+- Hollan, James, Edwin Hutchins, and David Kirsh. **"Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research."** *ACM Trans. Comput.-Hum. Interact.* (New York, NY, USA) 7, no. 2 (2000): 174–96. <https://doi.org/10.1145/353485.353487>.
 
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Concept Keeper**](#concept-keeper)
+    - Rotation 2: [**Connector**](#connector)
+    - Rotation 3: [**Design Translator**](#design-translator)
+    - Rotation 4: [**Argument Analyst**](#argument-analyst)
 - [Milestone 4: Present in Class](./final-project.html#milestone-4)
 
 
@@ -196,11 +244,15 @@ Optional:
 
 #### Readings
 - Romanska, Magda. **“The Bionic Body: Disability, Technology and Posthumanism.”** Body, Space & Technology 23, no. 1 (2024). <https://doi.org/10.16995/bst.11480>.
-- Alice Wong and Ed Yong. **“What Counts as Seeing.”**  *Orion Magazine*. July 12, 2022. <https://orionmagazine.org/article/ed-yong-alice-wong-interview/>.
+- Alice Wong and Ed Yong. **"What Counts as Seeing."**  *Orion Magazine*. July 12, 2022. <https://orionmagazine.org/article/ed-yong-alice-wong-interview/>.
 
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Argument Analyst**](#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](#concept-keeper)
+    - Rotation 3: [**Connector**](#connector)
+    - Rotation 4: [**Design Translator**](#design-translator)
 
 
 ### February 26 (Thursday) — Reading day
@@ -211,20 +263,28 @@ Optional:
 ### March 3 (Tuesday)
 
 #### Readings
-- Mia Mingus. **“Access Intimacy, Interdependence and Disability Justice.”** Leaving Evidence, April 12, 2017. <https://leavingevidence.wordpress.com/2017/04/12/access-intimacy-interdependence-and-disability-justice/>.
+- Mia Mingus. **"Access Intimacy, Interdependence and Disability Justice."** Leaving Evidence, April 12, 2017. <https://leavingevidence.wordpress.com/2017/04/12/access-intimacy-interdependence-and-disability-justice/>.
 
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Design Translator**](#design-translator)
+    - Rotation 2: [**Argument Analyst**](#argument-analyst)
+    - Rotation 3: [**Concept Keeper**](#concept-keeper)
+    - Rotation 4: [**Connector**](#connector)
 
 
 ### March 5 (Thursday)
 
 #### Readings
-- Bennett, Cynthia L., Erin Brady, and Stacy M. Branham. **“Interdependence as a Frame for Assistive Technology Research and Design.”** *Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility* (New York, NY, USA), ASSETS ’18, Association for Computing Machinery, October 8, 2018, 161–73. <https://doi.org/10.1145/3234695.3236348>.
+- Bennett, Cynthia L., Erin Brady, and Stacy M. Branham. **"Interdependence as a Frame for Assistive Technology Research and Design."** *Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility* (New York, NY, USA), ASSETS '18, Association for Computing Machinery, October 8, 2018, 161–73. <https://doi.org/10.1145/3234695.3236348>.
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Connector**](#connector)
+    - Rotation 2: [**Design Translator**](#design-translator)
+    - Rotation 3: [**Argument Analyst**](#argument-analyst)
+    - Rotation 4: [**Concept Keeper**](#concept-keeper)
 - [Milestone 5: Weekly Update](./final-project.html#weekly-updates)
 
 <h2 id="week-10">Week 10 — Disability and the Arts</h2>
@@ -233,21 +293,29 @@ Optional:
 
 #### Readings
 - Finnegan Shannon. **“Do You Want Us Here or Not, 2018–Ongoing.”** Finnegan Shannon, 2018. <https://shannonfinnegan.com/do-you-want-us-here-or-not>.
-- Godin, M. Leona. **“Iconic Photographs of Blind People Prove Seeing Isn’t Knowing.”** ARTnews.Com, November 27, 2025. <https://www.artnews.com/art-in-america/features/blindness-photography-paul-strand-walker-evans-jacob-riis-1234763708/>.
+- Godin, M. Leona. **"Iconic Photographs of Blind People Prove Seeing Isn't Knowing."** ARTnews.Com, November 27, 2025. <https://www.artnews.com/art-in-america/features/blindness-photography-paul-strand-walker-evans-jacob-riis-1234763708/>.
 
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Concept Keeper**](#concept-keeper)
+    - Rotation 2: [**Connector**](#connector)
+    - Rotation 3: [**Design Translator**](#design-translator)
+    - Rotation 4: [**Argument Analyst**](#argument-analyst)
 
 
 ### March 12 (Thursday)
 
 #### Readings
-- Mills, Mara. **“HOLDING THE LINE: On the Art of Christine Sun Kim.”** Artforum, April 1, 2025. <https://www.artforum.com/features/christine-sun-kim-mara-mills-whitney-museum-review-1234728306/>.
+- Mills, Mara. **"HOLDING THE LINE: On the Art of Christine Sun Kim."** Artforum, April 1, 2025. <https://www.artforum.com/features/christine-sun-kim-mara-mills-whitney-museum-review-1234728306/>.
 
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Argument Analyst**](#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](#concept-keeper)
+    - Rotation 3: [**Connector**](#connector)
+    - Rotation 4: [**Design Translator**](#design-translator)
 - [Milestone 6: Weekly Update](./final-project.html#weekly-updates)
 
 <h2 id="week-11">Week 11 — Spring Break</h2>
@@ -263,6 +331,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Design Translator**](#design-translator)
+    - Rotation 2: [**Argument Analyst**](#argument-analyst)
+    - Rotation 3: [**Concept Keeper**](#concept-keeper)
+    - Rotation 4: [**Connector**](#connector)
 
 
 ### March 26 (Thursday)
@@ -271,10 +343,14 @@ Optional:
 - Davis, Jenny L. **“Introduction.”** from *How Artifacts Afford: The Power and Politics of Everyday Things.* Design Thinking, Design Theory, edited by Ken Friedman and Erik Stolterman. MIT Press, 2020.
 
 Optional:
-- James J. Gibson. **“The Theory of Affordances.”** In *The Ecological Approach to Visual Perception*. 1979. <https://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf>
+- James J. Gibson. **"The Theory of Affordances."** In *The Ecological Approach to Visual Perception*. 1979. <https://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf>
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Connector**](#connector)
+    - Rotation 2: [**Design Translator**](#design-translator)
+    - Rotation 3: [**Argument Analyst**](#argument-analyst)
+    - Rotation 4: [**Concept Keeper**](#concept-keeper)
 - [Milestone 7: Weekly Update](./final-project.html#weekly-updates)
 
 <h2 id="week-13">Week 13 — Life at the Limits of Language (Part 2)</h2>
@@ -288,16 +364,24 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Concept Keeper**](#concept-keeper)
+    - Rotation 2: [**Connector**](#connector)
+    - Rotation 3: [**Design Translator**](#design-translator)
+    - Rotation 4: [**Argument Analyst**](#argument-analyst)
 
 ### April 2 (Thursday)
 
 #### Readings
-- Clark, John Lee. **“Against Access.”** *McSweeney’s Quarterly Concern 64: The Audio Issue*, October 2021. <https://audio.mcsweeneys.net/transcripts/against_access.html>.
+- Clark, John Lee. **"Against Access."** *McSweeney's Quarterly Concern 64: The Audio Issue*, October 2021. <https://audio.mcsweeneys.net/transcripts/against_access.html>.
 
 
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Argument Analyst**](#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](#concept-keeper)
+    - Rotation 3: [**Connector**](#connector)
+    - Rotation 4: [**Design Translator**](#design-translator)
 - [Milestone 8: Weekly Update](./final-project.html#weekly-updates)
 
 <h2 id="week-14">Week 14 — Disability, Bias, and AI</h2>
@@ -305,24 +389,32 @@ Optional:
 ### April 7 (Tuesday)
 
 #### Readings
-- Whittaker, Meredith, Meryl Alper, Cynthia L. Bennett, Sara Hendren, Elizabeth Kaziunas, Mara Mills, Meredith Ringel Morris, Joy Lisi Rankin, Emily Rogers, Marcel Salas, and Sarah Myers West. **“Disability, Bias & AI Report.”** AI Now Institute, November 20, 2019. <https://ainowinstitute.org/publications/disabilitybiasai-2019>
+- Whittaker, Meredith, Meryl Alper, Cynthia L. Bennett, Sara Hendren, Elizabeth Kaziunas, Mara Mills, Meredith Ringel Morris, Joy Lisi Rankin, Emily Rogers, Marcel Salas, and Sarah Myers West. **"Disability, Bias & AI Report."** AI Now Institute, November 20, 2019. <https://ainowinstitute.org/publications/disabilitybiasai-2019>
 
 
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Design Translator**](#design-translator)
+    - Rotation 2: [**Argument Analyst**](#argument-analyst)
+    - Rotation 3: [**Concept Keeper**](#concept-keeper)
+    - Rotation 4: [**Connector**](#connector)
 
 
 ### April 9 (Thursday)
 
 #### Readings
 - Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Remi Denton, and Robin Brewer. **“‘I Wouldn’t Say Offensive but...’: Disability-Centered Perspectives on Large Language Models.”** *ACM Conference on Fairness Accountability and Transparency*, ACM, June 12, 2023, 205–16. <https://doi.org/10.1145/3593013.3593989>.
-- **“ASAN Says No Generative AI in Plain Language.”** Autistic Self Advocacy Network, July 29, 2025. <https://autisticadvocacy.org/2025/07/asan-says-no-generative-ai-in-plain-language/>.
+- **"ASAN Says No Generative AI in Plain Language."** Autistic Self Advocacy Network, July 29, 2025. <https://autisticadvocacy.org/2025/07/asan-says-no-generative-ai-in-plain-language/>.
 
 
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Connector**](#connector)
+    - Rotation 2: [**Design Translator**](#design-translator)
+    - Rotation 3: [**Argument Analyst**](#argument-analyst)
+    - Rotation 4: [**Concept Keeper**](#concept-keeper)
 - [Milestone 9: Weekly Update](./final-project.html#weekly-updates)
 
 
@@ -331,20 +423,28 @@ Optional:
 ### April 14 (Tuesday)
 
 #### Readings
-- Lundgard, Alan, Crystal Lee, and Arvind Satyanarayan. **“Sociotechnical Considerations for Accessible Visualization Design.”** 2019 IEEE Visualization Conference (VIS), October 2019, 16–20. <https://doi.org/10.1109/VISUAL.2019.8933762>.
+- Lundgard, Alan, Crystal Lee, and Arvind Satyanarayan. **"Sociotechnical Considerations for Accessible Visualization Design."** 2019 IEEE Visualization Conference (VIS), October 2019, 16–20. <https://doi.org/10.1109/VISUAL.2019.8933762>.
 
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Concept Keeper**](#concept-keeper)
+    - Rotation 2: [**Connector**](#connector)
+    - Rotation 3: [**Design Translator**](#design-translator)
+    - Rotation 4: [**Argument Analyst**](#argument-analyst)
 
 
 ### April 16 (Thursday)
 
 #### Readings
-- Zong, Jonathan, Crystal Lee, Alan Lundgard, JiWoong Jang, Daniel Hajas, and Arvind Satyanarayan. **“Rich Screen Reader Experiences for Accessible Data Visualization.”** Computer Graphics Forum, 2022. <https://vis.mit.edu/pubs/rich-screen-reader-vis-experiences/>.
+- Zong, Jonathan, Crystal Lee, Alan Lundgard, JiWoong Jang, Daniel Hajas, and Arvind Satyanarayan. **"Rich Screen Reader Experiences for Accessible Data Visualization."** Computer Graphics Forum, 2022. <https://vis.mit.edu/pubs/rich-screen-reader-vis-experiences/>.
 
 #### Due
 - [Reading responses](./assignments)
+    - Rotation 1: [**Argument Analyst**](#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](#concept-keeper)
+    - Rotation 3: [**Connector**](#connector)
+    - Rotation 4: [**Design Translator**](#design-translator)
 - [Milestone 10: Weekly Update](./final-project.html#weekly-updates)
 
 
