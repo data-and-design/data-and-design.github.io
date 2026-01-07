@@ -23,6 +23,18 @@ Office hours: by appointment (signup link in Canvas)
 Email: use the Inbox tab on Canvas
 
 
+# Grading
+
+| **Grade component**  | **Weight**  | 
+|---|---|
+| Participation  | 30%  | 
+| Reading responses  | 35%  |
+| Final project  | 35%  | 
+|---|---|
+| **Total**  | 100%  | 
+
+
+
 ## Accessibility
 I want this course to be accessible to all students, and I'm available to discuss course accessibility needs with students whether or not these needs relate to officially documented accommodations. Please let me know about access needs as soon as possible. 
 
