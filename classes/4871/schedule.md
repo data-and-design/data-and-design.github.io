@@ -354,14 +354,14 @@ Optional:
 
 #### In class
 
-- Final Project Presentations
+- [Final Project Presentations](./final-project.html#final-presentation)
 
 ### April 23 (Thursday)
 
 #### In class
 
-- Final Project Presentations
+- [Final Project Presentations](./final-project.html#final-presentation)
 
 #### Due
 
-- Final Project Report
+- [Final Project Report](./final-project.html#final-report)
