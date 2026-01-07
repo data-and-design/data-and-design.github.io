@@ -68,6 +68,8 @@ That being said, things happen outside of our control. I am happy to work with s
 
 In particular, **do not come to class if you are sick**. It is important to rest when you are not feeling well, and your classmates do not want to become sick too. This is important for disability inclusion, as we want class space to be welcoming for people e.g. who are immunocompromised.
 
+Due to course requirements and enrollment demands, the Information Science Department may administratively drop students who do not fulfill syllabus’ attendance expectations in advance of the drop-without-penalty deadline (January 23rd, 2026). If you have concerns about meeting this requirement, please reach out to the instructor. 
+
 
 ## Late Work Policy
 Students are expected to read assigned readings and to complete assignments by the due dates indicated in the course schedule. Understanding the readings properly is extremely important. Make sure you give yourself plenty of time to read, comprehend, and reflect on the readings every week.
@@ -95,7 +97,7 @@ Here are specific examples of uses that are not allowed. These are meant to be i
 - **Do not use LLMs to generate your reading responses from scratch.** This doesn’t help you learn and is disrespectful of my time when I read your responses. I know that the readings may be challenging sometimes—grappling with difficult ideas is an important part of the learning process that the class is going through together as we read and discuss. I am interested in your genuine reflections, even if they are imperfect. AI is not a substitute for doing and thinking about the reading yourself.
 - **Do not use image generators or coding agents to create prototypes from scratch.** Often, the process of sketching a low-fidelity prototype can be important for the creative process and noticing gaps in your thinking. Prototyping is a tool to facilitate our design exploration. AI sometimes goes straight to high-fidelity, which can deprive you of an opportunity to reflect on your design. I'm fine with using AI to refine later-stage implementations, but not for exploratory prototyping.
 
-There are ways to use AI responsibly in this class. Please follow the values listed above. I will not actively police your AI use. However, you are accountable for everything you turn in—if AI generates low-quality work for you, you are responsible for the feedback and/or grade that you get.
+There are ways to use AI responsibly in this class. Please follow the values listed above. I will not actively police your AI use. However, turning in LLM-generated reading responses will count as academic dishonesty and I will take appropriate measures if I find out. Further, you are accountable for everything you turn in—if AI generates low-quality work for you, you are responsible for the feedback and/or grade that you get.
 
 <br/>
 <br/>
