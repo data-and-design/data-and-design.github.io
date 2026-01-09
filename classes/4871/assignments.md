@@ -20,7 +20,7 @@ Each student must read the assigned readings carefully before class. In addition
 
 ## Which role am I this week?
 
-In canvas, under the "People" tab, students have been assigned to groups under the "Reading response rotation" tab. Check the [schedule](./schedule) under each week to see which rotation is assigned to which role for a week.
+In Canvas, under the "People" tab, students have been assigned to groups under the "Reading response rotation" tab. Check the [schedule](./schedule) under each week to see which rotation is assigned to which role for a week.
 
 ---
 

@@ -62,10 +62,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Argument Analyst**](#argument-analyst)
-    - Rotation 2: [**Concept Keeper**](#concept-keeper)
-    - Rotation 3: [**Connector**](#connector)
-    - Rotation 4: [**Design Translator**](#design-translator)
+    - Rotation 1: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 3: [**Connector**](./assignments#connector)
+    - Rotation 4: [**Design Translator**](./assignments#design-translator)
 - Start of semester survey
 
 ### January 15 (Thursday)
@@ -78,10 +78,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Design Translator**](#design-translator)
-    - Rotation 2: [**Argument Analyst**](#argument-analyst)
-    - Rotation 3: [**Concept Keeper**](#concept-keeper)
-    - Rotation 4: [**Connector**](#connector)
+    - Rotation 1: [**Design Translator**](./assignments#design-translator)
+    - Rotation 2: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 3: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 4: [**Connector**](./assignments#connector)
 
 <h2 id="week-3">Week 3 — Against Technoableism (Part 1)</h2>
 
@@ -93,10 +93,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Connector**](#connector)
-    - Rotation 2: [**Design Translator**](#design-translator)
-    - Rotation 3: [**Argument Analyst**](#argument-analyst)
-    - Rotation 4: [**Concept Keeper**](#concept-keeper)
+    - Rotation 1: [**Connector**](./assignments#connector)
+    - Rotation 2: [**Design Translator**](./assignments#design-translator)
+    - Rotation 3: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 4: [**Concept Keeper**](./assignments#concept-keeper)
 
 
 ### January 22 (Thursday)
@@ -107,10 +107,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Concept Keeper**](#concept-keeper)
-    - Rotation 2: [**Connector**](#connector)
-    - Rotation 3: [**Design Translator**](#design-translator)
-    - Rotation 4: [**Argument Analyst**](#argument-analyst)
+    - Rotation 1: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 2: [**Connector**](./assignments#connector)
+    - Rotation 3: [**Design Translator**](./assignments#design-translator)
+    - Rotation 4: [**Argument Analyst**](./assignments#argument-analyst)
 - [Milestone 1: Team Composition](./final-project.html#milestone-1)
 
 
@@ -126,10 +126,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Argument Analyst**](#argument-analyst)
-    - Rotation 2: [**Concept Keeper**](#concept-keeper)
-    - Rotation 3: [**Connector**](#connector)
-    - Rotation 4: [**Design Translator**](#design-translator)
+    - Rotation 1: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 3: [**Connector**](./assignments#connector)
+    - Rotation 4: [**Design Translator**](./assignments#design-translator)
 
 
 ### January 29 (Thursday) — Class on Zoom
@@ -139,10 +139,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Design Translator**](#design-translator)
-    - Rotation 2: [**Argument Analyst**](#argument-analyst)
-    - Rotation 3: [**Concept Keeper**](#concept-keeper)
-    - Rotation 4: [**Connector**](#connector)
+    - Rotation 1: [**Design Translator**](./assignments#design-translator)
+    - Rotation 2: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 3: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 4: [**Connector**](./assignments#connector)
 
 <h2 id="week-5">Week 5 — Disability Futures</h2>
 
@@ -157,10 +157,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Connector**](#connector)
-    - Rotation 2: [**Design Translator**](#design-translator)
-    - Rotation 3: [**Argument Analyst**](#argument-analyst)
-    - Rotation 4: [**Concept Keeper**](#concept-keeper)
+    - Rotation 1: [**Connector**](./assignments#connector)
+    - Rotation 2: [**Design Translator**](./assignments#design-translator)
+    - Rotation 3: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 4: [**Concept Keeper**](./assignments#concept-keeper)
 
 ### February 5 (Thursday)
 
@@ -170,10 +170,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Concept Keeper**](#concept-keeper)
-    - Rotation 2: [**Connector**](#connector)
-    - Rotation 3: [**Design Translator**](#design-translator)
-    - Rotation 4: [**Argument Analyst**](#argument-analyst)
+    - Rotation 1: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 2: [**Connector**](./assignments#connector)
+    - Rotation 3: [**Design Translator**](./assignments#design-translator)
+    - Rotation 4: [**Argument Analyst**](./assignments#argument-analyst)
 - [Milestone 2: Define a Project](./final-project.html#milestone-2)
 
 <h2 id="week-6">Week 6 — Crip Technoscience: Disabled Knowing and Making</h2>
@@ -186,10 +186,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Argument Analyst**](#argument-analyst)
-    - Rotation 2: [**Concept Keeper**](#concept-keeper)
-    - Rotation 3: [**Connector**](#connector)
-    - Rotation 4: [**Design Translator**](#design-translator)
+    - Rotation 1: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 3: [**Connector**](./assignments#connector)
+    - Rotation 4: [**Design Translator**](./assignments#design-translator)
 
 
 ### February 12 (Thursday)
@@ -201,10 +201,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Design Translator**](#design-translator)
-    - Rotation 2: [**Argument Analyst**](#argument-analyst)
-    - Rotation 3: [**Concept Keeper**](#concept-keeper)
-    - Rotation 4: [**Connector**](#connector)
+    - Rotation 1: [**Design Translator**](./assignments#design-translator)
+    - Rotation 2: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 3: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 4: [**Connector**](./assignments#connector)
 - [Milestone 3: Make a Plan](./final-project.html#milestone-3)
 
 
@@ -218,10 +218,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Connector**](#connector)
-    - Rotation 2: [**Design Translator**](#design-translator)
-    - Rotation 3: [**Argument Analyst**](#argument-analyst)
-    - Rotation 4: [**Concept Keeper**](#concept-keeper)
+    - Rotation 1: [**Connector**](./assignments#connector)
+    - Rotation 2: [**Design Translator**](./assignments#design-translator)
+    - Rotation 3: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 4: [**Concept Keeper**](./assignments#concept-keeper)
 
 ### February 19 (Thursday)
 
@@ -232,10 +232,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Concept Keeper**](#concept-keeper)
-    - Rotation 2: [**Connector**](#connector)
-    - Rotation 3: [**Design Translator**](#design-translator)
-    - Rotation 4: [**Argument Analyst**](#argument-analyst)
+    - Rotation 1: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 2: [**Connector**](./assignments#connector)
+    - Rotation 3: [**Design Translator**](./assignments#design-translator)
+    - Rotation 4: [**Argument Analyst**](./assignments#argument-analyst)
 - [Milestone 4: Present in Class](./final-project.html#milestone-4)
 
 
@@ -250,10 +250,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Argument Analyst**](#argument-analyst)
-    - Rotation 2: [**Concept Keeper**](#concept-keeper)
-    - Rotation 3: [**Connector**](#connector)
-    - Rotation 4: [**Design Translator**](#design-translator)
+    - Rotation 1: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 3: [**Connector**](./assignments#connector)
+    - Rotation 4: [**Design Translator**](./assignments#design-translator)
 
 
 ### February 26 (Thursday) — Reading day
@@ -269,10 +269,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Design Translator**](#design-translator)
-    - Rotation 2: [**Argument Analyst**](#argument-analyst)
-    - Rotation 3: [**Concept Keeper**](#concept-keeper)
-    - Rotation 4: [**Connector**](#connector)
+    - Rotation 1: [**Design Translator**](./assignments#design-translator)
+    - Rotation 2: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 3: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 4: [**Connector**](./assignments#connector)
 
 
 ### March 5 (Thursday)
@@ -282,10 +282,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Connector**](#connector)
-    - Rotation 2: [**Design Translator**](#design-translator)
-    - Rotation 3: [**Argument Analyst**](#argument-analyst)
-    - Rotation 4: [**Concept Keeper**](#concept-keeper)
+    - Rotation 1: [**Connector**](./assignments#connector)
+    - Rotation 2: [**Design Translator**](./assignments#design-translator)
+    - Rotation 3: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 4: [**Concept Keeper**](./assignments#concept-keeper)
 - [Milestone 5: Weekly Update](./final-project.html#weekly-updates)
 
 <h2 id="week-10">Week 10 — Disability and the Arts</h2>
@@ -299,10 +299,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Concept Keeper**](#concept-keeper)
-    - Rotation 2: [**Connector**](#connector)
-    - Rotation 3: [**Design Translator**](#design-translator)
-    - Rotation 4: [**Argument Analyst**](#argument-analyst)
+    - Rotation 1: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 2: [**Connector**](./assignments#connector)
+    - Rotation 3: [**Design Translator**](./assignments#design-translator)
+    - Rotation 4: [**Argument Analyst**](./assignments#argument-analyst)
 
 
 ### March 12 (Thursday)
@@ -313,10 +313,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Argument Analyst**](#argument-analyst)
-    - Rotation 2: [**Concept Keeper**](#concept-keeper)
-    - Rotation 3: [**Connector**](#connector)
-    - Rotation 4: [**Design Translator**](#design-translator)
+    - Rotation 1: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 3: [**Connector**](./assignments#connector)
+    - Rotation 4: [**Design Translator**](./assignments#design-translator)
 - [Milestone 6: Weekly Update](./final-project.html#weekly-updates)
 
 <h2 id="week-11">Week 11 — Spring Break</h2>
@@ -332,10 +332,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Design Translator**](#design-translator)
-    - Rotation 2: [**Argument Analyst**](#argument-analyst)
-    - Rotation 3: [**Concept Keeper**](#concept-keeper)
-    - Rotation 4: [**Connector**](#connector)
+    - Rotation 1: [**Design Translator**](./assignments#design-translator)
+    - Rotation 2: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 3: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 4: [**Connector**](./assignments#connector)
 
 
 ### March 26 (Thursday)
@@ -348,10 +348,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Connector**](#connector)
-    - Rotation 2: [**Design Translator**](#design-translator)
-    - Rotation 3: [**Argument Analyst**](#argument-analyst)
-    - Rotation 4: [**Concept Keeper**](#concept-keeper)
+    - Rotation 1: [**Connector**](./assignments#connector)
+    - Rotation 2: [**Design Translator**](./assignments#design-translator)
+    - Rotation 3: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 4: [**Concept Keeper**](./assignments#concept-keeper)
 - [Milestone 7: Weekly Update](./final-project.html#weekly-updates)
 
 <h2 id="week-13">Week 13 — Life at the Limits of Language (Part 2)</h2>
@@ -365,10 +365,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Concept Keeper**](#concept-keeper)
-    - Rotation 2: [**Connector**](#connector)
-    - Rotation 3: [**Design Translator**](#design-translator)
-    - Rotation 4: [**Argument Analyst**](#argument-analyst)
+    - Rotation 1: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 2: [**Connector**](./assignments#connector)
+    - Rotation 3: [**Design Translator**](./assignments#design-translator)
+    - Rotation 4: [**Argument Analyst**](./assignments#argument-analyst)
 
 ### April 2 (Thursday)
 
@@ -379,10 +379,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Argument Analyst**](#argument-analyst)
-    - Rotation 2: [**Concept Keeper**](#concept-keeper)
-    - Rotation 3: [**Connector**](#connector)
-    - Rotation 4: [**Design Translator**](#design-translator)
+    - Rotation 1: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 3: [**Connector**](./assignments#connector)
+    - Rotation 4: [**Design Translator**](./assignments#design-translator)
 - [Milestone 8: Weekly Update](./final-project.html#weekly-updates)
 
 <h2 id="week-14">Week 14 — Disability, Bias, and AI</h2>
@@ -396,10 +396,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Design Translator**](#design-translator)
-    - Rotation 2: [**Argument Analyst**](#argument-analyst)
-    - Rotation 3: [**Concept Keeper**](#concept-keeper)
-    - Rotation 4: [**Connector**](#connector)
+    - Rotation 1: [**Design Translator**](./assignments#design-translator)
+    - Rotation 2: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 3: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 4: [**Connector**](./assignments#connector)
 
 
 ### April 9 (Thursday)
@@ -412,10 +412,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Connector**](#connector)
-    - Rotation 2: [**Design Translator**](#design-translator)
-    - Rotation 3: [**Argument Analyst**](#argument-analyst)
-    - Rotation 4: [**Concept Keeper**](#concept-keeper)
+    - Rotation 1: [**Connector**](./assignments#connector)
+    - Rotation 2: [**Design Translator**](./assignments#design-translator)
+    - Rotation 3: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 4: [**Concept Keeper**](./assignments#concept-keeper)
 - [Milestone 9: Weekly Update](./final-project.html#weekly-updates)
 
 
@@ -429,10 +429,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Concept Keeper**](#concept-keeper)
-    - Rotation 2: [**Connector**](#connector)
-    - Rotation 3: [**Design Translator**](#design-translator)
-    - Rotation 4: [**Argument Analyst**](#argument-analyst)
+    - Rotation 1: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 2: [**Connector**](./assignments#connector)
+    - Rotation 3: [**Design Translator**](./assignments#design-translator)
+    - Rotation 4: [**Argument Analyst**](./assignments#argument-analyst)
 
 
 ### April 16 (Thursday)
@@ -442,10 +442,10 @@ Optional:
 
 #### Due
 - [Reading responses](./assignments)
-    - Rotation 1: [**Argument Analyst**](#argument-analyst)
-    - Rotation 2: [**Concept Keeper**](#concept-keeper)
-    - Rotation 3: [**Connector**](#connector)
-    - Rotation 4: [**Design Translator**](#design-translator)
+    - Rotation 1: [**Argument Analyst**](./assignments#argument-analyst)
+    - Rotation 2: [**Concept Keeper**](./assignments#concept-keeper)
+    - Rotation 3: [**Connector**](./assignments#connector)
+    - Rotation 4: [**Design Translator**](./assignments#design-translator)
 - [Milestone 10: Weekly Update](./final-project.html#weekly-updates)
 
 
