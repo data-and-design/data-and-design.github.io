@@ -141,13 +141,13 @@ Your goal is to situate the reading within the broader context of the course. Re
 
 ### What to Submit
 
-A reading response containing:
+A reading response addressing the following for the readings:
 
 1. **Connection Map:** Identify connections to other course readings. For each:
    - What is the connection? (shared theme, tension, extension, response)
    - Why does this connection matter?
 
-2. **Course Themes:** How does this reading contribute to or complicate the course's central questions about disability and technology?
+2. **Course Themes:** How does each reading contribute to or complicate the course's central questions about disability and technology?
 
 3. **Discussion Questions:** 2–3 questions that could spark productive discussion by drawing on multiple readings.
 
