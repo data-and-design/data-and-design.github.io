@@ -30,4 +30,4 @@ You'll learn frameworks from disability studies and apply them to real design ch
 
 ## Acknowledgements
 
-Deepest thanks to [Crystal Lee](https://crystaljjlee.com/) for giving feedback on early drafts of the syllabus. Thank you to [Enrico Bertini](https://enrico.bertini.io/) for advice/inspiration on the "paper reading roles" assignment model.
+Deepest thanks to [Crystal Lee](https://crystaljjlee.com/) for giving feedback on early drafts of the syllabus. Thank you to [Enrico Bertini](https://enrico.bertini.io/) for advice/inspiration on the "paper reading roles" assignment model (originally from [Jacobson and Raffel](https://colinraffel.com/blog/role-playing-seminar.html)).
