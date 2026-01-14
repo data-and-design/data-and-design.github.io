@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
 #### Readings
 
 - Sara Hendren. **“All Technology Is Assistive: Six Design Rules on Disability.”** In *Making Things and Drawing Boundaries: Experiments in the Digital Humanities*, edited by Jentery Sayers. University of Minnesota Press, 2018. <https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/b22b7f2d-f386-4ec5-bcee-30591c0078ba>.
-- Mills, Mara. **“Technology.”** *Keywords*, April 27, 2015.
+- Mills, Mara. **“Technology.”** *Keywords for Disability Studies*, April 27, 2015.
 
 #### Due
 - [Reading responses](./assignments)
