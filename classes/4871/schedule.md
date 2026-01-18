@@ -216,6 +216,10 @@ Optional:
 - Weise, Jillian. **“Common Cyborg.”** *Granta*, September 24, 2018. <https://granta.com/common-cyborg/>.
 - Kafer, Alison. Chapter 5 **"The Cyborg and the Crip: Critical Encounters."** *Feminist, Queer, Crip*. Indiana University Press, 2013.
 
+Optional:
+- Donna Haraway. **A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century** In *Simians, Cyborgs and Women: The Reinvention of Nature*. 1991. <https://theanarchistlibrary.org/library/donna-haraway-a-cyborg-manifesto>
+
+
 #### Due
 - [Reading responses](./assignments)
     - Rotation 1: [**Connector**](./assignments#connector)
