@@ -137,6 +137,9 @@ Optional:
 #### Readings
 - Winner, Langdon. **"Do Artifacts Have Politics?"** Daedalus 109, no. 1 (1980): 121–36.
 
+#### In class
+- Milestone 2 check-in: Get feedback on in-progress project proposals
+
 #### Due
 - [Reading responses](./assignments)
     - Rotation 1: [**Design Translator**](./assignments#design-translator)
