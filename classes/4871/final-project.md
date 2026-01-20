@@ -15,7 +15,11 @@ The students can propose their own project or select a project from a list of pr
 
 <h2 id="milestone-1">Milestone 1: Team composition</h2>
 
-Form teams of 4–5 and enter them into Canvas.
+Form teams and enter them into Canvas.
+
+Undergrads: Form teams of 4–5
+
+Grad students: You may work alone or form a team with other grad students
 
 <h2 id="milestone-2">Milestone 2: Define a project</h2>
 
