@@ -15,7 +15,7 @@ The students can propose their own project or select a project from a list of pr
 
 <h2 id="milestone-1">Milestone 1: Team composition</h2>
 
-Form teams and enter them into Canvas.
+Form teams and enter them into Canvas. Please talk to your classmates before the deadline to form teams—everyone on the team should be agreeing to be on a team together. Do not add yourself to an existing team without the consent of the other members first.
 
 Undergrads: Form teams of 4–5
 
