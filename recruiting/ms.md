@@ -20,7 +20,9 @@ At the <span class="dnd">Data & Design</span> Group, we are creating a collabora
 
 This is a research-based M.S. program, which means a significant component of your time will be spent developing and conducting an independent research project—somewhat like the first year of a PhD. This makes the program a good fit if you're looking to build substantial research experience, not just coursework credentials.
 
-The M.S. might be right for you if you're transitioning into information science from another field and want structured time to develop new skills and domain knowledge. It can also be a good way to explore whether research is something you want to pursue long-term, without the commitment of a PhD. Some students use the M.S. to build a stronger portfolio of research experience before applying to doctoral programs. If your goal is to bring research skills into an industry or public-sector career, this program can also help you develop those capabilities.
+The M.S. might be right for you if you're transitioning into information science from another field and want structured time to develop new skills and domain knowledge. If your goal is to bring research skills into an industry or public-sector career, this program can also help you develop those capabilities.
+
+It can also be a good way to explore whether research is something you want to pursue long-term, without the commitment of a PhD. Some students use the M.S. to build a stronger portfolio of research experience before applying to doctoral programs. 
 
 ## What kind of work does the <span class="dnd">D&D</span> Group do?
 
