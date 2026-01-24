@@ -21,7 +21,7 @@ _Applications due Dec 1._
 
 Prospective students can also apply to join the group via the [MS in Information Science](https://www.colorado.edu/cmci/infoscience/ms-information-science), a research oriented Master's program.
 
-<a href="/recruiting/phd" class="arrow-link"><span class="cta">Information for MS applicants <span aria-hidden>&rarr;</span></span></a>
+<a href="/recruiting/ms" class="arrow-link"><span class="cta">Information for MS applicants <span aria-hidden>&rarr;</span></span></a>
 
 _Applications due Feb 1._
 
