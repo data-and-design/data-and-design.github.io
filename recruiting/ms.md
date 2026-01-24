@@ -6,9 +6,9 @@ author: jzong
 date: 2026-01-22
 ---
 
-The <span class="dnd">Data & Design</span> Group is a research group in the Department of Information Science at the University of Colorado Boulder. This page contains information for prospective M.S. students about our research, what we can accomplish together, and how to apply.
+The <span class="dnd">Data & Design</span> Group is a research group in the Department of Information Science at the University of Colorado Boulder. This page contains information for prospective MS students about our research, what we can accomplish together, and how to apply.
 
-M.S. applications are **due February 1**. I review M.S. applications every year, but capacity is shaped by a variety of factors (including project and mentorship availability).
+MS applications are **due February 1**. I review MS applications every year, but capacity is shaped by a variety of factors (including project and mentorship availability).
 
 ## Why am I looking for MS students?
 
@@ -18,11 +18,11 @@ At the <span class="dnd">Data & Design</span> Group, we are creating a collabora
 
 ## Who is the MS program for?
 
-This is a research-based M.S. program, which means a significant component of your time will be spent developing and conducting an independent research project—somewhat like the first year of a PhD. This makes the program a good fit if you're looking to build substantial research experience, not just coursework credentials.
+This is a research-based MS program, which means a significant component of your time will be spent developing and conducting an independent research project—somewhat like the first year of a PhD. This makes the program a good fit if you're looking to build substantial research experience, not just coursework credentials.
 
-The M.S. might be right for you if you're transitioning into information science from another field and want structured time to develop new skills and domain knowledge. If your goal is to bring research skills into an industry or public-sector career, this program can also help you develop those capabilities.
+The MS might be right for you if you're transitioning into information science from another field and want structured time to develop new skills and domain knowledge. If your goal is to bring research skills into an industry or public-sector career, this program can also help you develop those capabilities.
 
-It can also be a good way to explore whether research is something you want to pursue long-term, without the commitment of a PhD. Some students use the M.S. to build a stronger portfolio of research experience before applying to doctoral programs. 
+It can also be a good way to explore whether research is something you want to pursue long-term, without the commitment of a PhD. Some students use the MS to build a stronger portfolio of research experience before applying to doctoral programs. 
 
 ## What kind of work does the <span class="dnd">D&D</span> Group do?
 
@@ -56,7 +56,7 @@ Example papers:
 
 ## What can a new M.S. student expect to work on?
 
-As a new M.S. student joining the group, you'll work with me to on a project that builds on the group's existing work in accessibility or data ethics. For an idea of the kinds of things this could be, look at the recent projects above. Given the shorter timeline of the M.S., we'll work together to scope a project that's achievable within your program while still making a meaningful contribution.
+As a new MS student joining the group, you'll work with me to on a project that builds on the group's existing work in accessibility or data ethics. For an idea of the kinds of things this could be, look at the recent projects above. Given the shorter timeline of the MS compared to a PhD, we'll work together to scope a project that's achievable within your program while still making a meaningful contribution.
 
 ## What kind of applicants am I looking for?
 
@@ -68,7 +68,7 @@ I'm looking for applicants who are excited to contribute to and shape the shared
 
 I'm committed to building a group where people can bring diverse lived experiences, interests, and disciplinary perspectives into conversation together. In return, you'll join a collaborative community focused on mutual growth, where I'll work with you to develop toward your careers goals, whether in academia, industry, or civil society.
 
-**What I'm looking for in your application:** I want to understand your research interests and goals for the M.S., how you see your interests connecting to the lab's work, and what you hope to accomplish. I want to know what motivates you, what activates your curiosity, and what path has led you here—why is pursuing a research-based M.S. the right next step for you? I encourage you to explore our projects and papers to get a sense of what we do and how you might contribute.
+**What I'm looking for in your application:** I want to understand your research interests and goals for the MS, how you see your interests connecting to the lab's work, and what you hope to accomplish. I want to know what motivates you, what activates your curiosity, and what path has led you here—why is pursuing a research-based MS the right next step for you? I encourage you to explore our projects and papers to get a sense of what we do and how you might contribute.
 
 As you think about working with me, I also encourage you to consider other [faculty in Information Science](https://www.colorado.edu/cmci/people/information-science) who you might have common interests with, who might be potential future mentors, collaborators, or committee members.
 
