@@ -21,6 +21,10 @@ _Applications due Dec 1._
 
 Prospective students can also apply to join the group via the [MS in Information Science](https://www.colorado.edu/cmci/infoscience/ms-information-science), a research oriented Master's program.
 
+<a href="/recruiting/phd" class="arrow-link"><span class="cta">Information for MS applicants <span aria-hidden>&rarr;</span></span></a>
+
+_Applications due Feb 1._
+
 ## CU Undergrads
 
 The lab welcomes undergraduates who are curious about research and excited to learn. You don't need prior research experience—just enthusiasm and clear goals for what you want to gain from the experience (even if that goal is figuring out whether research is right for you!).
