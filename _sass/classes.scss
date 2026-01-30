@@ -72,7 +72,12 @@
 
 @media print {
   .class-nav-container,
-  #logo-svg {
+  #logo-svg,
+  #cursor {
     display: none;
+  }
+
+  *:hover, *:active {
+    box-shadow: none;
   }
 }
