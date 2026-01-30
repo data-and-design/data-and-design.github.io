@@ -11,4 +11,7 @@ description: Course resources and supplemental materials for INFO 4871 Design fo
 
 This page will contain resources for accessibility that are recommended by the instructor or by class members. If you would like to suggest a resource for this page, email it to the instructor.
 
-[Coming Soon]
+\[under construction\]
+
+- [Disability Studies Reading List](https://crystaljjlee.com/blog/disability-studies/)
+- [Framework for neurodiversity interventions: Should I create this design?](https://elenasabinson.com/the-pictorial-is-neurodivergent)

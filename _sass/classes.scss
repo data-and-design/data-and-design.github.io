@@ -64,8 +64,15 @@
     overflow-wrap: break-word;
     word-break: break-word;
   }
-  
+
   li {
     margin: 0.5em 0;
+  }
+}
+
+@media print {
+  .class-nav-container,
+  #logo-svg {
+    display: none;
   }
 }
