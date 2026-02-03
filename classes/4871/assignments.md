@@ -96,7 +96,7 @@ Your goal is to identify, define, and contextualize the key concepts in the read
 
 A reading response addressing the following for each reading:
 
-1. **Concept Entries:** For each concept:
+1. **Concept Entries:** Aim for at least 3 concepts. For each concept:
    - The term
    - The author's definition or usage
    - Why this concept matters to the argument
