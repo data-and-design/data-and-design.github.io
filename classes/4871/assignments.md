@@ -143,7 +143,7 @@ Your goal is to situate the reading within the broader context of the course. Re
 
 A reading response addressing the following for the readings:
 
-1. **Connection Map:** Identify connections to other course readings. For each:
+1. **Connection Map:** Identify connections to other course readings (at least 2 connections). For each:
    - What is the connection? (shared theme, tension, extension, response)
    - Why does this connection matter?
 
