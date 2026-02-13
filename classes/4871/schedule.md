@@ -217,6 +217,8 @@ Optional:
 
 #### Readings
 - Weise, Jillian. **“Common Cyborg.”** *Granta*, September 24, 2018. <https://granta.com/common-cyborg/>.
+
+Optional:
 - Kafer, Alison. Chapter 5 **"The Cyborg and the Crip: Critical Encounters."** *Feminist, Queer, Crip*. Indiana University Press, 2013.
 
 Optional:
@@ -234,8 +236,13 @@ Optional:
 
 
 #### Readings
+
+Optional:
 - Hollan, James, Edwin Hutchins, and David Kirsh. **"Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research."** *ACM Trans. Comput.-Hum. Interact.* (New York, NY, USA) 7, no. 2 (2000): 174–96. <https://doi.org/10.1145/353485.353487>.
 
+#### In Class
+
+- [Milestone 4: Present in Class](./final-project.html#milestone-4)
 
 #### Due
 - [Reading responses](./assignments)
