@@ -219,7 +219,7 @@ Optional:
 - Weise, Jillian. **“Common Cyborg.”** *Granta*, September 24, 2018. <https://granta.com/common-cyborg/>.
 
 Optional:
-- Donna Haraway. **A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century** In *Simians, Cyborgs and Women: The Reinvention of Nature*. 1991. <https://theanarchistlibrary.org/library/donna-haraway-a-cyborg-manifesto>
+- Donna Haraway. **A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century** In *Simians, Cyborgs and Women: The Reinvention of Nature*. 1985. <https://theanarchistlibrary.org/library/donna-haraway-a-cyborg-manifesto>
 
 
 #### Due
