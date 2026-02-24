@@ -305,9 +305,10 @@ Optional:
 ### March 10 (Tuesday)
 
 #### Readings
-- Finnegan Shannon. **“Do You Want Us Here or Not, 2018–Ongoing.”** Finnegan Shannon, 2018. <https://shannonfinnegan.com/do-you-want-us-here-or-not>.
 - Godin, M. Leona. **"Iconic Photographs of Blind People Prove Seeing Isn't Knowing."** ARTnews.Com, November 27, 2025. <https://www.artnews.com/art-in-america/features/blindness-photography-paul-strand-walker-evans-jacob-riis-1234763708/>.
 
+#### In Class
+- Finnegan Shannon. **“Do You Want Us Here or Not, 2018–Ongoing.”** Finnegan Shannon, 2018. <https://shannonfinnegan.com/do-you-want-us-here-or-not>.
 
 #### Due
 - [Reading responses](./assignments)
@@ -340,7 +341,6 @@ Optional:
 
 #### Readings
 - Edwards, Terra. **Chapter 1: Life at the Limits of Language**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
-- Edwards, Terra. **Chapter 2: Creating DeafBlind Identity**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
 
 #### Due
 - [Reading responses](./assignments)
@@ -353,9 +353,11 @@ Optional:
 ### March 26 (Thursday)
 
 #### Readings
-- Davis, Jenny L. **“Introduction.”** from *How Artifacts Afford: The Power and Politics of Everyday Things.* Design Thinking, Design Theory, edited by Ken Friedman and Erik Stolterman. MIT Press, 2020.
+- Edwards, Terra. **Chapter 2: Creating DeafBlind Identity**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
+
 
 Optional:
+- Davis, Jenny L. **“Introduction.”** from *How Artifacts Afford: The Power and Politics of Everyday Things.* Design Thinking, Design Theory, edited by Ken Friedman and Erik Stolterman. MIT Press, 2020.
 - James J. Gibson. **"The Theory of Affordances."** In *The Ecological Approach to Visual Perception*. 1979. <https://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf>
 
 #### Due
@@ -373,6 +375,8 @@ Optional:
 
 #### Readings
 - Edwards, Terra. **Chapter 3: The Collapse of the World**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
+
+Optional:
 - Edwards, Terra. **Chapter 4: The Protactile Movement**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
 
 #### Due
@@ -405,7 +409,6 @@ Optional:
 - Whittaker, Meredith, Meryl Alper, Cynthia L. Bennett, Sara Hendren, Elizabeth Kaziunas, Mara Mills, Meredith Ringel Morris, Joy Lisi Rankin, Emily Rogers, Marcel Salas, and Sarah Myers West. **"Disability, Bias & AI Report."** AI Now Institute, November 20, 2019. <https://ainowinstitute.org/publications/disabilitybiasai-2019>
 
 
-
 #### Due
 - [Reading responses](./assignments)
     - Rotation 1: [**Design Translator**](./assignments#design-translator)
@@ -418,6 +421,8 @@ Optional:
 
 #### Readings
 - Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Remi Denton, and Robin Brewer. **“‘I Wouldn’t Say Offensive but...’: Disability-Centered Perspectives on Large Language Models.”** *ACM Conference on Fairness Accountability and Transparency*, ACM, June 12, 2023, 205–16. <https://doi.org/10.1145/3593013.3593989>.
+
+Optional:
 - **"ASAN Says No Generative AI in Plain Language."** Autistic Self Advocacy Network, July 29, 2025. <https://autisticadvocacy.org/2025/07/asan-says-no-generative-ai-in-plain-language/>.
 
 
@@ -438,6 +443,8 @@ Optional:
 #### Readings
 - Lundgard, Alan, Crystal Lee, and Arvind Satyanarayan. **"Sociotechnical Considerations for Accessible Visualization Design."** 2019 IEEE Visualization Conference (VIS), October 2019, 16–20. <https://doi.org/10.1109/VISUAL.2019.8933762>.
 
+Optional:
+- Zong, Jonathan, Crystal Lee, Alan Lundgard, JiWoong Jang, Daniel Hajas, and Arvind Satyanarayan. **"Rich Screen Reader Experiences for Accessible Data Visualization."** Computer Graphics Forum, 2022. <https://vis.mit.edu/pubs/rich-screen-reader-vis-experiences/>.
 
 #### Due
 - [Reading responses](./assignments)
@@ -449,15 +456,10 @@ Optional:
 
 ### April 16 (Thursday)
 
-#### Readings
-- Zong, Jonathan, Crystal Lee, Alan Lundgard, JiWoong Jang, Daniel Hajas, and Arvind Satyanarayan. **"Rich Screen Reader Experiences for Accessible Data Visualization."** Computer Graphics Forum, 2022. <https://vis.mit.edu/pubs/rich-screen-reader-vis-experiences/>.
+#### In Class
+- Project Work Time
 
 #### Due
-- [Reading responses](./assignments)
-    - Rotation 1: [**Argument Analyst**](./assignments#argument-analyst)
-    - Rotation 2: [**Concept Keeper**](./assignments#concept-keeper)
-    - Rotation 3: [**Connector**](./assignments#connector)
-    - Rotation 4: [**Design Translator**](./assignments#design-translator)
 - [Milestone 10: Weekly Update](./final-project.html#weekly-updates)
 
 
