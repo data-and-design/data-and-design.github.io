@@ -405,6 +405,9 @@ Optional:
 
 ### April 7 (Tuesday)
 
+#### In Class
+- Guest speakers: Stacey Forsyth and Tim Ogino from CU Boulder's [Build a Better Book Project](https://www.colorado.edu/project/bbb/)
+
 #### Readings
 - Whittaker, Meredith, Meryl Alper, Cynthia L. Bennett, Sara Hendren, Elizabeth Kaziunas, Mara Mills, Meredith Ringel Morris, Joy Lisi Rankin, Emily Rogers, Marcel Salas, and Sarah Myers West. **"Disability, Bias & AI Report."** AI Now Institute, November 20, 2019. <https://ainowinstitute.org/publications/disabilitybiasai-2019>
 
