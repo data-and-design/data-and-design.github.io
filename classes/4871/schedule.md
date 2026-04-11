@@ -439,22 +439,15 @@ Optional:
 - [Milestone 9: Weekly Update](./final-project.html#weekly-updates)
 
 
-<h2 id="week-15">Week 15 — Sociotechnical Considerations for Design</h2>
+<h2 id="week-15">Week 15 — Final Project Work Time</h2>
 
 ### April 14 (Tuesday)
 
 #### Readings
-- Lundgard, Alan, Crystal Lee, and Arvind Satyanarayan. **"Sociotechnical Considerations for Accessible Visualization Design."** 2019 IEEE Visualization Conference (VIS), October 2019, 16–20. <https://doi.org/10.1109/VISUAL.2019.8933762>.
 
 Optional:
+- Lundgard, Alan, Crystal Lee, and Arvind Satyanarayan. **"Sociotechnical Considerations for Accessible Visualization Design."** 2019 IEEE Visualization Conference (VIS), October 2019, 16–20. <https://doi.org/10.1109/VISUAL.2019.8933762>.
 - Zong, Jonathan, Crystal Lee, Alan Lundgard, JiWoong Jang, Daniel Hajas, and Arvind Satyanarayan. **"Rich Screen Reader Experiences for Accessible Data Visualization."** Computer Graphics Forum, 2022. <https://vis.mit.edu/pubs/rich-screen-reader-vis-experiences/>.
-
-#### Due
-- [Reading responses](./assignments)
-    - Rotation 1: [**Concept Keeper**](./assignments#concept-keeper)
-    - Rotation 2: [**Connector**](./assignments#connector)
-    - Rotation 3: [**Design Translator**](./assignments#design-translator)
-    - Rotation 4: [**Argument Analyst**](./assignments#argument-analyst)
 
 
 ### April 16 (Thursday)
