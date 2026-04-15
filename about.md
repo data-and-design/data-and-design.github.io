@@ -19,6 +19,8 @@ title: About
       The <span class="dnd">Data & Design</span> Group is an interdisciplinary research group in the <a href="https://www.colorado.edu/cmci/infoscience">Department of Information Science</a> at the <a href="https://www.colorado.edu/">University of Colorado Boulder</a>.
     </p>
     <a href="/people" class="arrow-link">Our team <span aria-hidden>&rarr;</span></a>
+    <br>
+    <a href="/support" class="arrow-link">Support our work <span aria-hidden>&rarr;</span></a>
   </div>
 </div>
 
