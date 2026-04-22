@@ -16,7 +16,7 @@ description: Week-by-week schedule for INFO 4871 including readings on disabilit
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const semesterStart = new Date('2026-01-08'); // Thursday
-  const semesterEnd = new Date('2026-04-23');
+  const semesterEnd = new Date('2026-04-30');
   const today = new Date();
 
   let currentWeek;
@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
   if (today < semesterStart) {
     currentWeek = 1;
   } else if (today > semesterEnd) {
-    currentWeek = 16;
+    currentWeek = 17;
   } else {
     const daysSinceStart = Math.floor((today - semesterStart) / (1000 * 60 * 60 * 24));
 
@@ -472,6 +472,10 @@ Optional:
 #### In class
 
 - [Final Project Presentations](./final-project.html#final-presentation)
+
+<h2 id="week-17">Week 17 — Finals Week</h2>
+
+### April 30 (Thursday)
 
 #### Due
 
