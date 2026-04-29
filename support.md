@@ -9,13 +9,13 @@ Much of that work centers on accessibility: alongside blind and low-vision colla
 
 <a href="https://giveto.colorado.edu/campaigns/50178/donations/new?amt=50.00&designation=D-0036197&comments=Data%20%26%20Design%20Group" class="arrow-link"><span class="cta">Give to the lab <span aria-hidden>&rarr;</span></span></a>
 
-## Our approach
+## A Note from Jonathan
 
 I founded the Data & Design Group to create a collaborative and inclusive space for students to grow into interdisciplinary researchers who are equipped to respond to society's needs.
 
 I believe that the best way to criticize a technology is to build a better one, in partnership with the people who would benefit. When people are left out of design, the resulting systems tend to serve someone else's interests.
 
-Doing this kind of work takes intentionality and care. It takes travel to meet a collaborator in person. Time spent listening before designing. Prototypes that may or may not lead anywhere. Reading groups, workshops, and building trust with community partners.
+Doing this kind of work takes intentionality and care: travel to meet a collaborator in person; time spent listening to people's experiences and reflecting on how those values can be reflected in design; workshops and building trust with community partners.
 
 Federal research funding for this kind of work is at risk right now, and your support helps us protect the conditions that make what we do possible.
 
@@ -25,7 +25,7 @@ Your contribution helps us:
 
 - Compensate community collaborators for their time, expertise, and partnership
 - Send students to meet partners in person, attend workshops, and present their research
-- Host gatherings, reading groups, and events that bring our community together
+- Host events and gatherings that bring our community together
 - Take on speculative prototypes that can grow into new research directions
 - Maintain the open-source tools we share with the broader research and accessibility communities
 
