@@ -100,3 +100,9 @@ liminalities:
   bibtex:
     type: article
     venue: journal
+techpolicypress:
+  short: Tech Policy Press
+  full: Tech Policy Press
+  bibtex:
+    type: article
+    venue: journal
