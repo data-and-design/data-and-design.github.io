@@ -52,6 +52,37 @@ We are part of the <a href="https://www.colorado.edu/cmci/infoscience">Departmen
 </div>
 
 <div class="pure-g">
+  <div class="pure-u-1-2 pure-u-md-3-4">
+    <h1>Team</h1>
+    <div class="people-container">
+      {% for person_tuple in site.data.authors %}
+        {% assign person = person_tuple[1] %}
+        {% unless person.external %}
+        <div class="person">
+          <div class="portrait">
+            <a href="{{person.url}}">
+              {% capture defaultAlt %}
+                Photo of {{person.name}}
+              {% endcapture %}
+              <img src="/imgs/people/{{person_tuple[0]}}.jpg" alt="{{ person.imgAlt | default: defaultAlt | strip }}" />
+            </a>
+          </div>
+          <div class="person-name"><a href="{{person.url}}">{{person.name}}</a></div>
+          <div class="person-title">{{person.title}}</div>
+        </div>
+        {% endunless %}
+      {% endfor %}
+    </div>
+    <p>
+      <a href="/people" class="arrow-link">All people <span aria-hidden>&rarr;</span></a>
+    </p>
+  </div>
+  <div class="pure-u-1-2 pure-u-md-1-4">
+    &nbsp;
+  </div>
+</div>
+
+<div class="pure-g">
   <div class="pure-u-md-1-4">
   &nbsp;
   </div>
