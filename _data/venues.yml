@@ -106,3 +106,9 @@ techpolicypress:
   bibtex:
     type: article
     venue: journal
+aicsed:
+  short: AICSED
+  full: Symposium on AI and Cognitive Sciences in Education
+  bibtex:
+    type: article
+    venue: journal
