@@ -7,6 +7,7 @@ authors:
   - key: jopo
     equal: true
   - key: dhajas
+    affiliation: MIT
   - key: jzong
     affiliation: MIT
   - key: arvindsatya

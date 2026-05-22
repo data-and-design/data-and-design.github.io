@@ -11,6 +11,7 @@ authors:
   - name: JiWoong Jang
     affiliation: Carnegie Mellon University
   - key: dhajas
+    affiliation: University College London
   - key: arvindsatya
 venue: eurovis
 doi: 10.1111/cgf.14519
