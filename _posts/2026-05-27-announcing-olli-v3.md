@@ -150,9 +150,11 @@ connectOlliToVegaLite(handle, view);
 
 Olli v3 isn't just about charts anymore. Under the hood, the data model was generalized from a chart-specific representation to a domain-agnostic [hypergraph](https://umwelt-data.github.io/olli/docs/hypergraph). This means Olli can now describe structured information that isn't necessarily tree-shaped—things like mechanical diagrams, system architectures, or any set of elements with relationships between them. This work is grounded in our research on accessible descriptions of relational diagrams, published as [Benthic](https://data-and-design.org/publications/benthic/).
 
+Why a hypergraph rather than a tree? In many diagrams, an element belongs to more than one grouping at the same time. For example, a rope passes through two different pulley systems, or a component sits inside one subsystem while also being connected to another. A tree forces each element into a single parent, but a hypergraph lets the same element appear in multiple parent contexts. In the Benthic paper we called this *parent context switching*: the ability to navigate an element from any of the groups it belongs to. This is what makes the resulting accessible structure *perceptually congruent*—its organization mirrors the visual groupings a sighted reader perceives.
+
 The new [`olliDiagram`](https://umwelt-data.github.io/olli/docs/entry-points) entry point accepts a `DiagramSpec` describing elements and their relationships: containment, grouping, connections, alignment, and distribution. A [Bluefish adapter](https://umwelt-data.github.io/olli/docs/adapters) converts Bluefish layout specifications into diagram specs automatically.
 
-The gallery includes a [pulley diagram](https://umwelt-data.github.io/olli/gallery/pulley) example drawn from our Benthic user studies. It represents a mechanical system of pulleys, ropes, and weights. Navigate the tree to understand which components are connected, which systems they belong to, and how the elements are spatially organized.
+The gallery includes a [pulley diagram](https://umwelt-data.github.io/olli/gallery/pulley) example drawn from our Benthic user studies. It represents a mechanical system of pulleys, ropes, and weights. Navigate the structure to understand which components are connected, which systems they belong to, and how the elements are spatially organized.
 
 <div class="olli-embed">
   <div role="img" aria-label="Pulley diagram"><div aria-hidden="true" id="bluefish-pulley"></div></div>
