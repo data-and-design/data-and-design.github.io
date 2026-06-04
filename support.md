@@ -26,6 +26,8 @@ Gifts of any size make a difference, and larger gifts let us take on work that w
 
 <a href="https://giveto.colorado.edu/campaigns/50178/donations/new?amt=50.00&designation=D-0036197&comments=Data%20%26%20Design%20Group" class="arrow-link"><span class="cta">Make a gift <span aria-hidden>&rarr;</span></span></a>
 
+The lab's work ranges from accessible visualization to data ethics and consent—you can browse our [projects](/projects) and [publications](/publications) to get the full picture.
+
 Unrestricted gifts are made through the University of Colorado Foundation and are 501(c)(3) tax-deductible. You can give once or set up a recurring contribution. If you'd like to talk first—about the lab's direction, a project you'd like to support, or giving in honor of someone—[please reach out](mailto:jzong@colorado.edu).
 
 Thank you for considering supporting this work. It means a lot.
