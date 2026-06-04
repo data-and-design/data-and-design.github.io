@@ -8,7 +8,7 @@ Data visualizations are one of the most common ways information is communicated 
 
 Today we're releasing Olli v3, a ground-up rewrite that significantly expands what Olli can describe and how users interact with it.
 
-<link rel="stylesheet" href="https://unpkg.com/olli@3.0.3/dist/styles.css">
+<link rel="stylesheet" href="https://unpkg.com/olli@3.0.4/dist/styles.css">
 <style>
 .olli-embed {
   display: grid;
@@ -39,11 +39,11 @@ _Try it: focus on the example below, then use the **arrow keys** to navigate. Pr
   <div id="tree-intro"></div>
 </div>
 <script type="module">
-import { olliVis } from 'https://esm.sh/olli@3.0.3';
-import { VegaLiteAdapter } from 'https://esm.sh/olli@3.0.3/adapters';
+import { olliVis } from 'https://esm.sh/olli@3.0.4';
+import { VegaLiteAdapter } from 'https://esm.sh/olli@3.0.4/adapters';
 import { parse, View } from 'https://esm.sh/vega@5';
 import { compile } from 'https://esm.sh/vega-lite@5';
-import { withExternalStateParam, connectOlliToVegaLite } from 'https://esm.sh/@umwelt-data/umwelt-utils@0.1.3/vl-bridge';
+import { withExternalStateParam, connectOlliToVegaLite } from 'https://esm.sh/@umwelt-data/umwelt-utils@0.1.4/vl-bridge';
 
 const spec = {
   $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
@@ -91,11 +91,11 @@ This locale-aware data enrichment is currently built for the US (county and stat
   <div id="tree-choropleth"></div>
 </div>
 <script type="module">
-import { olliVis } from 'https://esm.sh/olli@3.0.3';
-import { VegaLiteAdapter } from 'https://esm.sh/olli@3.0.3/adapters';
+import { olliVis } from 'https://esm.sh/olli@3.0.4';
+import { VegaLiteAdapter } from 'https://esm.sh/olli@3.0.4/adapters';
 import { parse, View } from 'https://esm.sh/vega@5';
 import { compile } from 'https://esm.sh/vega-lite@5';
-import { withExternalStateParam, connectOlliToVegaLite, postprocessViewData } from 'https://esm.sh/@umwelt-data/umwelt-utils@0.1.3/vl-bridge';
+import { withExternalStateParam, connectOlliToVegaLite, postprocessViewData } from 'https://esm.sh/@umwelt-data/umwelt-utils@0.1.4/vl-bridge';
 
 const spec = {
   $schema: 'https://vega.github.io/schema/vega-lite/v6.json',
@@ -151,9 +151,9 @@ The gallery includes a [pulley diagram](https://umwelt-data.github.io/olli/galle
 </div>
 <script type="module">
 import * as bf from 'https://esm.sh/bluefish-js@0.0.39';
-import { olliDiagram } from 'https://esm.sh/olli@3.0.3';
-import { BluefishAdapter } from 'https://esm.sh/olli@3.0.3/adapters';
-import { createBluefishBridge } from 'https://esm.sh/@umwelt-data/umwelt-utils@0.1.3/bluefish-bridge';
+import { olliDiagram } from 'https://esm.sh/olli@3.0.4';
+import { BluefishAdapter } from 'https://esm.sh/olli@3.0.4/adapters';
+import { createBluefishBridge } from 'https://esm.sh/@umwelt-data/umwelt-utils@0.1.4/bluefish-bridge';
 
 const { render } = bf;
 
@@ -276,11 +276,11 @@ This works through a bridge library ([`@umwelt-data/umwelt-utils`](https://githu
   <div id="tree-highlight"></div>
 </div>
 <script type="module">
-import { olliVis } from 'https://esm.sh/olli@3.0.3';
-import { VegaLiteAdapter } from 'https://esm.sh/olli@3.0.3/adapters';
+import { olliVis } from 'https://esm.sh/olli@3.0.4';
+import { VegaLiteAdapter } from 'https://esm.sh/olli@3.0.4/adapters';
 import { parse, View } from 'https://esm.sh/vega@5';
 import { compile } from 'https://esm.sh/vega-lite@5';
-import { withExternalStateParam, connectOlliToVegaLite } from 'https://esm.sh/@umwelt-data/umwelt-utils@0.1.3/vl-bridge';
+import { withExternalStateParam, connectOlliToVegaLite } from 'https://esm.sh/@umwelt-data/umwelt-utils@0.1.4/vl-bridge';
 
 const spec = {
   $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
