@@ -5,7 +5,7 @@ author: jzong
 ---
 Most data visualizations on the web can't be read by people who are blind. As institutions increasingly rely on charts and maps to communicate about elections, public health, and the issues that shape our lives, inaccessible visualizations systematically exclude millions of people.
 
-The <span class="dnd">Data & Design</span> Group at CU Boulder works alongside blind and low-vision collaborators to build open-source assistive technology like [Olli](/projects/olli) and [Umwelt](/projects/umwelt). These tools enable screen reader users to explore data visualizations, and create their own charts using sound, text, and visuals together.
+The <span class="dnd">Data & Design</span> Group at CU Boulder works alongside blind and low-vision collaborators to build open-source assistive technology like [Olli](https://umwelt-data.github.io/olli/) and [Umwelt](/projects/umwelt). These tools enable screen reader users to explore data visualizations, and create their own charts using sound, text, and visuals together.
 
 I believe the best way to criticize a technology is to build a better one, in partnership with the people who would benefit. Your support advances our mission to imagine and build better technological futures.
 
