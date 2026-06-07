@@ -18,7 +18,7 @@ Please welcome Jonathan to the stage.
 
 ## The Problem: Visual Disability and Web Accessibility
 
-Thank you so much for that introduction, Svafa.GrönfeldtI'm excited to share my work today on designing accessible data visualizations for blind and low-vision users.
+Thank you so much for that introduction, Svafa. I'm excited to share my work today on designing accessible data visualizations for blind and low-vision users.
 
 According to a survey by the National Federation of the Blind, 7 million people in the United States have a visual disability. For many of these people, and more globally, 96.8% of the top 1 million pages on the internet are simply not accessible to the screen reader assistive technology that they use almost every day.
 
