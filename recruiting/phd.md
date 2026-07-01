@@ -1,15 +1,15 @@
 ---
 layout: post
 recruiting: true
-title: 'Recruiting Ph.D. Students for Fall 2026'
+title: 'Recruiting Ph.D. Students for Fall 2027'
 author: jzong
-date: 2025-07-02
+date: 2026-07-01
 notes: 'When changing years, update title, date, and 2nd paragraph'
 ---
 
 The <span class="dnd">Data & Design</span> Group is a research group in the Department of Information Science at the University of Colorado Boulder. This page contains information for prospective Ph.D. students about our research, what we can accomplish together, and how to apply.
 
-I'm recruiting Ph.D. students to join the <span class="dnd">D&D</span> group in Fall 2026 (**applications due December 1, 2025**).
+I'm recruiting Ph.D. students to join the <span class="dnd">D&D</span> group in Fall 2027 (**applications due December 1, 2026**).
 
 ## Why am I looking for PhD students?
 
@@ -71,7 +71,11 @@ I'm committed to building a group where people can bring diverse lived experienc
 
 **What I'm looking for in your application:** I want to understand your research interests and goals for the PhD, how you see your interests connecting to the lab's work, and what you hope to accomplish. I want to know what motivates you, what activates your curiosity, and what path has led you here—why is pursuing a PhD the right next step for you? I encourage you to explore our projects and papers to get a sense of what we do and how you might contribute.
 
-This year, I'm particularly interested in students with background and/or strong interest in **accessibility, visualization, and design**—especially those who want to **critically reimagine accessibility tools**. However, relevant background can come from many different disciplinary paths, and I will seriously consider applications that connect with any area of the group's work as described above.
+This cycle, I'm running a more focused search than usual. I'm especially excited to work with a student who wants to **rethink the foundations of how accessible web interfaces are built**—so that non-visual interaction becomes a first-class design concern rather than a compliance afterthought. This direction draws on interface design in both the HCI and the programming language- or grammar-design senses, socio-technical inquiry into how our technical standards came to be, and a deep commitment to accessibility. If designing the conceptual and technical scaffolding for a more accessible web is the kind of problem that excites you, I'd love to read your application.
+
+Relevant background can come from many paths, and I take nontraditional trajectories seriously. Some of the best researchers I've worked with arrived at this work from unexpected directions. What I do hope for is that you're already comfortable building for the web, however you came by that fluency, so that we can begin from design questions rather than fundamentals.
+
+The focused search is not a hard boundary. If your interests connect with the group's broader work in accessibility, data visualization, or data ethics and refusal—or point toward a direction I haven't yet imagined—I still want to read your application and will give it careful consideration.
 
 As you think about working with me, I also encourage you to consider other [faculty in Information Science](https://www.colorado.edu/cmci/people/information-science) who you might have common interests with, who might be potential future mentors, collaborators, or committee members.
 
