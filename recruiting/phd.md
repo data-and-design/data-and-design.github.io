@@ -73,7 +73,7 @@ I'm committed to building a group where people can bring diverse lived experienc
 
 This cycle, I'm running a more focused search than usual. I'm especially excited to work with a student who wants to **rethink the foundations of how accessible web interfaces are built**—so that non-visual interaction becomes a first-class design concern rather than a compliance afterthought. This direction draws on interface design, qualitative inquiry into how our technical standards came to be, and a deep commitment to accessibility. If designing the conceptual and technical scaffolding for a more accessible web is the kind of problem that excites you, I'd love to read your application.
 
-Relevant background can come from many paths, and I take nontraditional trajectories seriously. What I do hope for is that you're already comfortable building for the web, however you came by that fluency, so that we can begin from design questions rather than fundamentals.
+Relevant background can come from many paths, and I take nontraditional trajectories seriously. What I do hope for is that you're already comfortable building for the web, so that we can begin from design questions rather than fundamentals.
 
 The focused search is not a hard boundary. If your interests connect with the group's broader work in accessibility, data visualization, or data ethics and refusal—or point toward a direction I haven't yet imagined—I still want to read your application and will give it careful consideration.
 
