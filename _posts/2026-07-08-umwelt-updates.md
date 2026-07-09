@@ -8,7 +8,7 @@ author: jzong
 
 Today we're announcing a set of updates to Umwelt: sonification improvements, a new Text tab for shaping the description structure, a new documentation site with an example gallery, and `umwelt-js`, an npm package for embedding Umwelt viewers in your own site.
 
-<link rel="stylesheet" href="https://unpkg.com/umwelt-js@0.2.1/dist/index.css">
+<link rel="stylesheet" href="https://unpkg.com/umwelt-js@0.2.2/dist/index.css">
 <style>
 .umwelt-embed {
   border: 2px solid #1C269E;
@@ -22,7 +22,7 @@ _Try it: press **Play** (or the `p` key) below to hear each company's stock pric
 
 <div class="umwelt-embed" id="umwelt-intro"></div>
 <script type="module">
-import { createViewer } from 'https://esm.sh/umwelt-js@0.2.1?bundle';
+import { createViewer } from 'https://esm.sh/umwelt-js@0.2.2?bundle';
 
 const spec = {
   data: {
@@ -84,7 +84,7 @@ _Try it: press **Play** to hear the high temperatures on a reed voice and the lo
 
 <div class="umwelt-embed" id="umwelt-overlaid"></div>
 <script type="module">
-import { createViewer } from 'https://esm.sh/umwelt-js@0.2.1?bundle';
+import { createViewer } from 'https://esm.sh/umwelt-js@0.2.2?bundle';
 
 const spec = {
   data: {
