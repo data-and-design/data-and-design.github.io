@@ -12,3 +12,6 @@ Umwelt is an accessible editor and viewer for interactive, multimodal data repre
 <h4>Links</h4>
 - Project website: [umwelt-data.github.io/umwelt/](https://umwelt-data.github.io/umwelt/)
 - Umwelt editor: [umwelt-data.github.io/umwelt/editor](https://umwelt-data.github.io/umwelt/editor)
+
+<h4>Blog Posts</h4>
+- [Umwelt Updates: Example Gallery, Sonification Improvements, Editable Text Structures](https://data-and-design.org/blog/2026/07/08/umwelt-updates/)

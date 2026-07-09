@@ -11,3 +11,6 @@ Olli is an open-source library for converting data visualizations into accessibl
 
 <h4>Links</h4>
 - Project website: [umwelt-data.github.io/olli/](https://umwelt-data.github.io/olli/)
+
+<h4>Blog Posts</h4>
+- [Announcing Olli v3: Diagrams, Choropleths, and Customizable Descriptions](https://data-and-design.org/blog/2026/05/27/announcing-olli-v3/)
