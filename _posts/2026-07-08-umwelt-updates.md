@@ -18,45 +18,79 @@ Today we're announcing a set of updates to Umwelt: sonification improvements, a 
 }
 </style>
 
-_Try it: press **Play** (or the `p` key) below to hear each company's stock prices as pitch — a rising melody is a rising price. Then focus the description tree and use the **arrow keys** to explore the data as navigable text. If keypresses aren't reaching the tree, see the [screen reader setup notes](https://umwelt-data.github.io/umwelt/using/#screen-reader-notes)._
+_Try it: this scatterplot plots miles per gallon against horsepower for cars, colored by origin. Press **Play** (or the `p` key) below to hear two sonifications sweep the plot along each axis — first binned horsepower playing the mean miles per gallon, then binned miles per gallon playing the mean horsepower. Then focus the description tree and use the **arrow keys** to explore the points grouped by origin as navigable text. If keypresses aren't reaching the tree, see the [screen reader setup notes](https://umwelt-data.github.io/umwelt/using/#screen-reader-notes)._
 
 <div class="umwelt-embed" id="umwelt-intro"></div>
 <script type="module">
 import { createViewer } from 'https://esm.sh/umwelt-js@0.2.2?bundle';
 
 const spec = {
-  data: {
-    name: 'stocks.csv',
-    url: 'https://raw.githubusercontent.com/vega/vega-datasets/master/data/stocks.csv',
+  "data": {
+    "name": "cars.json",
+    "url": "https://raw.githubusercontent.com/vega/vega-datasets/master/data/cars.json"
   },
-  fields: [
-    { name: 'symbol', type: 'nominal' },
-    { name: 'date', type: 'temporal' },
-    { name: 'price', type: 'quantitative' },
+  "fields": [
+    {
+      "name": "Miles_per_Gallon",
+      "type": "quantitative"
+    },
+    {
+      "name": "Horsepower",
+      "type": "quantitative"
+    },
+    {
+      "name": "Origin",
+      "type": "nominal"
+    }
   ],
-  key: ['symbol', 'date'],
-  visual: {
-    units: [
+  "key": [],
+  "visual": {
+    "mark": "point",
+    "encoding": {
+      "x": {
+        "field": "Miles_per_Gallon"
+      },
+      "y": {
+        "field": "Horsepower"
+      },
+      "color": {
+        "field": "Origin"
+      }
+    }
+  },
+  "audio": {
+    "units": [
       {
-        name: 'vis_unit_0',
-        mark: 'line',
-        encoding: {
-          x: { field: 'date' },
-          y: { field: 'price' },
-          color: { field: 'symbol' },
+        "encoding": {
+          "pitch": {
+            "field": "Miles_per_Gallon",
+            "aggregate": "mean"
+          }
         },
+        "traversal": [
+          {
+            "field": "Horsepower",
+            "bin": true
+          }
+        ]
       },
-    ],
-  },
-  audio: {
-    units: [
       {
-        name: 'audio_unit_0',
-        encoding: { pitch: { field: 'price' } },
-        traversal: [{ field: 'symbol' }, { field: 'date' }],
-      },
+        "encoding": {
+          "pitch": {
+            "field": "Horsepower",
+            "aggregate": "mean"
+          }
+        },
+        "traversal": [
+          {
+            "field": "Miles_per_Gallon",
+            "bin": true
+          }
+        ]
+      }
     ],
-  },
+    "composition": "concat"
+  }
 };
 
 createViewer(spec, document.getElementById('umwelt-intro'));
