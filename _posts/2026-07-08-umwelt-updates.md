@@ -144,7 +144,7 @@ Behind the scenes, we also made the sonification more consistent with the other 
 
 ## A new Text tab for shaping descriptions
 
-The editor previously had tabs for designing the visual and audio modalities; the textual structure was always inferred automatically. A new **Text** tab makes the third modality authorable too.
+The editor previously had tabs for designing the visual and audio modalities; the textual structure was always inferred automatically. A new **Text** tab makes the third modality authorable too (leveraging [recent improvements in Olli's spec design](https://data-and-design.org/blog/2026/05/27/announcing-olli-v3/)).
 
 By default you don't have to touch it: Umwelt infers a description tree from your chart (or, with no chart, from the fields). The Text tab shows that inferred structure as an editable starting point. From there you can:
 
