@@ -9,7 +9,7 @@ notes: 'When changing years, update title, date, and 2nd paragraph'
 
 The <span class="dnd">Data & Design</span> Group is a research group in the Department of Information Science at the University of Colorado Boulder. This page contains information for prospective Ph.D. students about our research, what we can accomplish together, and how to apply.
 
-I'm recruiting Ph.D. students to join the <span class="dnd">D&D</span> group in Fall 2027 (**applications due December 1, 2026**).
+I'm recruiting Ph.D. students to join the <span class="dnd">D&D</span> group in Fall 2027 (**applications due December 1, 2026**). This cycle, I'm running a [more focused search than usual](#what-am-i-focusing-on-this-cycle), centered on rethinking how accessible web interfaces are built.
 
 ## Why am I looking for PhD students?
 
@@ -47,6 +47,14 @@ Example papers:
 - [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](/publications/bartleby/)
 - [Data Refusal from Below: A Framework for Understanding, Evaluating, and Envisioning Refusal as Design](/publications/data-refusal/)
 
+## What am I focusing on this cycle?
+
+This cycle, I'm running a more focused search than usual. I'm especially excited to work with a student who wants to **rethink the foundations of how accessible web interfaces are built**—so that non-visual interaction becomes a first-class design concern rather than a compliance afterthought. This direction draws on interface design, qualitative inquiry into how our technical standards came to be, and a deep commitment to accessibility. If designing the conceptual and technical scaffolding for a more accessible web is the kind of problem that excites you, I'd love to read your application.
+
+Relevant background can come from many paths, and I take nontraditional trajectories seriously. What I do hope for is that you're already comfortable building for the web, so that we can begin from design questions rather than fundamentals.
+
+The focused search is not a hard boundary. If your interests connect with the group's broader work in accessibility, data visualization, or data ethics and refusal—or point toward a direction I haven't yet imagined—I still want to read your application and will give it careful consideration.
+
 ## What can a new student expect to work on?
 
 As a new Ph.D. student joining the group, you'll work with me to identify a project that builds on the group's existing work in accessibility or data ethics. Working with you on an initial project where I have more upfront involvement in scoping the project is a way for me to scaffold your learning experience as a junior researcher. As you progress in your Ph.D., I expect that we will work together to develop projects that closely reflect your goals and interests and advance your growth as an independent researcher.
@@ -59,6 +67,8 @@ The research group has funding to fully support at least one new student this ye
 
 I expect students to gain experience as both TAs and RAs during their Ph.D. journey, and actively pursue external funding with my support. I believe all of these funding avenues provide valuable experiences for a junior researcher. For instance, being a teaching assistant develops valuable skills in public communication, equitable leadership, and invests in our field's future. Research assistantships grow your research skills while contributing to the group's broader research trajectory. And seeking external funding through fellowships is an important way to develop the communication and visioning skills to make your work legible and exciting to others.
 
+If you're eligible for the [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/), I strongly encourage you to apply. Applications are typically due in October—meaning you can apply in the same fall that you're applying to Ph.D. programs—and a fellowship gives you significant freedom in the research you pursue. Check the current eligibility requirements on the GRFP website. If you join the group, I'll gladly support future applications to GRFP and other fellowships.
+
 ## What kind of applicants am I looking for?
 
 I'm looking for applicants who are excited to contribute to and shape the shared research trajectory of the group. Specifically, I'm seeking students who:
@@ -70,12 +80,6 @@ I'm looking for applicants who are excited to contribute to and shape the shared
 I'm committed to building a group where people can bring diverse lived experiences, interests, and disciplinary perspectives into conversation together. In return, you'll join a collaborative community focused on mutual growth, where I'll work with you to develop your vision as an independent researcher.
 
 **What I'm looking for in your application:** I want to understand your research interests and goals for the PhD, how you see your interests connecting to the lab's work, and what you hope to accomplish. I want to know what motivates you, what activates your curiosity, and what path has led you here—why is pursuing a PhD the right next step for you? I encourage you to explore our projects and papers to get a sense of what we do and how you might contribute.
-
-This cycle, I'm running a more focused search than usual. I'm especially excited to work with a student who wants to **rethink the foundations of how accessible web interfaces are built**—so that non-visual interaction becomes a first-class design concern rather than a compliance afterthought. This direction draws on interface design, qualitative inquiry into how our technical standards came to be, and a deep commitment to accessibility. If designing the conceptual and technical scaffolding for a more accessible web is the kind of problem that excites you, I'd love to read your application.
-
-Relevant background can come from many paths, and I take nontraditional trajectories seriously. What I do hope for is that you're already comfortable building for the web, so that we can begin from design questions rather than fundamentals.
-
-The focused search is not a hard boundary. If your interests connect with the group's broader work in accessibility, data visualization, or data ethics and refusal—or point toward a direction I haven't yet imagined—I still want to read your application and will give it careful consideration.
 
 As you think about working with me, I also encourage you to consider other [faculty in Information Science](https://www.colorado.edu/cmci/people/information-science) who you might have common interests with, who might be potential future mentors, collaborators, or committee members.
 
