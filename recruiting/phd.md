@@ -4,7 +4,7 @@ recruiting: true
 title: 'Recruiting Ph.D. Students for Fall 2027'
 author: jzong
 date: 2026-07-01
-notes: 'When changing years, update title, date, and 2nd paragraph'
+notes: 'When changing years, update title, date, and 2nd paragraph, and update year in hiring-cta'
 ---
 
 The <span class="dnd">Data & Design</span> Group is a research group in the Department of Information Science at the University of Colorado Boulder. This page contains information for prospective Ph.D. students about our research, what we can accomplish together, and how to apply.
