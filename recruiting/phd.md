@@ -55,6 +55,22 @@ Relevant background can come from many paths, and I take nontraditional trajecto
 
 The focused search is not a hard boundary. If your interests connect with the group's broader work in accessibility, data visualization, or data ethics and refusal—or point toward a direction I haven't yet imagined—I still want to read your application and will give it careful consideration.
 
+## What kind of applicants am I looking for?
+
+I'm looking for applicants who are excited to contribute to and shape the shared research trajectory of the group. Specifically, I'm seeking students who:
+
+- are curious about building interdisciplinary skills across engineering, design, social sciences, and the humanities
+- want to help create a welcoming and inclusive research group culture
+- are eager to develop as leaders in our group, the department, and our wider research communities
+
+I'm committed to building a group where people can bring diverse lived experiences, interests, and disciplinary perspectives into conversation together. In return, you'll join a collaborative community focused on mutual growth, where I'll work with you to develop your vision as an independent researcher.
+
+**What I'm looking for in your application:** I want to understand your research interests and goals for the PhD, how you see your interests connecting to the lab's work, and what you hope to accomplish. I want to know what motivates you, what activates your curiosity, and what path has led you here—why is pursuing a PhD in my lab the right next step for you? I encourage you to explore our projects and papers to get a sense of what we do and how you might contribute.
+
+**A note on writing your statement:** Please resist the urge to write what you think I want to hear. I understand the impulse—applying to PhD programs can sometimes feel like a guessing game, which is why I wrote this post. But statements written this way are easy to recognize, and they work against you. The application is how we both figure out whether working together would actually serve your goals. If you mirror my interests back at me instead of telling me yours, I can't assess fit properly. The strongest statements I read are the ones where someone's genuine curiosity makes connection to the group obvious.
+
+As you think about working with me, I also encourage you to consider other [faculty in Information Science](https://www.colorado.edu/cmci/people/information-science) who you might have common interests with, who might be potential future mentors, collaborators, or committee members.
+
 ## What can a new student expect to work on?
 
 As a new Ph.D. student joining the group, you'll work with me to identify a project that builds on the group's existing work in accessibility or data ethics. Working with you on an initial project where I have more upfront involvement in scoping the project is a way for me to scaffold your learning experience as a junior researcher. As you progress in your Ph.D., I expect that we will work together to develop projects that closely reflect your goals and interests and advance your growth as an independent researcher.
@@ -68,20 +84,6 @@ The research group has funding to fully support at least one new student this ye
 I expect students to gain experience as both TAs and RAs during their Ph.D. journey, and actively pursue external funding with my support. I believe all of these funding avenues provide valuable experiences for a junior researcher. For instance, being a teaching assistant develops valuable skills in public communication, equitable leadership, and invests in our field's future. Research assistantships grow your research skills while contributing to the group's broader research trajectory. And seeking external funding through fellowships is an important way to develop the communication and visioning skills to make your work legible and exciting to others.
 
 If you're eligible for the [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/), I strongly encourage you to apply. Applications are typically due in October—meaning you can apply in the same fall that you're applying to Ph.D. programs—and a fellowship gives you significant freedom in the research you pursue. Check the current eligibility requirements on the GRFP website. If you join the group, I'll gladly support future applications to GRFP and other fellowships.
-
-## What kind of applicants am I looking for?
-
-I'm looking for applicants who are excited to contribute to and shape the shared research trajectory of the group. Specifically, I'm seeking students who:
-
-- are curious about building interdisciplinary skills across engineering, design, social sciences, and the humanities
-- want to help create a welcoming and inclusive research group culture
-- are eager to develop as leaders in our group, the department, and our wider research communities
-
-I'm committed to building a group where people can bring diverse lived experiences, interests, and disciplinary perspectives into conversation together. In return, you'll join a collaborative community focused on mutual growth, where I'll work with you to develop your vision as an independent researcher.
-
-**What I'm looking for in your application:** I want to understand your research interests and goals for the PhD, how you see your interests connecting to the lab's work, and what you hope to accomplish. I want to know what motivates you, what activates your curiosity, and what path has led you here—why is pursuing a PhD the right next step for you? I encourage you to explore our projects and papers to get a sense of what we do and how you might contribute.
-
-As you think about working with me, I also encourage you to consider other [faculty in Information Science](https://www.colorado.edu/cmci/people/information-science) who you might have common interests with, who might be potential future mentors, collaborators, or committee members.
 
 ## What is my perspective on advising?
 
