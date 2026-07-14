@@ -31,6 +31,10 @@ Gifts of any size make a difference. A $50 gift compensates a blind collaborator
 
 The lab's work ranges from accessible visualization to data ethics and consent—you can browse our [projects](/projects) and [publications](/publications) to find out more.
 
-Unrestricted gifts are made through the University of Colorado Foundation and are 501(c)(3) tax-deductible. Many employers match charitable gifts through platforms like Benevity—search for "University of Colorado Foundation" to double your impact. You can give once or set up a recurring contribution. If you'd like to talk first—about the lab's direction, a project you'd like to support, or giving in honor of someone—[please reach out](mailto:jzong@colorado.edu).
+Unrestricted gifts are made through the University of Colorado Foundation and are **501(c)(3) tax-deductible**.
+
+Many **employers match charitable gifts** through platforms like Benevity—search for "University of Colorado Foundation" to double your impact.
+
+If you'd like to talk first—about the lab's direction, a project you'd like to support, or giving in honor of someone—[please reach out](mailto:jzong@colorado.edu).
 
 Thank you for considering supporting this work. It means a lot.
