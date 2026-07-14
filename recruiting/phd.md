@@ -83,7 +83,7 @@ The research group has funding to fully support at least one new student this ye
 
 I expect students to gain experience as both TAs and RAs during their Ph.D. journey, and actively pursue external funding with my support. I believe all of these funding avenues provide valuable experiences for a junior researcher. For instance, being a teaching assistant develops valuable skills in public communication, equitable leadership, and invests in our field's future. Research assistantships grow your research skills while contributing to the group's broader research trajectory. And seeking external funding through fellowships is an important way to develop the communication and visioning skills to make your work legible and exciting to others.
 
-If you're eligible for the [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/), I strongly encourage you to apply. Applications are typically due in October—meaning you can apply in the same fall that you're applying to Ph.D. programs—and a fellowship gives you significant freedom in the research you pursue. Check the current eligibility requirements on the GRFP website. If you join the group, I'll gladly support future applications to GRFP and other fellowships.
+If you're eligible for the [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/), I strongly encourage you to apply. Applications are typically due in October, meaning you can apply in the same fall that you're applying to Ph.D. programs. A fellowship gives you significant freedom in the research you pursue. Check the current eligibility requirements on the GRFP website. If you join the group, I'll gladly support future applications to GRFP and other fellowships.
 
 ## What is my perspective on advising?
 
