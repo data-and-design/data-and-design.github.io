@@ -9,7 +9,7 @@ notes: 'When changing years, update title, date, and 2nd paragraph, and update y
 
 The <span class="dnd">Data & Design</span> Group is a research group in the Department of Information Science at the University of Colorado Boulder. This page contains information for prospective Ph.D. students about our research, what we can accomplish together, and how to apply.
 
-I'm recruiting Ph.D. students to join the <span class="dnd">D&D</span> group in Fall 2027 (**applications due December 1, 2026**). This cycle, I'm running a [more focused search than usual](#what-am-i-focusing-on-this-cycle), centered on rethinking how accessible web interfaces are built.
+I'm recruiting Ph.D. students to join the <span class="dnd">D&D</span> group in Fall 2027 (**applications due December 1, 2026**). This cycle, I'm [especially hoping to find a design-minded student who loves building for the web](#what-am-i-focusing-on-this-cycle).
 
 ## Why am I looking for PhD students?
 
@@ -49,11 +49,13 @@ Example papers:
 
 ## What am I focusing on this cycle?
 
-This cycle, I'm running a more focused search than usual. I'm especially excited to work with a student who wants to **rethink the foundations of how accessible web interfaces are built**—so that non-visual interaction becomes a first-class design concern rather than a compliance afterthought. This direction draws on interface design, qualitative inquiry into how our technical standards came to be, and a deep commitment to accessibility. If designing the conceptual and technical scaffolding for a more accessible web is the kind of problem that excites you, I'd love to read your application.
+This cycle, I'm especially hoping to welcome a student who brings design sensibility and web development craft to the group. Our department's current expertise runs deep on qualitative inquiry, and I'm looking to balance it out with people who love making things. We're a small group, so your skills and interests would play an outsized role in shaping the group's direction.
 
-Relevant background can come from many paths, and I take nontraditional trajectories seriously. What I do hope for is that you're already comfortable building for the web, so that we can begin from design questions rather than fundamentals.
+The direction I'm most excited to pursue with this student is **rethinking the foundations of how accessible web interfaces are built**—so that non-visual interaction becomes a first-class design concern rather than a compliance afterthought. You don't need a background in accessibility to do this work. I care more about how you think as a designer, and your curiosity about how interfaces shape people's experiences. The domain knowledge is something we can build together. Students who fit this direction might come from creative coding, web tooling, design systems, art and design practice, HCI, accessibility, or somewhere I haven't thought to list.
 
-The focused search is not a hard boundary. If your interests connect with the group's broader work in accessibility, data visualization, or data ethics and refusal—or point toward a direction I haven't yet imagined—I still want to read your application and will give it careful consideration.
+What I do hope for is that you're already comfortable building for the web, so that we can begin from design questions rather than fundamentals.
+
+This focus is a hope, not a filter. If your interests connect with the group's broader work in data visualization or data ethics and refusal, or point toward a direction I haven't yet imagined, I'd love to read your application just the same.
 
 ## What kind of applicants am I looking for?
 
