@@ -55,7 +55,7 @@ The direction I'm most excited to pursue with this student is **rethinking the f
 
 What I do hope for is that you're already comfortable building for the web, so that we can begin from design questions rather than fundamentals.
 
-This focus is a hope, not a filter. If your interests connect with the group's broader work in data visualization or data ethics and refusal, or point toward a direction I haven't yet imagined, I'd love to read your application just the same.
+This is a focus area, not a filter. If your interests connect with the group's broader work in data visualization or data ethics and refusal, or point toward a direction I haven't yet imagined, I'd love to read your application just the same.
 
 ## What kind of applicants am I looking for?
 
