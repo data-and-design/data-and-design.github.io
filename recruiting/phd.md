@@ -101,7 +101,7 @@ Apply through the CU Boulder application system, linked below. In your cover let
 - [Read the FAQ](https://www.colorado.edu/cmdi/infoscience/gd/faq)
 - [Access the application system](https://grad.apply.colorado.edu/apply/)
 
-**About reaching out:** You're welcome to email me at <a href="mailto:jzong@colorado.edu">jzong@colorado.edu</a> if you have questions or want to learn more about the research group. I receive a high volume of emails during application season, so I do my best to respond to specific questions but may not be able to reply to everyone. Please know that not reaching out won't disadvantage you in the application process—I'm committed to giving every application careful consideration regardless of whether we've been in touch beforehand.
+**About reaching out:** You're welcome to email me at <a href="mailto:jzong@colorado.edu">jzong@colorado.edu</a> if you have questions or want to learn more about the research group. I receive a high volume of emails during application season, so I do my best to respond to specific questions but may not be able to reply to everyone. **I do not recommend cold emailing my students.** Please know that not reaching out won't disadvantage you in the application process—I'm committed to giving every application careful consideration regardless of whether we've been in touch beforehand.
 
 ## Additional resources
 
