@@ -15,8 +15,8 @@ description: Week-by-week schedule for INFO 4871 including readings on disabilit
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const semesterStart = new Date('2026-01-08'); // Thursday
-  const semesterEnd = new Date('2026-04-30');
+  const semesterStart = new Date('2026-08-24'); // Monday
+  const semesterEnd = new Date('2026-12-04');
   const today = new Date();
 
   let currentWeek;
@@ -24,18 +24,11 @@ document.addEventListener('DOMContentLoaded', function() {
   if (today < semesterStart) {
     currentWeek = 1;
   } else if (today > semesterEnd) {
-    currentWeek = 17;
+    currentWeek = 16;
   } else {
+    // Weeks run Monday through Sunday, starting Mon Aug 24
     const daysSinceStart = Math.floor((today - semesterStart) / (1000 * 60 * 60 * 24));
-
-    if (daysSinceStart < 4) {
-      // Week 1: Thu Jan 8 - Sun Jan 11 (days 0-3)
-      currentWeek = 1;
-    } else {
-      // Week 2+: Mon Jan 12 onwards, weeks turn over on Sunday
-      const daysAfterWeek1 = daysSinceStart - 4;
-      currentWeek = Math.min(Math.floor(daysAfterWeek1 / 7) + 2, 16);
-    }
+    currentWeek = Math.min(Math.floor(daysSinceStart / 7) + 1, 15);
   }
 
   const jumpLink = document.getElementById('jump-to-week');
@@ -45,15 +38,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <h2 id="week-1">Week 1 — Introduction: All Tech is Assistive</h2>
 
-### January 8 (Thursday)
+### August 24 (Monday)
 
 #### In class
 
 - Astra Taylor, dir. **Judith Butler & Sunaura Taylor in conversation.** From *Examined Life*. 2008. <https://www.youtube.com/watch?v=k0HZaPkF6qE>.
 
-<h2 id="week-2">Week 2 — Extending Capabilities, Not Fixing Deficits</h2>
-
-### January 13 (Tuesday)
+### August 26 (Wednesday)
 
 #### Readings
 
@@ -68,7 +59,9 @@ document.addEventListener('DOMContentLoaded', function() {
     - Rotation 4: [**Design Translator**](./assignments#design-translator)
 - Start of semester survey
 
-### January 15 (Thursday)
+<h2 id="week-2">Week 2 — Extending Capabilities, Not Fixing Deficits</h2>
+
+### August 31 (Monday)
 
 #### Readings
 - Petrick, Elizabeth. **“The Computer as Prosthesis? Embodiment, Augmentation, and Disability.”** In *Abstractions and Embodiments: New Histories of Computing and Society*, edited by Janet Abbate and Stephanie Dick. 2022.
@@ -83,13 +76,9 @@ Optional:
     - Rotation 3: [**Concept Keeper**](./assignments#concept-keeper)
     - Rotation 4: [**Connector**](./assignments#connector)
 
-<h2 id="week-3">Week 3 — Against Technoableism (Part 1)</h2>
-
-### January 20 (Tuesday)
+### September 2 (Wednesday)
 
 #### Readings
-- Shew, Ashley. **Chapter 1: Disabled Everything**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
-- Shew, Ashley. **Chapter 2: Disorientation**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
 
 #### Due
 - [Reading responses](./assignments)
@@ -98,12 +87,15 @@ Optional:
     - Rotation 3: [**Argument Analyst**](./assignments#argument-analyst)
     - Rotation 4: [**Concept Keeper**](./assignments#concept-keeper)
 
+<h2 id="week-3">Week 3 — Against Technoableism (Part 1)</h2>
 
-### January 22 (Thursday)
+### September 7 (Monday) — Labor Day
+
+### September 9 (Wednesday)
 
 #### Readings
-- Shew, Ashley. **Chapter 3: Scripts and Crips**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
-- Shew, Ashley. **Chapter 4: New Legs, Old Tricks**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
+- Shew, Ashley. **Chapter 1: Disabled Everything**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
+- Shew, Ashley. **Chapter 2: Disorientation**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
 
 #### Due
 - [Reading responses](./assignments)
@@ -113,16 +105,13 @@ Optional:
     - Rotation 4: [**Argument Analyst**](./assignments#argument-analyst)
 - [Milestone 1: Team Composition](./final-project.html#milestone-1)
 
-
 <h2 id="week-4">Week 4 — Against Technoableism (Part 2)</h2>
 
-### January 27 (Tuesday) — Class on Zoom
+### September 14 (Monday)
 
 #### Readings
-
-- Shew, Ashley. **Chapter 5: The Neurodivergent Resistance**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
-- Shew, Ashley. **Chapter 6: Accessible Futures**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
-
+- Shew, Ashley. **Chapter 3: Scripts and Crips**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
+- Shew, Ashley. **Chapter 4: New Legs, Old Tricks**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
 
 #### Due
 - [Reading responses](./assignments)
@@ -131,11 +120,12 @@ Optional:
     - Rotation 3: [**Connector**](./assignments#connector)
     - Rotation 4: [**Design Translator**](./assignments#design-translator)
 
-
-### January 29 (Thursday) — Class on Zoom
+### September 16 (Wednesday)
 
 #### Readings
-- Winner, Langdon. **"Do Artifacts Have Politics?"** Daedalus 109, no. 1 (1980): 121–36.
+
+- Shew, Ashley. **Chapter 5: The Neurodivergent Resistance**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
+- Shew, Ashley. **Chapter 6: Accessible Futures**. From *Against Technoableism: Rethinking Who Needs Improvement.* Norton Shorts. W.W. Norton & Company, 2023.
 
 #### In class
 - Milestone 2 check-in: Get feedback on in-progress project proposals
@@ -149,7 +139,7 @@ Optional:
 
 <h2 id="week-5">Week 5 — Disability Futures</h2>
 
-### February 3 (Tuesday)
+### September 21 (Monday)
 
 #### Readings
 
@@ -165,9 +155,11 @@ Optional:
     - Rotation 3: [**Argument Analyst**](./assignments#argument-analyst)
     - Rotation 4: [**Concept Keeper**](./assignments#concept-keeper)
 
-### February 5 (Thursday)
+### September 23 (Wednesday)
 
 #### Readings
+
+Optional:
 - Angelini, Robin, Katta Spiel, and Maartje De Meulder. **"Speculating Deaf Tech: Reimagining Technologies Centering Deaf People."** Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (New York, NY, USA), CHI '25, Association for Computing Machinery, April 25, 2025, 1–18. <https://doi.org/10.1145/3706598.3713238>.
 
 
@@ -179,13 +171,12 @@ Optional:
     - Rotation 4: [**Argument Analyst**](./assignments#argument-analyst)
 - [Milestone 2: Define a Project](./final-project.html#milestone-2)
 
-<h2 id="week-6">Week 6 — Crip Technoscience: Disabled Knowing and Making</h2>
+<h2 id="week-6">Week 6 — Crip Technoscience: Disabled Knowing and Making</h2>
 
-### February 10 (Tuesday)
+### September 28 (Monday)
 
 #### Readings
 - Hamraie, Aimi, and Kelly Fritsch. **"Crip Technoscience Manifesto."** *Catalyst: Feminism, Theory, Technoscience* 5, no. 1 (2019): 1. <https://catalystjournal.org/index.php/catalyst/article/view/29607/24772>.
-
 
 #### Due
 - [Reading responses](./assignments)
@@ -195,10 +186,11 @@ Optional:
     - Rotation 4: [**Design Translator**](./assignments#design-translator)
 
 
-### February 12 (Thursday)
+### September 30 (Wednesday)
 
 #### Readings
 
+Optional:
 - Brody, Miriam, Izabella Rodrigues, Jane L. E, and Jingyi Li. **"Expanding Norms, Negotiating Bodies: How Artists with Disabilities Perceive and Use Creative Tools."** *Proceedings of the 27th International ACM SIGACCESS Conference on Computers and Accessibility* (New York, NY, USA), ASSETS '25, Association for Computing Machinery, October 22, 2025, 1–14. <https://doi.org/10.1145/3663547.3746331>.
 
 
@@ -213,7 +205,7 @@ Optional:
 
 <h2 id="week-7">Week 7 — Common Cyborg</h2>
 
-### February 17 (Tuesday)
+### October 5 (Monday)
 
 #### Readings
 - Weise, Jillian. **“Common Cyborg.”** *Granta*, September 24, 2018. <https://granta.com/common-cyborg/>.
@@ -229,7 +221,7 @@ Optional:
     - Rotation 3: [**Argument Analyst**](./assignments#argument-analyst)
     - Rotation 4: [**Concept Keeper**](./assignments#concept-keeper)
 
-### February 19 (Thursday)
+### October 7 (Wednesday)
 
 
 #### Readings
@@ -253,11 +245,13 @@ Optional:
 
 <h2 id="week-8">Week 8 — Posthumanism: Who is the "Human" in HCI?</h2>
 
-### February 24 (Tuesday)
+### October 12 (Monday)
 
 #### Readings
-- Romanska, Magda. **“The Bionic Body: Disability, Technology and Posthumanism.”** Body, Space & Technology 23, no. 1 (2024). <https://doi.org/10.16995/bst.11480>.
 - Alice Wong and Ed Yong. **"What Counts as Seeing."**  *Orion Magazine*. July 12, 2022. <https://orionmagazine.org/article/ed-yong-alice-wong-interview/>.
+
+Optional:
+- Romanska, Magda. **“The Bionic Body: Disability, Technology and Posthumanism.”** Body, Space & Technology 23, no. 1 (2024). <https://doi.org/10.16995/bst.11480>.
 
 
 #### Due
@@ -268,15 +262,31 @@ Optional:
     - Rotation 4: [**Design Translator**](./assignments#design-translator)
 
 
-### February 26 (Thursday) — Reading day
+### October 14 (Wednesday)
+
+#### In Class
+- Project Work Time
+
+#### Readings
+
+Optional:
+- Lundgard, Alan, Crystal Lee, and Arvind Satyanarayan. **"Sociotechnical Considerations for Accessible Visualization Design."** 2019 IEEE Visualization Conference (VIS), October 2019, 16–20. <https://doi.org/10.1109/VISUAL.2019.8933762>.
+- Zong, Jonathan, Crystal Lee, Alan Lundgard, JiWoong Jang, Daniel Hajas, and Arvind Satyanarayan. **"Rich Screen Reader Experiences for Accessible Data Visualization."** Computer Graphics Forum, 2022. <https://vis.mit.edu/pubs/rich-screen-reader-vis-experiences/>.
+
+#### Due
+- [Milestone 5: Weekly Update](./final-project.html#weekly-updates)
 
 
 <h2 id="week-9">Week 9 — Care, Interdependence, and the Myth of Autonomy</h2>
 
-### March 3 (Tuesday)
+### October 19 (Monday)
 
 #### Readings
 - Mia Mingus. **"Access Intimacy, Interdependence and Disability Justice."** Leaving Evidence, April 12, 2017. <https://leavingevidence.wordpress.com/2017/04/12/access-intimacy-interdependence-and-disability-justice/>.
+
+Optional:
+- Bennett, Cynthia L., Erin Brady, and Stacy M. Branham. **"Interdependence as a Frame for Assistive Technology Research and Design."** *Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility* (New York, NY, USA), ASSETS '18, Association for Computing Machinery, October 8, 2018, 161–73. <https://doi.org/10.1145/3234695.3236348>.
+
 
 
 #### Due
@@ -287,10 +297,9 @@ Optional:
     - Rotation 4: [**Connector**](./assignments#connector)
 
 
-### March 5 (Thursday)
+### October 21 (Wednesday)
 
 #### Readings
-- Bennett, Cynthia L., Erin Brady, and Stacy M. Branham. **"Interdependence as a Frame for Assistive Technology Research and Design."** *Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility* (New York, NY, USA), ASSETS '18, Association for Computing Machinery, October 8, 2018, 161–73. <https://doi.org/10.1145/3234695.3236348>.
 
 #### Due
 - [Reading responses](./assignments)
@@ -298,14 +307,13 @@ Optional:
     - Rotation 2: [**Design Translator**](./assignments#design-translator)
     - Rotation 3: [**Argument Analyst**](./assignments#argument-analyst)
     - Rotation 4: [**Concept Keeper**](./assignments#concept-keeper)
-- [Milestone 5: Weekly Update](./final-project.html#weekly-updates)
+- [Milestone 6: Weekly Update](./final-project.html#weekly-updates)
 
 <h2 id="week-10">Week 10 — Disability and the Arts</h2>
 
-### March 10 (Tuesday)
+### October 26 (Monday)
 
 #### Readings
-- Godin, M. Leona. **"Iconic Photographs of Blind People Prove Seeing Isn't Knowing."** ARTnews.Com, November 27, 2025. <https://www.artnews.com/art-in-america/features/blindness-photography-paul-strand-walker-evans-jacob-riis-1234763708/>.
 
 #### In Class
 - Finnegan Shannon. **“Do You Want Us Here or Not, 2018–Ongoing.”** Finnegan Shannon, 2018. <https://shannonfinnegan.com/do-you-want-us-here-or-not>.
@@ -318,11 +326,13 @@ Optional:
     - Rotation 4: [**Argument Analyst**](./assignments#argument-analyst)
 
 
-### March 12 (Thursday)
+### October 28 (Wednesday)
 
 #### Readings
-- Mills, Mara. **"HOLDING THE LINE: On the Art of Christine Sun Kim."** Artforum, April 1, 2025. <https://www.artforum.com/features/christine-sun-kim-mara-mills-whitney-museum-review-1234728306/>.
 
+Optional:
+- Mills, Mara. **"HOLDING THE LINE: On the Art of Christine Sun Kim."** Artforum, April 1, 2025. <https://www.artforum.com/features/christine-sun-kim-mara-mills-whitney-museum-review-1234728306/>.
+- Godin, M. Leona. **"Iconic Photographs of Blind People Prove Seeing Isn't Knowing."** ARTnews.Com, November 27, 2025. <https://www.artnews.com/art-in-america/features/blindness-photography-paul-strand-walker-evans-jacob-riis-1234763708/>.
 
 #### Due
 - [Reading responses](./assignments)
@@ -330,14 +340,11 @@ Optional:
     - Rotation 2: [**Concept Keeper**](./assignments#concept-keeper)
     - Rotation 3: [**Connector**](./assignments#connector)
     - Rotation 4: [**Design Translator**](./assignments#design-translator)
-- [Milestone 6: Weekly Update](./final-project.html#weekly-updates)
+- [Milestone 7: Weekly Update](./final-project.html#weekly-updates)
 
-<h2 id="week-11">Week 11 — Spring Break</h2>
+<h2 id="week-11">Week 11 — Life at the Limits of Language (Part 1)</h2>
 
-
-<h2 id="week-12">Week 12 — Life at the Limits of Language (Part 1)</h2>
-
-### March 24 (Tuesday)
+### November 2 (Monday)
 
 #### Readings
 - Edwards, Terra. **Chapter 1: Life at the Limits of Language**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
@@ -350,7 +357,7 @@ Optional:
     - Rotation 4: [**Connector**](./assignments#connector)
 
 
-### March 26 (Thursday)
+### November 4 (Wednesday)
 
 #### Readings
 - Edwards, Terra. **Chapter 2: Creating DeafBlind Identity**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
@@ -366,17 +373,16 @@ Optional:
     - Rotation 2: [**Design Translator**](./assignments#design-translator)
     - Rotation 3: [**Argument Analyst**](./assignments#argument-analyst)
     - Rotation 4: [**Concept Keeper**](./assignments#concept-keeper)
-- [Milestone 7: Weekly Update](./final-project.html#weekly-updates)
+- [Milestone 8: Weekly Update](./final-project.html#weekly-updates)
 
-<h2 id="week-13">Week 13 — Life at the Limits of Language (Part 2)</h2>
+<h2 id="week-12">Week 12 — Life at the Limits of Language (Part 2)</h2>
 
-### March 31 (Tuesday)
+### November 9 (Monday)
 
 
 #### Readings
 - Edwards, Terra. **Chapter 3: The Collapse of the World**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
 
-Optional:
 - Edwards, Terra. **Chapter 4: The Protactile Movement**. *Going Tactile: Life at the Limits of Language*. Oxford University Press, 2024.
 
 #### Due
@@ -386,7 +392,7 @@ Optional:
     - Rotation 3: [**Design Translator**](./assignments#design-translator)
     - Rotation 4: [**Argument Analyst**](./assignments#argument-analyst)
 
-### April 2 (Thursday)
+### November 11 (Wednesday)
 
 #### Readings
 - Clark, John Lee. **"Against Access."** *McSweeney's Quarterly Concern 64: The Audio Issue*, October 2021. <https://audio.mcsweeneys.net/transcripts/against_access.html>.
@@ -399,14 +405,11 @@ Optional:
     - Rotation 2: [**Concept Keeper**](./assignments#concept-keeper)
     - Rotation 3: [**Connector**](./assignments#connector)
     - Rotation 4: [**Design Translator**](./assignments#design-translator)
-- [Milestone 8: Weekly Update](./final-project.html#weekly-updates)
+- [Milestone 9: Weekly Update](./final-project.html#weekly-updates)
 
-<h2 id="week-14">Week 14 — Disability, Bias, and AI</h2>
+<h2 id="week-13">Week 13 — Disability, Bias, and AI</h2>
 
-### April 7 (Tuesday)
-
-#### In Class
-- Guest speakers: Stacey Forsyth and Tim Ogino from CU Boulder's [Build a Better Book Project](https://www.colorado.edu/project/bbb/)
+### November 16 (Monday)
 
 #### Readings
 - Whittaker, Meredith, Meryl Alper, Cynthia L. Bennett, Sara Hendren, Elizabeth Kaziunas, Mara Mills, Meredith Ringel Morris, Joy Lisi Rankin, Emily Rogers, Marcel Salas, and Sarah Myers West. **"Disability, Bias & AI Report."** AI Now Institute, November 20, 2019. <https://ainowinstitute.org/publications/disabilitybiasai-2019>
@@ -420,12 +423,9 @@ Optional:
     - Rotation 4: [**Connector**](./assignments#connector)
 
 
-### April 9 (Thursday)
+### November 18 (Wednesday)
 
 #### Readings
-- Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Remi Denton, and Robin Brewer. **“‘I Wouldn’t Say Offensive but...’: Disability-Centered Perspectives on Large Language Models.”** *ACM Conference on Fairness Accountability and Transparency*, ACM, June 12, 2023, 205–16. <https://doi.org/10.1145/3593013.3593989>.
-
-Optional:
 - **"ASAN Says No Generative AI in Plain Language."** Autistic Self Advocacy Network, July 29, 2025. <https://autisticadvocacy.org/2025/07/asan-says-no-generative-ai-in-plain-language/>.
 
 
@@ -436,47 +436,27 @@ Optional:
     - Rotation 2: [**Design Translator**](./assignments#design-translator)
     - Rotation 3: [**Argument Analyst**](./assignments#argument-analyst)
     - Rotation 4: [**Concept Keeper**](./assignments#concept-keeper)
-- [Milestone 9: Weekly Update](./final-project.html#weekly-updates)
-
-
-<h2 id="week-15">Week 15 — Final Project Work Time</h2>
-
-### April 14 (Tuesday)
-
-#### Readings
-
-Optional:
-- Lundgard, Alan, Crystal Lee, and Arvind Satyanarayan. **"Sociotechnical Considerations for Accessible Visualization Design."** 2019 IEEE Visualization Conference (VIS), October 2019, 16–20. <https://doi.org/10.1109/VISUAL.2019.8933762>.
-- Zong, Jonathan, Crystal Lee, Alan Lundgard, JiWoong Jang, Daniel Hajas, and Arvind Satyanarayan. **"Rich Screen Reader Experiences for Accessible Data Visualization."** Computer Graphics Forum, 2022. <https://vis.mit.edu/pubs/rich-screen-reader-vis-experiences/>.
-
-
-### April 16 (Thursday)
-
-#### In Class
-- Project Work Time
-
-#### Due
 - [Milestone 10: Weekly Update](./final-project.html#weekly-updates)
 
 
-<h2 id="week-16">Week 16 — Final Project Presentations</h2>
+<h2 id="week-14">Week 14 — Fall Break</h2>
 
-### April 21 (Tuesday)
+<h2 id="week-15">Week 15 — Final Project Presentations</h2>
 
-#### In class
-
-- [Final Project Presentations](./final-project.html#final-presentation)
-
-### April 23 (Thursday)
+### November 30 (Monday)
 
 #### In class
 
 - [Final Project Presentations](./final-project.html#final-presentation)
 
-<h2 id="week-17">Week 17 — Finals Week</h2>
+### December 2 (Wednesday) — INFO Showcase
 
-### April 30 (Thursday)
+#### In class
 
-#### Due
+- [Final Project Presentations](./final-project.html#final-presentation)
 
-- [Final Project Report](./final-project.html#final-report)
+### December 4 (Friday that is secretly a Monday)
+
+#### In class
+
+- [Final Project Presentations](./final-project.html#final-presentation)
