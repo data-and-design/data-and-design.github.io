@@ -78,7 +78,9 @@ Optional:
 
 ### September 2 (Wednesday)
 
-#### Readings
+#### In Class
+
+Software studio
 
 #### Due
 - [Reading responses](./assignments)
@@ -143,10 +145,10 @@ Optional:
 
 #### Readings
 
-- Kafer, Alison. **“Introduction: Imagined Futures.”** *Feminist, Queer, Crip*. Indiana University Press, 2013.
-
 - Garland-Thomson, Rosemarie. **"Conserving Disability and Constructing a Habitable World."** ABC Religion & Ethics, December 2, 2020. <https://www.abc.net.au/religion/rosemarie-garland-thomson-conserving-disability-and-constructin/12408108>.
 
+Optional:
+- Kafer, Alison. **“Introduction: Imagined Futures.”** *Feminist, Queer, Crip*. Indiana University Press, 2013.
 
 #### Due
 - [Reading responses](./assignments)
@@ -158,6 +160,9 @@ Optional:
 ### September 23 (Wednesday)
 
 #### Readings
+
+- Padden, Carol, and Tom Humphries. **Chapter 1: Learning to Be Deaf**. From *Deaf in America: Voices from a Culture*. Harvard University Press, 1988.
+- Erard, Michael. **"Why Sign-Language Gloves Don't Help Deaf People."** *The Atlantic*, November 9, 2017. <https://www.theatlantic.com/technology/archive/2017/11/why-sign-language-gloves-dont-help-deaf-people/545441/>.
 
 Optional:
 - Angelini, Robin, Katta Spiel, and Maartje De Meulder. **"Speculating Deaf Tech: Reimagining Technologies Centering Deaf People."** Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (New York, NY, USA), CHI '25, Association for Computing Machinery, April 25, 2025, 1–18. <https://doi.org/10.1145/3706598.3713238>.
@@ -190,8 +195,6 @@ Optional:
 
 #### Readings
 
-Optional:
-- Brody, Miriam, Izabella Rodrigues, Jane L. E, and Jingyi Li. **"Expanding Norms, Negotiating Bodies: How Artists with Disabilities Perceive and Use Creative Tools."** *Proceedings of the 27th International ACM SIGACCESS Conference on Computers and Accessibility* (New York, NY, USA), ASSETS '25, Association for Computing Machinery, October 22, 2025, 1–14. <https://doi.org/10.1145/3663547.3746331>.
 
 
 #### Due
@@ -212,7 +215,7 @@ Optional:
 
 Optional:
 - Donna Haraway. **A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century** In *Simians, Cyborgs and Women: The Reinvention of Nature*. 1985. <https://theanarchistlibrary.org/library/donna-haraway-a-cyborg-manifesto>
-
+- Kafer, Alison. Chapter 5 **"The Cyborg and the Crip: Critical Encounters."** *Feminist, Queer, Crip*. Indiana University Press, 2013.
 
 #### Due
 - [Reading responses](./assignments)
@@ -225,10 +228,6 @@ Optional:
 
 
 #### Readings
-- Kafer, Alison. Chapter 5 **"The Cyborg and the Crip: Critical Encounters."** *Feminist, Queer, Crip*. Indiana University Press, 2013.
-
-Optional:
-- Hollan, James, Edwin Hutchins, and David Kirsh. **"Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research."** *ACM Trans. Comput.-Hum. Interact.* (New York, NY, USA) 7, no. 2 (2000): 174–96. <https://doi.org/10.1145/353485.353487>.
 
 #### In Class
 
@@ -247,7 +246,7 @@ Optional:
 
 ### October 12 (Monday)
 
-#### Readings
+#### Readingsf
 - Alice Wong and Ed Yong. **"What Counts as Seeing."**  *Orion Magazine*. July 12, 2022. <https://orionmagazine.org/article/ed-yong-alice-wong-interview/>.
 
 Optional:
