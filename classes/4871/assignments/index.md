@@ -22,10 +22,8 @@ To complete assignments, you will write HTML, some CSS, and some JavaScript. You
 
 Students enter this course with a wide range of programming experience, and I've created the assignments with this in mind. Our in-class software studio sessions will cover the basics of the technical material, and there will be opportunities to ask for support. However, this is not an intro to programming class. It is ultimately your responsibility to learn what you need to know to complete the assignments. Refer to the [Resources](../resources/) page for learning materials.
 
-### Setup, first week of class
+### Setup
 
 - A screen reader. Good options are: VoiceOver (built into macOS),  NVDA (free for Windows)
 - A text editor, such as VS Code
 - Firefox or Chrome, with developer tools
-- The axe DevTools browser extension
-- A GitHub account
