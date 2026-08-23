@@ -97,5 +97,9 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  # Repo housekeeping from the info-4871-a2 submodule. The practice site's
+  # pages are served; its README and license are not.
+  - classes/4871/assignments/a2/practice-site/README.md
+  - classes/4871/assignments/a2/practice-site/LICENSE
   - CNAME
   - README.md

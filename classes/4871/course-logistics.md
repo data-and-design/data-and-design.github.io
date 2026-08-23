@@ -3,7 +3,7 @@ layout: class
 class_id: 4871
 nav_title: Course Logistics
 nav_order: 5
-title: Course Logistics | INFO 4871
+title: "Course Logistics | INFO 4871"
 description: Information and course policies for INFO 4871 Design for Accessibility.
 ---
 
@@ -11,25 +11,27 @@ description: Information and course policies for INFO 4871 Design for Accessibil
 
 ## Meetings
 
-- When: Tue/Thu 11:00am–12:15pm
-- Where: [ECCR 1B51](https://www.colorado.edu/campusmap/map.html?bldg=ECCR)
+- When: Mon/Wed 3:35–4:50pm
+- Where: [CASE E220](https://www.colorado.edu/campusmap/map.html?bldg=CASE)
 
 ## Instructor
 
 [Jonathan Zong](https://www.colorado.edu/cmdi/people/information-science/jonathan-zong)
 
-Office hours: by appointment (signup link in Canvas)
+**Office hours:** by appointment (signup link in Canvas)
 
-Email: use the Inbox tab on Canvas
+**Email:** use the Inbox tab on Canvas
+- Messaging me on Canvas is better because I will see all class-related messages in one place. If you email me directly, I'll still reply, but it risks your message getting buried under other emails.
 
 
-# Grading
+## Grading
 
 | **Grade component**  | **Weight**  | 
 |---|---|
-| Participation  | 30%  | 
-| Reading responses  | 35%  |
-| Final project  | 35%  | 
+| Participation  | 25%  | 
+| Reading responses  | 25%  |
+| Assignments 1–3  | 30%  | 
+| Final project  | 20%  | 
 |---|---|
 | **Total**  | 100%  | 
 
@@ -41,8 +43,9 @@ I want this course to be accessible to all students, and I'm available to discus
 Please refer to the following information about CU Boulder Disability Services.
 
 ### Accommodation for Disabilities, Temporary Medical Conditions, and Medical Isolation
-If you qualify for accommodations because of a disability, please submit your accommodation letter from Disability Services to your faculty member in a timely manner so that your needs can be addressed.  Disability Services determines accommodations based on documented disabilities in the academic environment.  Information on requesting accommodations is located on the Disability Services website. Contact Disability Services at [303-492-8671](tel:3034928671) or [DSinfo@colorado.edu](mailto:DSinfo@colorado.edu)  for further assistance.  If you have a temporary medical condition, see [Temporary Medical Conditions](https://www.colorado.edu/disabilityservices/students/temporary-medical-conditions) on the Disability Services website.
+If you qualify for accommodations because of a disability, please submit your accommodation letter from Disability Services to your faculty member in a timely manner so that your needs can be addressed.  Disability Services determines accommodations based on documented disabilities in the academic environment.  Information on requesting accommodations is located on the [Disability Services website](https://www.colorado.edu/disabilityservices/). Contact Disability Services at [303-492-8671](tel:3034928671) or [DSinfo@colorado.edu](mailto:DSinfo@colorado.edu)  for further assistance.  If you have a temporary medical condition, see [Temporary Medical Conditions](https://www.colorado.edu/disabilityservices/students/temporary-medical-conditions) on the Disability Services website.
 
+If you have a temporary illness, injury or required medical isolation for which you require adjustment, please review the Attendance Policy below and contact the instructor.
 
 # Policies
 
@@ -58,7 +61,6 @@ Here are some examples of how you can participate:
 - Practice active listening – be attentive and be engaged
 - Ask questions – there are no dumb questions
 - Comment, build on, or clarify others’ contributions 
-- Visit the instructor in office hours to chat, ask questions, or give feedback
 - Only use technology devices when it’s relevant to course activities
 - Maintain professional interactions with community members, including showing up to meetings on times, sharing project feedback, and following through on shared commitments
 
@@ -68,8 +70,7 @@ That being said, things happen outside of our control. I am happy to work with s
 
 In particular, **do not come to class if you are sick**. It is important to rest when you are not feeling well, and your classmates do not want to become sick too. This is important for disability inclusion, as we want class space to be welcoming for people e.g. who are immunocompromised.
 
-Due to course requirements and enrollment demands, the Information Science Department may [administratively drop](https://www.colorado.edu/registrar/students/registration/register/drop) students who do not fulfill syllabus’ attendance expectations in advance of the drop-without-penalty deadline (January 23rd, 2026). If you have concerns about meeting this requirement, please reach out to the instructor. 
-
+**Zoom option:** Although this is primarily an in-person class, you may message me in advance (before the start of class) requesting a Zoom link. Your request needs to contain a valid reason that you cannot make it to class. I will make Zoom available on a case-by-case basis. If you need a Zoom link more regularly for accessibility reasons, please email the instructor.
 
 ## Late Work Policy
 Students are expected to read assigned readings and to complete assignments by the due dates indicated in the course schedule. Understanding the readings properly is extremely important. Make sure you give yourself plenty of time to read, comprehend, and reflect on the readings every week.
@@ -95,9 +96,14 @@ Generative AI tools, such as LLMs and code agents, are quickly changing the prac
 Here are specific examples of uses that are not allowed. These are meant to be illustrative, and not exhaustive.
 
 - **Do not use LLMs to generate your reading responses from scratch.** This doesn’t help you learn and is disrespectful of my time when I read your responses. I know that the readings may be challenging sometimes—grappling with difficult ideas is an important part of the learning process that the class is going through together as we read and discuss. I am interested in your genuine reflections, even if they are imperfect. AI is not a substitute for doing and thinking about the reading yourself.
-- **Do not use image generators or coding agents to create prototypes from scratch.** Often, the process of sketching a low-fidelity prototype can be important for the creative process and noticing gaps in your thinking. Prototyping is a tool to facilitate our design exploration. AI sometimes goes straight to high-fidelity, which can deprive you of an opportunity to reflect on your design. I'm fine with using AI to refine later-stage implementations, but not for exploratory prototyping.
+- **Do not use image generators or coding agents to make your design decisions.** Often, the process of sketching a low-fidelity prototype can be important for the creative process and noticing gaps in your thinking. Prototyping is a tool to facilitate our design exploration. AI sometimes goes straight to high-fidelity, which can deprive you of an opportunity to reflect on your design. I'm fine with using AI to refine later-stage implementations, but not for exploratory prototyping or one-shotting your final project.
 
-There are ways to use AI responsibly in this class. Please follow the values listed above. I will not actively police your AI use. However, turning in LLM-generated reading responses will count as academic dishonesty and I will take appropriate measures if I find out. Further, you are accountable for everything you turn in—if AI generates low-quality work for you, you are responsible for the feedback and/or grade that you get.
+There are ways to use AI responsibly in this class. Please follow the values listed above. I will not actively police your AI use. However, **turning in LLM-generated reading responses will count as academic dishonesty** and I will take appropriate measures if I find out. Further, you are accountable for everything you turn in—if AI generates low-quality work for you, you are responsible for the feedback and/or grade that you get.
+
+## Enrollment
+
+Due to course requirements and enrollment demands, the Information Science Department may [administratively drop](https://www.colorado.edu/registrar/students/registration/register/drop) students who do not fulfill syllabus’ attendance expectations in advance of the drop-without-penalty deadline (September 4th, 2026). If you have concerns about meeting this requirement, please reach out to the instructor. 
+
 
 <br/>
 <br/>
@@ -124,11 +130,11 @@ All incidents of academic misconduct will be reported to Student Conduct & Confl
 
 ## **Accommodation for Religious Obligations**
 
-Campus policy requires faculty to provide reasonable accommodations for students who, because of religious obligations, have conflicts with scheduled exams, assignments, or required attendance. Please communicate the need for a religious accommodation in a timely manner by emailing the instructor at [jzong@colorado.edu](mailto:jzong@colorado.edu). See the [campus policy regarding religious observances](https://www.colorado.edu/compliance/policies/observance-religious-holidays-absences-classes-or-exams) for full details.
+Instructional faculty members must make every reasonable effort to accommodate all students who have conflicts with scheduled exams, assignment deadlines or required attendance due to a religious observance. Whenever possible, students must notify the instructional faculty member at least two weeks in advance of the expected exam, assignment deadline, or attendance conflict to request an accommodation for religious observance. If the start date of the course is less than two weeks before the date of requested accommodation, students must notify the instructional faculty member on the start date of the course. See the [Student Academic Accommodations for Religious Observances Policy](https://www.colorado.edu/compliance/student-academic-accommodations-religious-observances-policy) for more information.
 
 ## **Preferred Student Names and Pronouns**
 
-CU Boulder recognizes that students' legal information does not always align with how they identify. If you wish to have your preferred name (rather than your legal name) and/or your preferred pronouns appear on your instructors’ class rosters and in Canvas, visit the [Registrar’s website](https://www.colorado.edu/registrar/students/records/info/preferred) for instructions on how to change your personal information in university systems.
+CU Boulder recognizes that students' legal information does not always align with how they identify. If you wish to have a name other than your legal name appear on your instructors’ class rosters and in Canvas, or if you wish to choose pronouns to appear on your instructors’ class rosters and in Canvas, visit the [Registrar’s website](https://www.colorado.edu/registrar/students/records/info/preferred) for instructions on how to change your personal information in university systems.
 
 ## **Classroom Behavior**
 
@@ -139,16 +145,16 @@ Students and faculty are responsible for maintaining an appropriate learning env
 - [Student Classroom and Course-Related Behavior Policy](https://www.colorado.edu/compliance/policies/student-classroom-course-related-behavior).
 - [Student Code of Conduct](https://www.colorado.edu/sccr/students/honor-code-and-student-code-conduct).
 - [Office of Institutional Equity and Compliance](https://www.colorado.edu/oiec/).
-- [Student Code of Conduct](https://www.colorado.edu/sccr/students/honor-code-and-student-code-conduct).
-- [Office of Institutional Equity and Compliance](https://www.colorado.edu/oiec/).
 
 ## **Sexual Misconduct, Discrimination, Harassment and/or Related Retaliation**
 
-CU Boulder is committed to fostering an inclusive and welcoming learning, working, and living environment. University policy prohibits [protected-class](https://www.colorado.edu/oiec/policies/protected-class-nondiscrimination-policy/protected-class-definitions) discrimination and harassment, sexual misconduct (harassment, exploitation, and assault), intimate partner abuse (dating or domestic violence), stalking, and related retaliation by or against members of our community on- and off-campus. The Office of Institutional Equity and Compliance (OIEC) addresses these concerns, and individuals who have been subjected to misconduct can contact OIEC at [303-492-2127](tel:3034922127) or email [OIEC@colorado.edu](mailto:OIEC@colorado.edu). Information about university policies, [reporting options](https://www.colorado.edu/oiec/reporting-resolutions/making-report), and [OIEC support resources](https://www.colorado.edu/oiec/support-resources) including confidential services can be found on the [OIEC website](https://www.colorado.edu/oiec/).
+CU Boulder is committed to fostering an inclusive and welcoming learning, working, and living environment. University policy prohibits [protected-class](https://www.colorado.edu/oiec/policies/protected-class-nondiscrimination-policy/protected-class-definitions) discrimination and harassment, sexual misconduct (harassment, exploitation, and assault), intimate partner abuse (dating or domestic violence), stalking, and related retaliation by or against members of our community on- and off-campus. 
 
-Please know that faculty and graduate instructors are required to inform OIEC when they are made aware of incidents related to these concerns regardless of when or where something occurred. This is to ensure the person impacted receives outreach from OIEC about resolution options and support resources. To learn more about reporting and support a variety of concerns, visit the [Don’t Ignore It page](https://www.colorado.edu/dontignoreit/).
+The [Office of Institutional Equity and Compliance (OIEC)](https://www.colorado.edu/oiec/) addresses these concerns, and individuals who have been subjected to misconduct can contact OIEC at [303-492-2127](tel:3034922127) or email [OIEC@colorado.edu](mailto:OIEC@colorado.edu). Information about university policies, [OIEC reporting options](https://www.colorado.edu/oiec/reporting-resolutions/making-report), and [OIEC support resources](https://www.colorado.edu/oiec/support-resources) including confidential services can be found on the [OIEC website](https://www.colorado.edu/oiec/).
+
+Faculty and graduate instructors are required to inform OIEC when someone discloses misconduct regardless of when or where it occurred. This is to ensure that those impacted receive outreach from OIEC about resolution options and support resources. To learn more about reporting and support options for a variety of concerns, visit the [Don’t Ignore It page](https://www.colorado.edu/dontignoreit/).
 
 ## **Mental Health and Wellness**
 
-The University of Colorado Boulder is committed to the well-being of all students. If you are struggling with personal stressors, mental health or substance use concerns that are impacting academic or daily life, please contact [Counseling and Psychiatric Services (CAPS)](https://www.colorado.edu/counseling/), located in C4C, or call [303-492-2277](tel:3034922277), 24/7.
+The University of Colorado Boulder is committed to supporting students’ mental health and overall wellbeing. If personal, academic, or emotional challenges are affecting your wellbeing or success, [Counseling and Psychiatric Services (CAPS)](https://www.colorado.edu/counseling/) is here to help. CAPS offers counseling, referrals, psychiatric care, crisis support, and much more. Visit CAPS in the C4C, or call [303-492-2277](tel:3034922277), 24/7.
 

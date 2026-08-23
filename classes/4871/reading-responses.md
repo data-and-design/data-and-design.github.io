@@ -1,13 +1,15 @@
 ---
 layout: class
 class_id: 4871
-nav_title: Assignments
+nav_title: Reading Responses
 nav_order: 3
-title: Assignments | INFO 4871
-description: "Assignments for INFO 4871: Design for Accessibility."
+title: "Reading Responses | INFO 4871"
+description: "Reading roles and response requirements for INFO 4871 Design for Accessibility."
 ---
 
-# Assignments
+# Reading Responses
+
+Reading responses are due on days with assigned readings. Check the [schedule](./schedule) to see which days those are. For the three assignments and the final project, see [Assignments](./assignments).
 
 ## Reading Roles
 

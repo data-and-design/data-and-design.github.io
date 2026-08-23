@@ -93,3 +93,35 @@ Optional fields:
 - Add the pdf to `/publications`
   - The pdf filename should match the page filename
   - Update pdf_url in the md page to match
+
+
+## How to update the INFO 4871 Assignment 2 practice site
+
+A2 code is in its own repo: [data-and-design/info-4871-a2](https://github.com/data-and-design/info-4871-a2).
+This repository mounts it as a git submodule at `classes/4871/assignments/a2/practice-site`.
+
+To edit it:
+
+- Make sure submodules are initialized
+
+```
+git submodule update --init --recursive
+```
+
+- Change the practice site and push it.
+
+```
+cd info-4871-a2
+# make your edits
+git commit -am "Describe the change"
+git push
+```
+
+- Point this repository at the new commit.
+
+```
+cd data-and-design.github.io
+git submodule update --remote classes/4871/assignments/a2/practice-site
+git commit -am "Update A2 practice site"
+git push
+```
