@@ -9,7 +9,7 @@ description: "Reading roles and response requirements for INFO 4871 Design for A
 
 # Reading Responses
 
-Reading responses are due on days with assigned readings. Check the [schedule](./schedule) to see which days those are. For the three assignments and the final project, see [Assignments](./assignments).
+Reading responses are due on days with assigned readings. Check the [schedule](./schedule) to see which days those are.
 
 ## Reading Roles
 
