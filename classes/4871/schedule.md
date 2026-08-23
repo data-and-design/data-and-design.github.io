@@ -149,8 +149,8 @@ Optional (Grad student recommended):
 #### In class — software studio
 
 - Automated accessibility testing with axe and pa11y
-- WCAG 2.2 as a diagnostic instrument
-- ARIA + foucs management
+- WCAG 2.2 and conformance-based evaluation
+- ARIA + focus management
 
 <h2 id="week-6">Week 6 — Crip Technoscience: Disabled Knowing and Making</h2>
 
