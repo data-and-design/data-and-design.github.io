@@ -159,6 +159,9 @@ Optional (Grad student recommended):
 #### Readings
 - Hamraie, Aimi, and Kelly Fritsch. **"Crip Technoscience Manifesto."** *Catalyst: Feminism, Theory, Technoscience* 5, no. 1 (2019): 1. <https://catalystjournal.org/index.php/catalyst/article/view/29607/24772>.
 
+If you are confused:
+- Read the talk transcript in Canvas
+
 #### In class
 - Guest Lecture: Sid Cook
 
@@ -215,6 +218,7 @@ Optional (Grad student recommended):
     - Rotation 2: [**Connector**](./reading-responses#connector)
     - Rotation 3: [**Design Translator**](./reading-responses#design-translator)
     - Rotation 4: [**Argument Analyst**](./reading-responses#argument-analyst)
+- Mid-semester feedback survey
 
 ### October 14 (Wednesday)
 
