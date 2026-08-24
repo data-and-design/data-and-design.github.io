@@ -60,7 +60,7 @@ Consider these questions as you prototype:
 
 Implement the design as a web interface that you can test with a screen reader.
 
-**At the October 21 checkpoint**, submit Parts 1 through 3 plus a running prototype that can be tested. The prototype does not have to be perfect or finished, but there should be a first complete draft of a structure, navigation, and description.
+**At the October 21 checkpoint**, submit Part 1 plus a running prototype that can be tested. The prototype does not have to be perfect or finished, but there should be a first complete draft of a structure, navigation, and description.
 
 ## Part 3: Test and revise
 
