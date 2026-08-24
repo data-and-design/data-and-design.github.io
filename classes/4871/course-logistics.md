@@ -70,7 +70,7 @@ That being said, things happen outside of our control. I am happy to work with s
 
 In particular, **do not come to class if you are sick**. It is important to rest when you are not feeling well, and your classmates do not want to become sick too. This is important for disability inclusion, as we want class space to be welcoming for people e.g. who are immunocompromised.
 
-**Zoom option:** Although this is primarily an in-person class, you may message me in advance (before the start of class) requesting a Zoom link. Your request needs to contain a valid reason that you cannot make it to class. I will make Zoom available on a case-by-case basis. If you need a Zoom link more regularly for accessibility reasons, please email the instructor.
+**Zoom option:** Although this is primarily an in-person class, you may message me in advance (at least 1 hour before the start of class) requesting a Zoom link. Your request needs to contain a valid reason that you cannot make it to class. I will make Zoom available on a case-by-case basis. If you need a Zoom link more regularly for accessibility reasons, please email the instructor.
 
 ## Late Work Policy
 Students are expected to read assigned readings and to complete assignments by the due dates indicated in the course schedule. Understanding the readings properly is extremely important. Make sure you give yourself plenty of time to read, comprehend, and reflect on the readings every week.
