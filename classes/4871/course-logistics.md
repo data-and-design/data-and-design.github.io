@@ -28,8 +28,8 @@ description: Information and course policies for INFO 4871 Design for Accessibil
 
 | **Grade component**  | **Weight**  | 
 |---|---|
-| Participation  | 25%  | 
-| Reading responses  | 25%  |
+| Participation  | 20%  | 
+| Reading responses  | 30%  |
 | Assignments 1–3  | 30%  | 
 | Final project  | 20%  | 
 |---|---|

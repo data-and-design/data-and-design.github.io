@@ -67,7 +67,7 @@ Groups will present in class or at the INFO Showcase.
 
 Write the final deliverable as a design portfolio page (the kind of page you would show off on your professional website to a prospective employer).
 
-Submit it one of two ways. Make a doc and upload it to Canvas. Or publish a public page on your own website and send me the URL.
+Submit it one of two ways. Make a doc and upload it to Canvas. Or publish a public page on your own website and upload the URL.
 
 With your permission, I will collect the public pages into a gallery on the class website as examples for future students. Tell me when you submit whether I can add your page to that gallery.
 
