@@ -45,7 +45,7 @@ Grad students will work on their own or in small groups. Talk to me first if you
 If you are proposing your own project, write a pitch that answers these questions:
 
 - What is the problem?
-- How do you know this is a real problem disabled people experience? Draw on a team member's own experience, to published research, or to something you observed in Assignments 1 through 3.
+- How do you know this is a real problem disabled people experience? Draw on a team member's own experience, published research, or something you observed in Assignments 1 through 3.
 - What are you proposing to build?
 - How will you build it? Include a task breakdown, a week-by-week plan, and how the work divides across the team.
 - How will you evaluate it?
