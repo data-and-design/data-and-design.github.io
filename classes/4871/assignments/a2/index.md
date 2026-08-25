@@ -109,7 +109,9 @@ One `.patch` file carrying all your repairs, produced by following [Making the p
 
 Serve your local copy of the site at a `localhost` address and run both checkers on that address. This is necessary because browsers block extensions from reading pages opened straight from disk (i.e. from a `file://` address).
 
-I recommend running each checker once well before the assignment is due. The first run downloads its own copy of Chrome, which takes several minutes and a few hundred megabytes. Later runs will start immediately.
+Both checkers load the page in an actual copy of Chrome, then parse the rendered output—including the DOM, the computed CSS, the browser's accessibility tree. Then, they check the result against a fixed list of rules. That's why the first run of each tool downloads its own copy of Chrome, which takes several minutes and a few hundred megabytes. I recommend doing that once, well before the assignment is due, so later runs start immediately.
+
+Because these tools are automated and rule-based, they are limited in what they can find. For example, it's easy to detect that an alt text is missing because that's a fact about the markup. But it's harder to detect that an alt text doesn't actually describe the image, because that requires understanding what the image is communicating. Keep that distinction in mind as you read the output, and again when you do your manual pass to catch accessibility issues that can't be automatically detected.
 
 ### 1. Get the site
 
@@ -142,7 +144,7 @@ Tip: you can drag the folder from Finder or File Explorer onto the terminal wind
 Then start the server:
 
 ```
-npx -y http-server
+npx http-server
 ```
 
 When you run the server, the terminal will print a couple of addresses and then stop printing, which means it is running and waiting for requests. Leave that terminal window open and untouched for as long as you are auditing, and press Ctrl-C in it when you finish to close the server.
@@ -158,7 +160,7 @@ Use either the extension or the command line.
 **In the terminal.** Run this in your second terminal window:
 
 ```
-npx -y @axe-core/cli http://localhost:8080/events.html
+npx @axe-core/cli http://localhost:8080/events.html
 ```
 
 The command prints each broken rule, the number of elements that broke it, a CSS selector for each of those elements, and a link to Deque's writeup of the rule.
@@ -166,7 +168,7 @@ The command prints each broken rule, the number of elements that broke it, a CSS
 ### 5. Run pa11y
 
 ```
-npx -y pa11y http://localhost:8080/events.html
+npx pa11y http://localhost:8080/events.html
 ```
 
 pa11y checks against WCAG level AA. For each error it prints the success criterion, a CSS selector, and the beginning of the offending HTML. The output uses pa11y's own notation, so `WCAG2AA.Principle1.Guideline1_4.1_4_3.G18.Fail` is success criterion 1.4.3, Contrast (Minimum).
@@ -180,7 +182,7 @@ Swap `events.html` for `event.html`, `seats.html`, `checkout.html`, and `confirm
 Add `> filename.txt` to the end of a command to write its output into a file instead of onto the screen:
 
 ```
-npx -y pa11y http://localhost:8080/seats.html > pa11y-seats.txt
+npx pa11y http://localhost:8080/seats.html > pa11y-seats.txt
 ```
 
 Nothing prints when you do this, because the text went into the file. The file is saved in the terminal's current folder, which you can check with `pwd`.
@@ -197,9 +199,14 @@ Nothing prints when you do this, because the text went into the file. The file i
 
 ## Making the patch file
 
-A patch is a plain text file listing every line you changed. Produce it with git.
+A patch file contains the diff between two states of the code: what it looked like before your repairs, and what it looks like after. 
 
-**1. Snapshot the site before you touch it.** Open a terminal in the folder holding the downloaded files and run:
+**1. Snapshot the site before you touch it.** 
+To compute that diff, git needs a baseline "before" to measure against.
+Before you change anything, you need to make one commit that represents the initial state of the site.
+If you cloned the repository, the clone already has a git history with an initial commit, so skip to step 2.
+
+Open a terminal in the folder holding the downloaded files and run:
 
 ```
 git init
@@ -207,9 +214,9 @@ git add -A
 git commit -m "Unmodified site"
 ```
 
-If you cloned the repository you don't need to do this, so skip to step 2.
+**2. Make your repairs.** Edit the HTML, CSS, and JavaScript as normal.
 
-**2. Make your repairs.** Edit the HTML, CSS, and JavaScript as normal. Do not commit as you go. The snapshot from step 1 is the only commit you need.
+Note: If you commit partway through, you'll need to generate the diff against the initial commit's hash instead. I recommend not committing as you go, unless you feel comfortable working with git history.
 
 **3. Read your changes back.**
 
@@ -217,13 +224,15 @@ If you cloned the repository you don't need to do this, so skip to step 2.
 git diff
 ```
 
-Read the output before you go further. If it lists files you did not mean to touch, or shows every line of a file as changed, fix that now.
+This compares your working files against the step 1 snapshot and prints every line that differs. Read the output before you go further. If it lists files you did not mean to touch, or shows every line of a file as changed, fix that now.
 
 **4. Write the patch.**
 
 ```
 git diff > ../lastname-a2.patch
 ```
+
+This is the same `git diff` from step 3, just redirected into a file with `>` instead of printed to the screen.
 
 Put your own last name in the filename. The `../` writes the patch to the folder above the site, so the patch stays out of the next patch you generate. Upload the `.patch` file to Canvas.
 
