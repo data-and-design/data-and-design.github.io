@@ -22,7 +22,7 @@ Each student must read the assigned readings carefully before class. In addition
 
 ## Which role am I this week?
 
-1. In Canvas, under the "People" tab, check which group you are assigned to in the "Reading response rotation" tab.
+1. In Canvas, under the "People" tab, check which Reading Response group you are assigned to in the "Groups" tab.
 2. Go to the [schedule](./schedule) and check the current week.
 3. Do the reading response role that is assigned to your group number for that week. Your group number will never change, but the role will change each week.
 
