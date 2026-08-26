@@ -55,10 +55,10 @@ Optional (Grad student recommended):
 
 #### Due
 - [Reading responses](./reading-responses)
-    - Rotation 1: [**Argument Analyst**](./reading-responses#argument-analyst)
-    - Rotation 2: [**Concept Keeper**](./reading-responses#concept-keeper)
-    - Rotation 3: [**Connector**](./reading-responses#connector)
-    - Rotation 4: [**Design Translator**](./reading-responses#design-translator)
+    - Group 1: [**Argument Analyst**](./reading-responses#argument-analyst)
+    - Group 2: [**Concept Keeper**](./reading-responses#concept-keeper)
+    - Group 3: [**Connector**](./reading-responses#connector)
+    - Group 4: [**Design Translator**](./reading-responses#design-translator)
 - Start of semester survey
 
 <h2 id="week-2">Week 2 — Extending Capabilities, Not Fixing Deficits</h2>
@@ -73,10 +73,10 @@ Optional:
 
 #### Due
 - [Reading responses](./reading-responses)
-    - Rotation 1: [**Design Translator**](./reading-responses#design-translator)
-    - Rotation 2: [**Argument Analyst**](./reading-responses#argument-analyst)
-    - Rotation 3: [**Concept Keeper**](./reading-responses#concept-keeper)
-    - Rotation 4: [**Connector**](./reading-responses#connector)
+    - Group 1: [**Design Translator**](./reading-responses#design-translator)
+    - Group 2: [**Argument Analyst**](./reading-responses#argument-analyst)
+    - Group 3: [**Concept Keeper**](./reading-responses#concept-keeper)
+    - Group 4: [**Connector**](./reading-responses#connector)
 
 ### September 2 (Wednesday)
 
@@ -98,10 +98,10 @@ Optional:
 #### Due
 - [Assignment 1: Screen Reader Familiarization](./assignments/a1/)
 - [Reading responses](./reading-responses)
-    - Rotation 1: [**Connector**](./reading-responses#connector)
-    - Rotation 2: [**Design Translator**](./reading-responses#design-translator)
-    - Rotation 3: [**Argument Analyst**](./reading-responses#argument-analyst)
-    - Rotation 4: [**Concept Keeper**](./reading-responses#concept-keeper)
+    - Group 1: [**Connector**](./reading-responses#connector)
+    - Group 2: [**Design Translator**](./reading-responses#design-translator)
+    - Group 3: [**Argument Analyst**](./reading-responses#argument-analyst)
+    - Group 4: [**Concept Keeper**](./reading-responses#concept-keeper)
 
 <h2 id="week-4">Week 4 — Against Technoableism (Part 2)</h2>
 
@@ -113,10 +113,10 @@ Optional:
 
 #### Due
 - [Reading responses](./reading-responses)
-    - Rotation 1: [**Concept Keeper**](./reading-responses#concept-keeper)
-    - Rotation 2: [**Connector**](./reading-responses#connector)
-    - Rotation 3: [**Design Translator**](./reading-responses#design-translator)
-    - Rotation 4: [**Argument Analyst**](./reading-responses#argument-analyst)
+    - Group 1: [**Concept Keeper**](./reading-responses#concept-keeper)
+    - Group 2: [**Connector**](./reading-responses#connector)
+    - Group 3: [**Design Translator**](./reading-responses#design-translator)
+    - Group 4: [**Argument Analyst**](./reading-responses#argument-analyst)
 
 ### September 16 (Wednesday)
 
@@ -139,10 +139,10 @@ Optional (Grad student recommended):
 
 #### Due
 - [Reading responses](./reading-responses)
-    - Rotation 1: [**Argument Analyst**](./reading-responses#argument-analyst)
-    - Rotation 2: [**Concept Keeper**](./reading-responses#concept-keeper)
-    - Rotation 3: [**Connector**](./reading-responses#connector)
-    - Rotation 4: [**Design Translator**](./reading-responses#design-translator)
+    - Group 1: [**Argument Analyst**](./reading-responses#argument-analyst)
+    - Group 2: [**Concept Keeper**](./reading-responses#concept-keeper)
+    - Group 3: [**Connector**](./reading-responses#connector)
+    - Group 4: [**Design Translator**](./reading-responses#design-translator)
 
 ### September 23 (Wednesday)
 
@@ -165,10 +165,10 @@ Optional (Grad student recommended):
 
 #### Due
 - [Reading responses](./reading-responses)
-    - Rotation 1: [**Design Translator**](./reading-responses#design-translator)
-    - Rotation 2: [**Argument Analyst**](./reading-responses#argument-analyst)
-    - Rotation 3: [**Concept Keeper**](./reading-responses#concept-keeper)
-    - Rotation 4: [**Connector**](./reading-responses#connector)
+    - Group 1: [**Design Translator**](./reading-responses#design-translator)
+    - Group 2: [**Argument Analyst**](./reading-responses#argument-analyst)
+    - Group 3: [**Concept Keeper**](./reading-responses#concept-keeper)
+    - Group 4: [**Connector**](./reading-responses#connector)
 
 ### September 30 (Wednesday) — No Class
 
@@ -190,10 +190,10 @@ Optional:
 
 #### Due
 - [Reading responses](./reading-responses)
-    - Rotation 1: [**Connector**](./reading-responses#connector)
-    - Rotation 2: [**Design Translator**](./reading-responses#design-translator)
-    - Rotation 3: [**Argument Analyst**](./reading-responses#argument-analyst)
-    - Rotation 4: [**Concept Keeper**](./reading-responses#concept-keeper)
+    - Group 1: [**Connector**](./reading-responses#connector)
+    - Group 2: [**Design Translator**](./reading-responses#design-translator)
+    - Group 3: [**Argument Analyst**](./reading-responses#argument-analyst)
+    - Group 4: [**Concept Keeper**](./reading-responses#concept-keeper)
 
 ### October 7 (Wednesday) — No Class
 
@@ -212,10 +212,10 @@ Optional (Grad student recommended):
 #### Due
 - [Assignment 2: Accessibility Auditing and Remediation](./assignments/a2/)
 - [Reading responses](./reading-responses)
-    - Rotation 1: [**Concept Keeper**](./reading-responses#concept-keeper)
-    - Rotation 2: [**Connector**](./reading-responses#connector)
-    - Rotation 3: [**Design Translator**](./reading-responses#design-translator)
-    - Rotation 4: [**Argument Analyst**](./reading-responses#argument-analyst)
+    - Group 1: [**Concept Keeper**](./reading-responses#concept-keeper)
+    - Group 2: [**Connector**](./reading-responses#connector)
+    - Group 3: [**Design Translator**](./reading-responses#design-translator)
+    - Group 4: [**Argument Analyst**](./reading-responses#argument-analyst)
 - Mid-semester feedback survey
 
 ### October 14 (Wednesday)
@@ -238,10 +238,10 @@ Optional (Grad student recommended):
 
 #### Due
 - [Reading responses](./reading-responses)
-    - Rotation 1: [**Argument Analyst**](./reading-responses#argument-analyst)
-    - Rotation 2: [**Concept Keeper**](./reading-responses#concept-keeper)
-    - Rotation 3: [**Connector**](./reading-responses#connector)
-    - Rotation 4: [**Design Translator**](./reading-responses#design-translator)
+    - Group 1: [**Argument Analyst**](./reading-responses#argument-analyst)
+    - Group 2: [**Concept Keeper**](./reading-responses#concept-keeper)
+    - Group 3: [**Connector**](./reading-responses#connector)
+    - Group 4: [**Design Translator**](./reading-responses#design-translator)
 
 ### October 21 (Wednesday)
 
@@ -268,10 +268,10 @@ Optional:
 
 #### Due
 - [Reading responses](./reading-responses)
-    - Rotation 1: [**Design Translator**](./reading-responses#design-translator)
-    - Rotation 2: [**Argument Analyst**](./reading-responses#argument-analyst)
-    - Rotation 3: [**Concept Keeper**](./reading-responses#concept-keeper)
-    - Rotation 4: [**Connector**](./reading-responses#connector)
+    - Group 1: [**Design Translator**](./reading-responses#design-translator)
+    - Group 2: [**Argument Analyst**](./reading-responses#argument-analyst)
+    - Group 3: [**Concept Keeper**](./reading-responses#concept-keeper)
+    - Group 4: [**Connector**](./reading-responses#connector)
 
 ### October 28 (Wednesday)
 
@@ -292,10 +292,10 @@ Optional:
 
 #### Due
 - [Reading responses](./reading-responses)
-    - Rotation 1: [**Connector**](./reading-responses#connector)
-    - Rotation 2: [**Design Translator**](./reading-responses#design-translator)
-    - Rotation 3: [**Argument Analyst**](./reading-responses#argument-analyst)
-    - Rotation 4: [**Concept Keeper**](./reading-responses#concept-keeper)
+    - Group 1: [**Connector**](./reading-responses#connector)
+    - Group 2: [**Design Translator**](./reading-responses#design-translator)
+    - Group 3: [**Argument Analyst**](./reading-responses#argument-analyst)
+    - Group 4: [**Concept Keeper**](./reading-responses#concept-keeper)
 
 ### November 4 (Wednesday)
 
@@ -321,10 +321,10 @@ Optional (strongly recommended):
 
 #### Due
 - [Reading responses](./reading-responses)
-    - Rotation 1: [**Concept Keeper**](./reading-responses#concept-keeper)
-    - Rotation 2: [**Connector**](./reading-responses#connector)
-    - Rotation 3: [**Design Translator**](./reading-responses#design-translator)
-    - Rotation 4: [**Argument Analyst**](./reading-responses#argument-analyst)
+    - Group 1: [**Concept Keeper**](./reading-responses#concept-keeper)
+    - Group 2: [**Connector**](./reading-responses#connector)
+    - Group 3: [**Design Translator**](./reading-responses#design-translator)
+    - Group 4: [**Argument Analyst**](./reading-responses#argument-analyst)
 
 ### November 11 (Wednesday) — No Class
 
@@ -340,10 +340,10 @@ Optional:
 
 #### Due
 - [Reading responses](./reading-responses)
-    - Rotation 1: [**Argument Analyst**](./reading-responses#argument-analyst)
-    - Rotation 2: [**Concept Keeper**](./reading-responses#concept-keeper)
-    - Rotation 3: [**Connector**](./reading-responses#connector)
-    - Rotation 4: [**Design Translator**](./reading-responses#design-translator)
+    - Group 1: [**Argument Analyst**](./reading-responses#argument-analyst)
+    - Group 2: [**Concept Keeper**](./reading-responses#concept-keeper)
+    - Group 3: [**Connector**](./reading-responses#connector)
+    - Group 4: [**Design Translator**](./reading-responses#design-translator)
 
 ### November 18 (Wednesday)
 
