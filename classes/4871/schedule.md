@@ -336,6 +336,7 @@ Optional (strongly recommended):
 - Whittaker, Meredith, Meryl Alper, Cynthia L. Bennett, Sara Hendren, Elizabeth Kaziunas, Mara Mills, Meredith Ringel Morris, Joy Lisi Rankin, Emily Rogers, Marcel Salas, and Sarah Myers West. **"Disability, Bias & AI Report."** AI Now Institute, November 20, 2019. <https://ainowinstitute.org/publications/disabilitybiasai-2019>
 
 Optional:
+- Jonathan Zong, Frank Elavsky. **The Web Is Being Made Accessible for AI, Not People.** Tech Policy Press, May 20, 2026. <https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/>.
 - **"ASAN Says No Generative AI in Plain Language."** Autistic Self Advocacy Network, July 29, 2025. <https://autisticadvocacy.org/2025/07/asan-says-no-generative-ai-in-plain-language/>.
 
 #### Due
