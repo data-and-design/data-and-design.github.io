@@ -1,5 +1,5 @@
 ---
-title: Pointing at Data Together: Establishing Common Ground with Multi-modal Data Representations in Blind/Sighted Collaboration
+title: "Pointing at Data Together: Establishing Common Ground with Multi-modal Data Representations in Blind/Sighted Collaboration"
 authors:
   - key: jzong
   - key: arvindsatya
