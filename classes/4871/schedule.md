@@ -83,6 +83,9 @@ Optional:
 #### In class — software studio
 
 - Screen readers and keyboard navigation
+    - Install before class:
+        - Mac: VoiceOver (built in to Mac)
+        - Windows: [NVDA](https://www.nvaccess.org/download/)
 - [Assignment 1](./assignments/a1/) assigned
 
 <h2 id="week-3">Week 3 — Against Technoableism (Part 1)</h2>
