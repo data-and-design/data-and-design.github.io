@@ -2,6 +2,10 @@
 
 ## How to dev dnd website
 
+- Verify your ruby install
+    - If you are on Mac, you cannot use the included system ruby. Use [`rbenv`](https://github.com/rbenv/rbenv) to manage your ruby install.
+    - [Helpful guide](https://snyk.io/blog/how-to-install-ruby-in-mac-os/)
+
 - Install Jekyll ([instructions](https://jekyllrb.com/docs/installation/macos/))
 - Install bundler
 
